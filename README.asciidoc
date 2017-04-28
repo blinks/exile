@@ -11,6 +11,11 @@ as https://en.wikipedia.org/wiki/Gaia_hypothesis[Gaia], with her eyes and ears
 on the planet itself, its flora and fauna, and the neutral colonists.  The rest
 of the players lead factions that compete for control and power in _Exile_.
 
+NOTE: For now, we'll just use the normal AW 2d6 roll for a core mechanism, with
+      10+ = yes, and; 7-9 = yes, but; 6- = no, and.
+
+
+
 = The first session
 image::img/boarding.png[]
 
@@ -111,18 +116,14 @@ NOTE: TODO: Playbook questions, including bonds.
 ** 6: Miraculously, everything's fine.
 . Ask who's in charge.
 
-NOTE: TODO: Other planetfall questions, like a built-in adventure starter.
+* TODO: Other planetfall questions, like a built-in adventure starter.
+* TODO: "Dungeon generator" for the crashed ship (complete w/"magic" items).
+* TODO: "Perilous Wilds" exploration for the planet (flora, fauna, etc.).
 
 = Play
 image::img/salvage.png[]
 
 == Survival
-
-Salvage:: When you delve into the ship ...
-
-Gather:: When you gather the planet's flora ...
-
-Hunt:: When you hunt the planet's fauna, ...
 
 Invent:: When you use the planet's resources for your own purpose, tell Gaia
 what you're trying to achieve.  Gaia will give you one to four of the following
@@ -261,7 +262,5 @@ course: some are totally unconscious.  Parallel development is also a thing.
 - [[[ars]]] Jonathan Tweet & Mark Rein·Hagen. _Ars Magica_. 1987.
 - [[[bw]]] Luke Crane. _Burning Wheel_. 2002.
 - [[[ditv]]] D. Vincent Baker. _Dogs in the Vineyard_. 2004.
-- [[[dread]]] Epidiah Ravachol & Nathaniel Barmore, _Dread_, 2005.
 - [[[aw]]] D. Vincent Baker. _Apocalypse World_. 2010.
 - [[[dw]]] Adam Koebel & Sage LaTorra. _Dungeon World_. 2012.
-- [[[u]]] Paul Riddle. _Undying_. 2015.
