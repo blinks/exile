@@ -99,6 +99,10 @@ NOTE: TODO: Playbook questions, including bonds.
 == Planetfall
 
 . Draw an X in the middle of your map.  This is the crash site.
+. Talk about what you notice on the new planet: sights, smells, sounds, flora,
+  fauna, the weather, the landscape.  Get about twenty of these first
+  impressions on paper.  Gaia should press for details to make sure everyone's
+  on the same page, and flesh the world out even further.
 
 * TODO: Planetfall questions, like a built-in adventure starter.
 * TODO: "Dungeon generator" for the crashed ship (complete w/"magic" items).
