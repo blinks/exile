@@ -11,82 +11,10 @@ as https://en.wikipedia.org/wiki/Gaia_hypothesis[Gaia], with her eyes and ears
 on the planet itself, its flora and fauna, and the neutral colonists.  The rest
 of the players lead factions that compete for control and power in _Exile_.
 
-Your gaming group gathers for a few hours to play a session. During your first
-session, you collaboratively describe the colony where the story is set; in
-particular, the different desires that factions organize around.  Then you make
-planetfall.
-
-== Setting up to play
-Get three to five people, including you.  One will play Gaia, the rest will
-take control of colonists.  This is Gaia's playbook, so give it to her.
-
-== The conversation
-I'm going to quote D. Vincent Baker <<aw>> here and annotate it like a Zen
-koan, if that's acceptable:
-
-> You probably know this already: roleplaying is a conversation.  You and the
-> other players go back and forth, talking about these fictional characters in
-> their fictional circumstances doing whatever it is that they do.
-
-Oddly for roleplaying games, _Exile_ make each player (not just Gaia)
-responsible for multiple characters directly.  This is sometimes referred to as
-"troupe play", from _Ars Magica_ <<ars>>.
-
-> Like any conversation, you take turns, but it’s not like taking turns, right?
-> Sometimes you talk over each other, interrupt, build on each others’ ideas,
-> monopolize. All fine.
-
-_Exile_ is about an alien planet.  It's strange.  If you leave all the details
-of the planet up to Gaia, it'll be a kind of strange strongly flavored by her
-experience alone.  Each player should contribute their own strange.  Strange
-needs spice.
-
-> All these rules do is mediate the conversation. They kick in when someone
-> says some particular things, and they impose constraints on what everyone
-> should say after. Makes sense, right?
-
-Right.
-
-== Sources of truth
-As you play _Exile_, you'll be building a body of *truth* about the world of
-the game and the people who inhabit it.
-
-It's important to remember (especially if you come from other games) that there
-are three main sources of truth:
-
-. The players.  If someone says something and nobody argues, it's true.  Write
-  it down.
-. The dice.  If the rules are kicking in and dice are thrown, the rules will
-  tell you what's true.  Write it down.
-. The maps.  If something is already down on the map, it's true until it's
-  crossed out.
-
-Once something's true, don't waste time arguing it.  In Luke Crane's _Burning
-Wheel_, this is called the *Let it Ride* rule:
-
-> A player shall test once against an obstacle and shall not roll again until
-> conditions legitimately and drastically change. <<bw>>
-
-In _Exile_, this translates: the written truth is not something you can easily
-argue.  If a guild wins a conflict intending to control all scientific output
-from a society, they control it.  The society can't argue the matter until they
-can legitimately and drastically change the situation.  Good luck.
-
 = The first session
 image::img/boarding.png[]
 
-== Faction creation
-
-Pick something external that your colonist's faction is organized around,
-perhaps a bloodline, wealth, or a shared belief system.  Take the associated
-playbook.
-
-Oh, playbooks: A playbook is an archetypical description, a guide for the
-creation of a faction.  Each playbook paints a faction in broad strokes,
-differentiating them through playbook-specific moves.  Each playbook pushes a
-theme that you build upon and explore in play.
-
-The playbooks in _Exile_ are:
+== Factions
 
 * The *Artificium*, a faction of newly-sentient robots.
 * The *Corps*, accidental colonists.
@@ -95,8 +23,6 @@ The playbooks in _Exile_ are:
 * The *House*, an aristocracy tied together by bloodline.
 * The *Religion*, a congregation tied together by a shared belief.
 * The *Society*, tied together by curiosity and a desire for knowledge.
-
-Each playbook has a set of characters that you start with.  Name them.
 
 === Artificium
 Before the fall, robots assisted in (or performed) all colony ship duties.  As
@@ -171,17 +97,18 @@ NOTE: TODO: Playbook questions, including bonds.
 . Your ship is ripped open by the crash, and the planet's air rushes in --
   fortunately breathable.  Gaia should describe the feel of it (how hot or
   cold, dry or wet, how it smells or tastes).
-. Something on the ship is now broken beyond repair. Choose or draw:
-** Coins: The food replication and water recycling systems were both
+. Something on the ship is now broken beyond repair. Choose or roll d6:
+** 1: Roll twice more and use both results.  (Ignore further 1s.)
+** 2: The food replication and water recycling systems were both
    destroyed.  You were just about to grab a bite, too.  [Changes the
    starvation move?]
-** Wands: Sparks fly from the computer system, which held all of ancient
+** 3: Sparks fly from the computer system, which held all of ancient
    Earth's knowledge.  [Changes the invent move?]
-** Cups: The landing wasn't gentle enough for the medical supplies, which are
+** 4: The landing wasn't gentle enough for the medical supplies, which are
    now impossible to salvage.  [Changes the gather move?]
-** Swords: The armory destroys itself in a massive explosion.  You'll have to
+** 5: The armory destroys itself in a massive explosion.  You'll have to
    rely on primitive weapons.  [Changes the hunt move?]
-. Deal cards until each player has five.
+** 6: Miraculously, everything's fine.
 . Ask who's in charge.
 
 NOTE: TODO: Other planetfall questions, like a built-in adventure starter.
@@ -191,39 +118,11 @@ image::img/salvage.png[]
 
 == Survival
 
-Salvage:: When you delve into the ship for supplies, describe what you're
-looking for, who's on the salvage operation, and draw, one card at a time.
-With each card, Gaia will ask you a question about what you find in the ship
-and what it means.  You may stop drawing whenever you want.
+Salvage:: When you delve into the ship ...
 
-If you go over 21 (Aces count as 1 or 11, your choice), Gaia will describe what
-happens.  Either way, Gaia will tick the ship's salvage countdown -- when it's
-full, nothing else can be usefully gotten from the ship.
+Gather:: When you gather the planet's flora ...
 
-TIP: Play _Dread_.  No, seriously.
-
-Gather:: When you gather the planet's flora, describe your gathering party and
-draw a card.  Gaia will ask you two questions about the region:
-
-* What kind of plants grow in this region?
-* What kind of animal sounds do you hear?
-* What does the region's terrain look like?
-* What do you see on the horizon?
-
-She'll write down the answers and then do something off-screen.
-
-Hunt:: When you hunt the planet's fauna, describe your hunting party and commit
-one or more cards.  Choose how many cards Gaia will commit.  For each, she will
-ask a question about the fauna you hunt:
-
-* What do they look/sound/smell like?
-* Aside from you, what hunts them?
-* What do they eat?
-* How do they protect themselves?
-
-Reveal all committed cards.  If you win, take Gaia's cards and keep your own --
-describe how you were successful.  If you lose, Gaia will describe what
-happens.
+Hunt:: When you hunt the planet's fauna, ...
 
 Invent:: When you use the planet's resources for your own purpose, tell Gaia
 what you're trying to achieve.  Gaia will give you one to four of the following
@@ -235,62 +134,6 @@ conditions:
 * It will require a massive harvest of resources
 * The best you can do is a simpler version, unreliable and limited
 * You'll have to take __ apart to do it
-
-TIP: Take a look at _Apocalypse World_ and Savvyhead's workspace, or _Dungeon
-World_ and the Wizard's ritual.
-
-== Conflict
-
-All interested factions describe how they're involved and ante up by committing
-a card.
-
-NOTE: "Commit" means to place a card from your hand face-down on the table.
-_Cards are not linked to specific characters_: If the King of Spades is
-Historian Sarah in one conflict, it can be Soldier Anne in the next.  Your
-cards act as a limit on what your faction can do.
-
-Once everyone has anted, players take turns choosing one of the following
-options, until there is no further escalation:
-
-Raise:: You escalate, turning the tables on your adversary.  Commit another
-card, and describe what new resources you bring to bear.
-Call:: You counter, stopping your adversary in their tracks.  Describe how
-you're holding out with your current resources.
-Fold:: You relent, accepting the consequences as established.  Once you fold,
-you forfeit the opportunity to call or raise even if the conflict continues.
-You are no longer a factor until after the conflict has resolved.
-
-If only one faction is left after escalation ends, they keep their committed
-cards without revealing them.
-
-If multiple factions are left after escalation ends, they simultaneously reveal
-all committed cards.  Players may then grant cards to one another to improve
-the situation, but all committed cards stay committed.
-
-The highest poker hand wins, and achieves their intent.  The winner decides the
-fate of each character, but that character's player decides how they arrive at
-that fate.  All committed cards are discarded.
-
-Starvation:: At the end of a conflict, if you have fewer cards in your hand
-than named characters in your faction, choose a character: Gaia decides their
-fate.  Draw a card.
-
-Write down the fate of your characters on your faction sheet.  Cross out the
-names of those who have died.  If all your characters have died, your faction
-is in danger of disappearing: reveal your hand, and compare it to a card Gaia
-draws from the deck.
-
-If your hand beats Gaia's, your faction survives: create a new character for
-the first character role on your playbook, and describe how they pull the
-faction back from oblivion.  If not, your faction disappears, describe how the
-remaining members reassimilate into the colony.
-
-TIP: Take a look at _Dungeon World_ and the Last Breath move.
-
-When a faction disappears, it's a good time to take a quick break, decide
-whether you want to switch player roles (perhaps someone who just lost their
-faction wants to play Gaia), and potentially create a new faction to fill the
-hole.
 
 = Gaia
 image::img/planetfall-bw.png[]
