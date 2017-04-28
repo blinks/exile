@@ -99,24 +99,8 @@ NOTE: TODO: Playbook questions, including bonds.
 == Planetfall
 
 . Draw an X in the middle of your map.  This is the crash site.
-. Your ship is ripped open by the crash, and the planet's air rushes in --
-  fortunately breathable.  Gaia should describe the feel of it (how hot or
-  cold, dry or wet, how it smells or tastes).
-. Something on the ship is now broken beyond repair. Choose or roll d6:
-** 1: Roll twice more and use both results.  (Ignore further 1s.)
-** 2: The food replication and water recycling systems were both
-   destroyed.  You were just about to grab a bite, too.  [Changes the
-   starvation move?]
-** 3: Sparks fly from the computer system, which held all of ancient
-   Earth's knowledge.  [Changes the invent move?]
-** 4: The landing wasn't gentle enough for the medical supplies, which are
-   now impossible to salvage.  [Changes the gather move?]
-** 5: The armory destroys itself in a massive explosion.  You'll have to
-   rely on primitive weapons.  [Changes the hunt move?]
-** 6: Miraculously, everything's fine.
-. Ask who's in charge.
 
-* TODO: Other planetfall questions, like a built-in adventure starter.
+* TODO: Planetfall questions, like a built-in adventure starter.
 * TODO: "Dungeon generator" for the crashed ship (complete w/"magic" items).
 * TODO: "Perilous Wilds" exploration for the planet (flora, fauna, etc.).
 
