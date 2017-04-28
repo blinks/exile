@@ -16,19 +16,9 @@ session, you collaboratively describe the colony where the story is set; in
 particular, the different desires that factions organize around.  Then you make
 planetfall.
 
-Gameplay in _Exile_ is like a rollercoaster: while the status quo reigns, the
-game slowly ratchets up to a peak.  When the status quo breaks, the game falls.
-
-TIP: Play _Undying_.
-
 == Setting up to play
 Get three to five people, including you.  One will play Gaia, the rest will
 take control of colonists.  This is Gaia's playbook, so give it to her.
-
-You'll also need a deck of tarot cards and some pencils and paper for keeping
-track of things like the planetary map and who's who.  When the players aren't
-sure what's obviously going to happen, we turn to the maps and the cards to
-figure it out.
 
 == The conversation
 I'm going to quote D. Vincent Baker <<aw>> here and annotate it like a Zen
@@ -37,8 +27,6 @@ koan, if that's acceptable:
 > You probably know this already: roleplaying is a conversation.  You and the
 > other players go back and forth, talking about these fictional characters in
 > their fictional circumstances doing whatever it is that they do.
-
-TIP: Play _Apocalypse World_.
 
 Oddly for roleplaying games, _Exile_ make each player (not just Gaia)
 responsible for multiple characters directly.  This is sometimes referred to as
@@ -68,7 +56,7 @@ are three main sources of truth:
 
 . The players.  If someone says something and nobody argues, it's true.  Write
   it down.
-. The cards.  If the rules are kicking in and cards are drawn, the rules will
+. The dice.  If the rules are kicking in and dice are thrown, the rules will
   tell you what's true.  Write it down.
 . The maps.  If something is already down on the map, it's true until it's
   crossed out.
@@ -79,15 +67,13 @@ Wheel_, this is called the *Let it Ride* rule:
 > A player shall test once against an obstacle and shall not roll again until
 > conditions legitimately and drastically change. <<bw>>
 
-TIP: Play _Burning Wheel_.
-
 In _Exile_, this translates: the written truth is not something you can easily
 argue.  If a guild wins a conflict intending to control all scientific output
 from a society, they control it.  The society can't argue the matter until they
 can legitimately and drastically change the situation.  Good luck.
 
 = The first session
-image::boarding.png[]
+image::img/boarding.png[]
 
 == Faction creation
 
@@ -201,7 +187,7 @@ NOTE: TODO: Playbook questions, including bonds.
 NOTE: TODO: Other planetfall questions, like a built-in adventure starter.
 
 = Play
-image::salvage.png[]
+image::img/salvage.png[]
 
 == Survival
 
@@ -307,7 +293,7 @@ faction wants to play Gaia), and potentially create a new faction to fill the
 hole.
 
 = Gaia
-image::planetfall-bw.png[]
+image::img/planetfall-bw.png[]
 
 This is your planet, Gaia.  These are your rules.
 
@@ -421,7 +407,7 @@ do you do?
 ____
 
 = Appendices
-image::harvest.png[]
+image::img/harvest.png[]
 
 [appendix]
 == Ludography
