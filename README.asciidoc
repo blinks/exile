@@ -107,7 +107,7 @@ NOTE: TODO: Playbook questions, including bonds.
 * TODO: Planetfall questions, like a built-in adventure starter.
 * TODO: "Dungeon generator" for the crashed ship (complete w/"magic" items).
 * TODO: "Perilous Wilds" exploration for the planet (flora, fauna, etc.).
-* TODO: Colony clock; filled in and it dies. Find ways to walk it back.
+* TODO: Colony clock; filled in and it dies. Like AW Fundamental Scarcity.
 
 = Play
 image::img/salvage.png[]
