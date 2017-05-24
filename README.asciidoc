@@ -4,6 +4,8 @@ v0.1, {localdate}: Draft.
 :doctype: book
 :toc: left
 
+image::img/planetfall-orig.png[]
+
 = The basics
 
 This is a story about the survivors of a fallen colony ship.  One of you plays
@@ -27,18 +29,21 @@ these dice to the four colonist attributes:
 - Spirit: charisma, morale, emotional intelligence, etc.
 - Sense: sight, hearing, smell, touch, taste, etc.
 
-== Planetfall
+In play, you'll be forming pools of dice based on these attributes and rolling
+them, looking for 5s and 6s: hits.  The more hits, the better.
+
+= Planetfall
+image::img/planetfall-bw.png[]
 
 = Play
 image::img/salvage.png[]
 
 = Gaia
-image::img/planetfall-bw.png[]
+image::img/harvest.png[]
 
 This is your planet, Gaia.  These are your rules.
 
 = Appendices
-image::img/harvest.png[]
 
 [appendix]
 == Ludography
