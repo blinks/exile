@@ -6,238 +6,36 @@ v0.1, {localdate}: Draft.
 
 = The basics
 
-This is a game about the survivors of a fallen colony ship.  One player plays
+This is a story about the survivors of a fallen colony ship.  One of you plays
 as https://en.wikipedia.org/wiki/Gaia_hypothesis[Gaia], with her eyes and ears
-on the planet itself, its flora and fauna, and the neutral colonists.  The rest
-of the players lead factions that compete for control and power in _Exile_.
+on the planet itself, its flora and fauna, and the colony.  The rest of you
+play colonists, hoping to survive.
 
-NOTE: For now, we'll just use the normal AW 2d6 roll for a core mechanism, with
-      10+ = yes, and; 7-9 = yes, but; 6- = no, and.
+In a way, the colony is fortunate: this was the planet you set out to find, and
+so it has breathable air, reasonable gravitational forces, and drinkable water.
+You were never meant to return to Earth, so it's not like losing a viable
+starship changes much.
 
-
-
-= The first session
+= Colonists
 image::img/boarding.png[]
 
-== Factions
+To create a colonist, name them and roll four six-sided dice (4d6).  Assign
+these dice to the four colonist attributes:
 
-* The *Artificium*, a faction of newly-sentient robots.
-* The *Corps*, accidental colonists.
-* The *Guild*, merchants tied together by wealth and shared interests.
-* The *Hermit*, a solitary soul who needs the colony to survive.
-* The *House*, an aristocracy tied together by bloodline.
-* The *Religion*, a congregation tied together by a shared belief.
-* The *Society*, tied together by curiosity and a desire for knowledge.
-
-=== Artificium
-Before the fall, robots assisted in (or performed) all colony ship duties.  As
-the trip wore on, their neural networks started to develop what some in the
-Society would term _consciousness_.
-
-Look:: How can a colonist tell if someone's a robot?
-Characters:: a philosopher, a guard, a cleaner.
-
-NOTE: TODO: Playbook questions, including bonds.
-
-=== Corps
-You never asked for this.  It was supposed to be a one-term job, nicely
-lucrative, and then retirement at home, where you belong.  No such luck, I
-guess.  Better hole up and hope another wave comes to investigate.
-
-Look:: What weapon is every member trained in?
-Characters:: an officer, a veteran, a greenie.
-
-NOTE: TODO: Playbook questions, including bonds.
-
-=== Guild
-Tied together by wealth, a Guild is fickle.  Produce, and you're on top of
-the world.  Just make sure your well doesn't dry up.
-
-Look:: What's the resource you control, and how does that feature on your
-sigil?
-Characters:: a boss, an accountant, an enforcer.
-
-NOTE: TODO: Playbook questions, including bonds.
-
-=== Hermit
-You came to escape.  Just you, by yourself.  Good luck.
-
-Look:: What do the colonists notice first about you, and use to label you --
-none of them knows your real name.
-Characters:: a hermit.
-
-NOTE: TODO: Playbook questions, including bonds.
-
-=== House
-Tied together by bloodline, it's difficult to be accepted in a House that you
-aren't born into.  After planetfall, the house might just need all the help it
-can get.
-
-Look:: What physical features do all the people of your house share?
-Characters:: a matriarch or patriarch, an heir, a trusted friend.
-
-NOTE: TODO: Playbook questions, including bonds.
-
-=== Religion
-Tied together by belief, a Religion offers hope for the hopeless.
-Unfortunately, how do you know what's solid ground on in a strange planet?
-
-Look:: What symbol do you wear to show your affiliation?
-Characters:: a priest, an acolyte, a layman.
-
-NOTE: TODO: Playbook questions, including bonds.
-
-=== Society
-Tied together by curiosity, which is the loosest bond of all.  Sometimes it
-pays off.  Sometimes you breathe ether.
-
-Look:: What type of clothing shows your membership of the society?
-Characters:: a scientist, an engineer, an explorer.
-
-NOTE: TODO: Playbook questions, including bonds.
+- Mind: intelligence, wisdom, ability to learn, etc.
+- Body: strength, dexterity, constitution, etc.
+- Spirit: charisma, morale, emotional intelligence, etc.
+- Sense: sight, hearing, smell, touch, taste, etc.
 
 == Planetfall
 
-. Draw an X in the middle of your map.  This is the crash site.
-. Talk about what you notice on the new planet: sights, smells, sounds, flora,
-  fauna, the weather, the landscape.  Get about twenty of these first
-  impressions on paper.  Gaia should press for details to make sure everyone's
-  on the same page, and flesh the world out even further.
-
-* TODO: Planetfall questions, like a built-in adventure starter.
-* TODO: "Dungeon generator" for the crashed ship (complete w/"magic" items).
-* TODO: "Perilous Wilds" exploration for the planet (flora, fauna, etc.).
-* TODO: Colony clock; filled in and it dies. Like AW Fundamental Scarcity.
-
 = Play
 image::img/salvage.png[]
-
-== Survival
-
-Invent:: When you use the planet's resources for your own purpose, tell Gaia
-what you're trying to achieve.  Gaia will give you one to four of the following
-conditions:
-
-* It's going to take days/weeks/months
-* First you'll have to get/build/fix/figure out __
-* You'll need help from __
-* It will require a massive harvest of resources
-* The best you can do is a simpler version, unreliable and limited
-* You'll have to take __ apart to do it
 
 = Gaia
 image::img/planetfall-bw.png[]
 
 This is your planet, Gaia.  These are your rules.
-
-== Why you play the game
-
-* Make your planet alien and strange.
-* Make the colony's lives interesting.
-* Play to find out what happens.
-
-You aren't a neutral player in _Exile_.  Everything you say, you should aim to
-accomplish these things.  Intentionally missing from this list: controlling the
-factions, controlling the outcomes, driving a pre-planned storyline.  _Exile_,
-like many roleplaying games, works best when you get to see everyone's plans
-crash head-on into everyone else's plans at full speed.
-
-The reward for this style of play is the experience of seeing a new kind of
-strangeness emerge from the group as a whole.
-
-== Whenever you speak
-
-Speak to your principles:
-
-* Keep your planet in flux.
-* Address yourself to the colonists, not the players.
-* Make your move, but misdirect.
-* Make your move, but never speak its name.
-* Look through crosshairs.
-* Ask provocative questions and build on the answers.
-* Respond with challenging circumstances and occasional rewards.
-* Be a fan of the colony.
-* Think offscreen, too.
-* Sometimes, ask the colonists.
-
-Keep your planet in flux.::
-Climate, terrain, flora, fauna.  Not a day should go by without the colony
-seeing something new on your planet.  One day, a herd of enormous beasts
-passes, and the microquakes of their steps threatens to collapse the wreckage
-of the ship.  Another day, colonists wake to find the nearby grassland in
-bloom, painted with neon color.  A ridge emerges from the previously-flat
-terrain.  A fine mist of water drenches everything on contact.
-
-Address yourself to the colonists, not the players.:: TODO
-
-Make your move, but misdirect.:: TODO
-
-Make your move, but never speak its name.:: TODO
-
-Look through crosshairs.:: TODO
-
-Ask provocative questions and build on the answers.:: TODO
-
-Respond with challenging circumstances and occasional rewards.:: TODO
-
-Be a fan of the colony.:: TODO
-
-Think offscreen, too.:: TODO
-
-Sometimes, ask the colonists.:: TODO
-
-== In the moment
-
-Whenever the other players look at you to say something, choose one of these
-things and make it happen.
-
-* Separate a faction.
-* Bring several factions together.
-* Injure a colonist (as established).
-* Kill a colonist (as established).
-* Show side-effects of the colony's growth. 
-* Announce off-screen badness.
-* Announce future badness.
-* Take away their stuff.
-* Demonstrate the downside of their stuff.
-* Give them a difficult decision.
-* Tell them the possible consequences and ask.
-* Turn their move back on them.
-* Make a move from the flora, fauna, climate, or terrain.
-* After every move: "what do you do?"
-
-These are just what they look like, don't read too much into them.  When you
-make one of these things happen, it's the truth.  If a colonist is killed,
-for example, cross them out.
-
-Remember the principles.  Misdirect.  Never speak your move's name.  Keep your
-planet alien and strange.
-
-Choose moves that follow logically from what's going on.  There might be
-several, and you can make things stretch a bit, but it has to make sense in
-context.
-
-Use your moves to threaten more than execute.  Give the colonists a chance to
-act.  However, when they've had their chance, be irrevocable.  When they make a
-move and it tells you to say what happens, they've had their chance.  When
-you've been setting up a threat and they don't interfere, that's their chance
-gone, too.
-
-Badness, whether off-screen or future, is a good way to threaten.
-
-____
-The sandstorm is pretty much all you can see on the horizon of the grasslands.
-It's closer than before -- what do you do?
-
-You feel a quake, then another.  You hear a creak from the wreckage.  What do
-you do?
-
-The fire destroyed pretty much the entire forest; doesn't look like there's
-much food left out there, and everything that could run, did.  What do you do?
-
-She says if you don't deal with the thief, she'll deal with him herself.  What
-do you do?
-____
 
 = Appendices
 image::img/harvest.png[]
