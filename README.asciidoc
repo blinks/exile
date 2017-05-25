@@ -6,7 +6,6 @@ v0.1, {localdate}: Draft.
 
 image::img/planetfall-orig.png[]
 = The basics
-
 This is a story about the survivors of a fallen colony ship.  One of you plays
 as https://en.wikipedia.org/wiki/Gaia_hypothesis[Gaia], with her eyes and ears
 on the planet itself, its flora and fauna, and the colony.  The rest of you
@@ -17,9 +16,19 @@ so it has breathable air, reasonable gravitational forces, and drinkable water.
 You were never meant to return to Earth, so it's not like losing a viable
 starship changes much.
 
+== Scenes
+Exile is played over a sequence of scenes, like a movie.  Between scenes is
+time for players to discuss plans, think through options, grab snacks.  When
+there's an obvious next step, Gaia will open a scene -- describing the weather,
+the sights, sounds, smells, and bring a character or two in to play.  When the
+core of that scene is resolved, Gaia will close it out.
+
+Sometimes -- but not always -- one scene naturally leads into another.  Gaia
+should feel free to cut from scene to scene immediately, without blank space.
+Give everyone a chance to rest, though.  Continuous storytelling is exhausting.
+
 image::img/boarding.png[]
 = Colonists
-
 To create a colonist, name them and roll four six-sided dice (4d6).  Assign
 these dice to the four colonist attributes:
 
@@ -34,18 +43,30 @@ your life is in Gaia's hands.
 
 image::img/planetfall-bw.png[]
 = Planetfall
+For each character, pick a prelude scene:
+
+- You awaken in the pitch-blackness of the ship.
+- You see your first light from the planet.
+- You find a room with no survivors.
+- You hear yelling over a roaring fire.
+- You smell the burning sulfur of broken engines.
+- You feel the planet's air coming through a gash in the hull.
+
+Play the scene for a minute or two, enough to show the character, and then cut.
+You don't need to show every second of life in the aftermath of planetfall,
+this is more of a montage.  When all characters have been introduced, ask what
+the immediate priorities are, and write them down.  Then, start a new scene.
 
 image::img/salvage.png[]
 = Play
 
 image::img/harvest.png[]
 = Gaia
-
 This is your planet, Gaia.  These are your rules.
 
 = Appendices
-
 [appendix]
+
 == Ludography
 Standing on the shoulders of giants.  Not every inspiration is listed, of
 course: some are totally unconscious.  Parallel development is also a thing.
