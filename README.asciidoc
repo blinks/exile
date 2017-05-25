@@ -15,7 +15,7 @@ play colonists, hoping to survive.
 Exile isn't quite a "game" in the normal sense -- nobody's attempting to win,
 and losing a character doesn't lose you the game or anything.  It's more like
 a structured way to play pretend.  We hand the reins of the experience over to
-Gaia, and the other players build characters to control like they're sitting in
+Gaia, and the other players build characters to control like they're piloting
 a mech suit.
 
 The nice thing about this is that we can avoid the old cops and robbers
@@ -30,8 +30,18 @@ has to come up with everything themselves.  Creativity is draining, especially
 building a whole world up from nothing.  Sometimes you can make someone else
 create, or use the rules and tables in this book to prompt you.
 
+== Secrets
 There are no secrets in Exile.  Either everyone at the table knows, or nobody
 knows.  Hard and fast rule.
+
+This means no character backstory that doesn't emerge from play.  It means no
+building a world map on your own and then springing it on the other players.
+It means don't write up the alien planet bird-watching book and consult it
+when someone looks outside.
+
+It also means you can't have secret plans that only you and Gaia know about,
+springing them on the others only after completion.  Air those things out,
+folks.
 
 == The colony
 In a way, the colony is fortunate: this was the planet you set out to find, and
