@@ -5,7 +5,6 @@ v0.1, {localdate}: Draft.
 :toc: left
 
 image::img/planetfall-orig.png[]
-
 = The basics
 
 This is a story about the survivors of a fallen colony ship.  One of you plays
@@ -18,8 +17,8 @@ so it has breathable air, reasonable gravitational forces, and drinkable water.
 You were never meant to return to Earth, so it's not like losing a viable
 starship changes much.
 
-= Colonists
 image::img/boarding.png[]
+= Colonists
 
 To create a colonist, name them and roll four six-sided dice (4d6).  Assign
 these dice to the four colonist attributes:
@@ -30,16 +29,17 @@ these dice to the four colonist attributes:
 - Sense: sight, hearing, smell, touch, taste, etc.
 
 In play, you'll be forming pools of dice based on these attributes and rolling
-them, looking for 5s and 6s: hits.  The more hits, the better.
+them, looking for 5s and 6s: hits.  The more hits, the better.  With no hits,
+your life is in Gaia's hands.
 
-= Planetfall
 image::img/planetfall-bw.png[]
+= Planetfall
 
-= Play
 image::img/salvage.png[]
+= Play
 
-= Gaia
 image::img/harvest.png[]
+= Gaia
 
 This is your planet, Gaia.  These are your rules.
 
