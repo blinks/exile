@@ -11,6 +11,26 @@ as https://en.wikipedia.org/wiki/Gaia_hypothesis[Gaia], with her eyes and ears
 on the planet itself, its flora and fauna, and the colony.  The rest of you
 play colonists, hoping to survive.
 
+== What is this thing?
+Exile isn't quite a "game" in the normal sense -- nobody's attempting to win,
+and losing a character doesn't lose you the game or anything.  It's more like
+a structured way to play pretend.  We hand the reins of the experience over to
+one player (Gaia, aka the game master or dungeon master), and then distribute
+authority over other parts of the experience to the other players (who
+generally decide what their characters attempt to do).
+
+The nice thing about this is that we can avoid the old cops and robbers
+argument of "I shot you!" "No, you didn't!" because someone's in charge of
+deciding what happens at any given point.  It's not that much fun to always
+just decide, though, so we'll often push it off to the dice.  The dice don't
+feel as bad when things go poorly, so that's a bonus.  (Stories where only good things happen are seldom interesting.)
+
+Another nice thing about playing with a group of creative people is that nobody
+has to come up with everything themselves.  Creativity is draining, especially
+building a whole world up from nothing.  Sometimes you can make someone else
+create, or use the rules and tables in this book to prompt you.
+
+== The colony
 In a way, the colony is fortunate: this was the planet you set out to find, and
 so it has breathable air, reasonable gravitational forces, and drinkable water.
 You were never meant to return to Earth, so it's not like losing a viable
@@ -114,6 +134,9 @@ Scene:: The planet's air blows through a gash in the hull, what do you smell?
 
 image::img/planetfall-bw.png[]
 = Planetfall
+Get out a piece of blank white paper and draw a bullseye on it.  In the center
+is your crash site.
+
 Each player in turn should decide what their character was before planetfall by
 picking a playbook and a role, and then play out the associated scene.
 
