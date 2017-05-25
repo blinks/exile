@@ -56,10 +56,11 @@ For each character, pick a prelude scene:
 - You smell the burning sulfur of broken engines, where do you run?
 - The planet's air blows through a gash in the hull, what do you smell?
 
-Play the scene for a minute or two, enough to show the character, and then cut.
-You don't need to show every second of life in the aftermath of planetfall,
-this is more of a montage.  When all characters have been introduced, ask what
-the immediate priorities are, and write them down.  Then, start a new scene.
+Play the scene for a minute or two, enough to show the character, the broken
+ship, the planet, and then cut.  You don't need to show every second of life in
+the aftermath of planetfall, this is more of a montage.  When all characters
+have been introduced, ask what the immediate priorities are, and write them
+down.  Then, start a new scene.
 
 image::img/salvage.png[]
 = Play
@@ -76,8 +77,10 @@ Standing on the shoulders of giants.  Not every inspiration is listed, of
 course: some are totally unconscious.  Parallel development is also a thing.
 
 [bibliography]
-- [[[ars]]] Jonathan Tweet & Mark Rein·Hagen. _Ars Magica_. 1987.
-- [[[bw]]] Luke Crane. _Burning Wheel_. 2002.
-- [[[ditv]]] D. Vincent Baker. _Dogs in the Vineyard_. 2004.
-- [[[aw]]] D. Vincent Baker. _Apocalypse World_. 2010.
-- [[[dw]]] Adam Koebel & Sage LaTorra. _Dungeon World_. 2012.
+- Junichi Inoue. _Tenra Bansho Zero_. 2000.
+- Luke Crane. _Burning Wheel_. 2002.
+- D. Vincent Baker. _Dogs in the Vineyard_. 2004.
+- D. Vincent Baker. _Apocalypse World_. 2010.
+- Adam Koebel, Sage LaTorra. _Dungeon World_. 2012.
+- Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson. _Fate
+  Core_. 2014.
