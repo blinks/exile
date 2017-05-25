@@ -9,7 +9,7 @@ image::img/planetfall-orig.png[]
 This is a story about the survivors of a fallen colony ship.  One of you plays
 as https://en.wikipedia.org/wiki/Gaia_hypothesis[Gaia], with her eyes and ears
 on the planet itself, its flora and fauna, and the colony.  The rest of you
-play colonists, hoping to survive.
+play colonists, hoping to survive together.
 
 == What is this thing?
 Exile isn't quite a "game" in the normal sense -- nobody's attempting to win,
@@ -48,6 +48,12 @@ In a way, the colony is fortunate: this was the planet you set out to find, and
 so it has breathable air, reasonable gravitational forces, and drinkable water.
 You were never meant to return to Earth, so it's not like losing a viable
 starship changes much.
+
+This story is not about colony in-fighting, though that may happen.  Neither is
+it about player-vs-player conflict.  No player's character is going to be an
+antagonist here.  The planet is enough of one.  If an antagonist arises from
+within the colony, Gaia will figure out what they do.  Players are on the same
+team.
 
 == Scenes
 Exile is played over a sequence of scenes, like a movie.  Between scenes is
