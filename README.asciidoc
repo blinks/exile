@@ -59,6 +59,7 @@ Society would term _consciousness_.
 
 Roles:: a philosopher, a guard, a cleaner.
 Look:: How can a colonist tell if someone's a robot?
+Scene:: In the pitch-blackness of the ship, what do you hear?
 
 === The Corps, accidental colonists.
 You never asked for this.  It was supposed to be a one-term job, nicely
@@ -67,6 +68,7 @@ guess.  Better hole up and hope another wave comes to investigate.
 
 Roles:: an officer, a veteran, a greenie.
 Look:: What weapon is every member trained in?
+Scene:: Fade in to a room with no survivors, what do you see?
 
 === The Guild, merchants tied together by wealth and shared interests.
 Tied together by wealth, a Guild is fickle.  Produce, and you're on top of the
@@ -75,6 +77,7 @@ world.  Just make sure your well doesn't dry up.
 Roles:: a boss, an accountant, an enforcer.
 Look:: What's the resource you control, and how does that feature on your
        sigil?
+Scene:: Zoom out from a conference table, what are you arguing about?
 
 === The Hermit, a solitary soul who needs the colony to survive.
 You came to escape.  Just you, by yourself.  Good luck.
@@ -82,6 +85,7 @@ You came to escape.  Just you, by yourself.  Good luck.
 Roles:: monastic, artistic, solitary.
 Look:: What do the colonists notice first about you, and use to label you?
        (None of them knows your real name.)
+Scene:: Cut to yelling over a roaring fire, what do you do?
 
 === The House, an aristocracy tied together by bloodline.
 Tied together by bloodline, it's difficult to be accepted in a House that you
@@ -90,6 +94,7 @@ can get.
 
 Roles:: a matriarch or patriarch, an heir, a trusted friend.
 Look:: What physical features do all the people of your house share?
+Scene:: Pan up from the floor, covered in rubble. What heirloom do you find? 
 
 === The Religion, a congregation tied together by a shared belief.
 Tied together by belief, a Religion offers hope for the hopeless.
@@ -97,6 +102,7 @@ Unfortunately, how do you know what's solid ground on in a strange planet?
 
 Roles:: a priest, an acolyte, a layman.
 Look:: What symbol do you wear to show your affiliation?
+Scene:: Fade in to the first light from the planet, what color is it?
 
 === The Society, tied together by curiosity and a desire for knowledge.
 Tied together by curiosity, which is the loosest bond of all.  Sometimes it
@@ -104,23 +110,22 @@ pays off.  Sometimes you breathe ether.
 
 Roles:: a scientist, an engineer, an explorer.
 Look:: What type of clothing shows your membership of the society?
+Scene:: The planet's air blows through a gash in the hull, what do you smell?
 
 image::img/planetfall-bw.png[]
 = Planetfall
-Each player in turn should decide what their character was before planetfall,
-and then play out the associated scene.
-
-- Robot: You awaken in the pitch-blackness of the ship, what do you hear?
-- You see your first light from the planet, what color is it?
-- You find a room with no survivors, what do you see?
-- You hear yelling over a roaring fire, what do you do?
-- The planet's air blows through a gash in the hull, what do you smell?
+Each player in turn should decide what their character was before planetfall by
+picking a playbook and a role, and then play out the associated scene.
 
 Play the scene for a minute or two, enough to show the character, the broken
 ship, the planet, and then cut.  You don't need to show every second of life in
-the aftermath of planetfall, this is more of a montage.  When all characters
-have been introduced, ask what the immediate priorities are, and write them
-down.  Then, start a new scene.
+the aftermath of planetfall, this is more of a montage.  After each scene,
+players should consider their immediate priorities and write one down as a
+goal.
+
+When the introductory scenes are done, everyone should have answered for their
+playbook's look, and come up with their character's goal.  In the blank space
+after the last introductory scene, decide where to fade in.
 
 image::img/salvage.png[]
 = Play
