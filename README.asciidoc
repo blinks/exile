@@ -19,9 +19,11 @@ starship changes much.
 == Scenes
 Exile is played over a sequence of scenes, like a movie.  Between scenes is
 time for players to discuss plans, think through options, grab snacks.  When
-there's an obvious next step, Gaia will open a scene -- describing the weather,
-the sights, sounds, smells, and bring a character or two in to play.  When the
-core of that scene is resolved, Gaia will close it out.
+there's an obvious next step, Gaia will open a scene to handle that next step.
+Keep these scenes as focused as possible, and end them when they go unfocused.
+Gaia opens a scene by bringing a character or two in to play, and either says
+what's going on or asks a player.  When the core of that scene is resolved, or
+it goes unfocused, Gaia will close it out.
 
 Sometimes -- but not always -- one scene naturally leads into another.  Gaia
 should feel free to cut from scene to scene immediately, without blank space.
