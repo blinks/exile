@@ -18,9 +18,12 @@ starship changes much.
 
 == Scenes
 Exile is played over a sequence of scenes, like a movie.  Between scenes is
-time for players to discuss plans, think through options, grab snacks.  When
-there's an obvious next step, Gaia will open a scene to handle that next step.
-Keep these scenes as focused as possible, and end them when they go unfocused.
+a blank space for everyone to discuss plans, think through options, grab
+snacks.  When there's an obvious next step, Gaia will open a scene to handle
+that next step.
+
+Keep scenes as focused as possible, and end them when they go unfocused.
+
 Gaia opens a scene by bringing a character or two in to play, and either says
 what's going on or asks a player.  When the core of that scene is resolved, or
 it goes unfocused, Gaia will close it out.
@@ -31,8 +34,8 @@ Give everyone a chance to rest, though.  Continuous storytelling is exhausting.
 
 image::img/boarding.png[]
 = Colonists
-To create a colonist, name them and roll four six-sided dice (4d6).  Assign
-these dice to the four colonist attributes:
+To create a colonist, pick a playbook and roll four six-sided dice (4d6).
+Assign these dice to the four colonist attributes:
 
 - Mind: intelligence, wisdom, ability to learn, etc.
 - Body: strength, dexterity, constitution, etc.
@@ -45,11 +48,69 @@ your life is in Gaia's hands.  Rolling in Exile only happens for big things,
 too -- instead of rolling ten times for a fight scene, you should only be
 rolling once or (at most) twice.
 
+Choose one of the roles, and be ready to play out your planetfall scene.
+
+== Playbooks
+
+=== The Artificium, a faction of newly-sentient robots.
+Before the fall, robots assisted in (or performed) all colony ship duties.  As
+the trip wore on, their neural networks started to develop what some in the
+Society would term _consciousness_.
+
+Roles:: a philosopher, a guard, a cleaner.
+Look:: How can a colonist tell if someone's a robot?
+
+=== The Corps, accidental colonists.
+You never asked for this.  It was supposed to be a one-term job, nicely
+lucrative, and then retirement at home, where you belong.  No such luck, I
+guess.  Better hole up and hope another wave comes to investigate.
+
+Roles:: an officer, a veteran, a greenie.
+Look:: What weapon is every member trained in?
+
+=== The Guild, merchants tied together by wealth and shared interests.
+Tied together by wealth, a Guild is fickle.  Produce, and you're on top of the
+world.  Just make sure your well doesn't dry up.
+
+Roles:: a boss, an accountant, an enforcer.
+Look:: What's the resource you control, and how does that feature on your
+       sigil?
+
+=== The Hermit, a solitary soul who needs the colony to survive.
+You came to escape.  Just you, by yourself.  Good luck.
+
+Roles:: monastic, artistic, solitary.
+Look:: What do the colonists notice first about you, and use to label you?
+       (None of them knows your real name.)
+
+=== The House, an aristocracy tied together by bloodline.
+Tied together by bloodline, it's difficult to be accepted in a House that you
+aren't born into.  After planetfall, the house might just need all the help it
+can get.
+
+Roles:: a matriarch or patriarch, an heir, a trusted friend.
+Look:: What physical features do all the people of your house share?
+
+=== The Religion, a congregation tied together by a shared belief.
+Tied together by belief, a Religion offers hope for the hopeless.
+Unfortunately, how do you know what's solid ground on in a strange planet?
+
+Roles:: a priest, an acolyte, a layman.
+Look:: What symbol do you wear to show your affiliation?
+
+=== The Society, tied together by curiosity and a desire for knowledge.
+Tied together by curiosity, which is the loosest bond of all.  Sometimes it
+pays off.  Sometimes you breathe ether.
+
+Roles:: a scientist, an engineer, an explorer.
+Look:: What type of clothing shows your membership of the society?
+
 image::img/planetfall-bw.png[]
 = Planetfall
-For each character, pick a prelude scene:
+Each player in turn should decide what their character was before planetfall,
+and then play out the associated scene.
 
-- You awaken in the pitch-blackness of the ship, what do you hear?
+- Robot: You awaken in the pitch-blackness of the ship, what do you hear?
 - You see your first light from the planet, what color is it?
 - You find a room with no survivors, what do you see?
 - You hear yelling over a roaring fire, what do you do?
