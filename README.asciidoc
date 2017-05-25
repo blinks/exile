@@ -1,4 +1,4 @@
-= Exile: A 4x roleplaying game
+= Exile: A colony-building role-playing game
 Adam Blinkinsop <blinks@acm.org>, illustrated by Nate Marcel.
 v0.1, {localdate}: Draft.
 :doctype: book
@@ -53,7 +53,6 @@ For each character, pick a prelude scene:
 - You see your first light from the planet, what color is it?
 - You find a room with no survivors, what do you see?
 - You hear yelling over a roaring fire, what do you do?
-- You smell the burning sulfur of broken engines, where do you run?
 - The planet's air blows through a gash in the hull, what do you smell?
 
 Play the scene for a minute or two, enough to show the character, the broken
@@ -68,6 +67,10 @@ image::img/salvage.png[]
 image::img/harvest.png[]
 = Gaia
 This is your planet, Gaia.  These are your rules.
+
+- Show both strange and familiar from the planet.
+- Show the humanity of the colony.
+- Play to find out what happens when they meet.
 
 = Appendices
 [appendix]
