@@ -41,18 +41,20 @@ these dice to the four colonist attributes:
 
 In play, you'll be forming pools of dice based on these attributes and rolling
 them, looking for 5s and 6s: hits.  The more hits, the better.  With no hits,
-your life is in Gaia's hands.
+your life is in Gaia's hands.  Rolling in Exile only happens for big things,
+too -- instead of rolling ten times for a fight scene, you should only be
+rolling once or (at most) twice.
 
 image::img/planetfall-bw.png[]
 = Planetfall
 For each character, pick a prelude scene:
 
-- You awaken in the pitch-blackness of the ship.
-- You see your first light from the planet.
-- You find a room with no survivors.
-- You hear yelling over a roaring fire.
-- You smell the burning sulfur of broken engines.
-- You feel the planet's air coming through a gash in the hull.
+- You awaken in the pitch-blackness of the ship, what do you hear?
+- You see your first light from the planet, what color is it?
+- You find a room with no survivors, what do you see?
+- You hear yelling over a roaring fire, what do you do?
+- You smell the burning sulfur of broken engines, where do you run?
+- The planet's air blows through a gash in the hull, what do you smell?
 
 Play the scene for a minute or two, enough to show the character, and then cut.
 You don't need to show every second of life in the aftermath of planetfall,
