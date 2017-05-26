@@ -171,6 +171,57 @@ after the last introductory scene, decide where to fade in.
 
 image::img/salvage.png[]
 = Play
+Most of play is just conversation.  People talk about what they do, and what
+happens when they do it.  Don't worry about the minutia -- anything you
+wouldn't see in the movies shouldn't be bothered with here.  Batman doesn't
+ride the bus to the crime scene, he just shows up.
+
+Sometimes, a character will do something, and you can just hear the soundtrack
+picking up.  Generally, that means it's time to roll the dice.  I've got a
+few of these times listed below, and then I'll talk about what to do when you
+obviously need to roll the dice, but the situation isn't in the book.
+
+In Powered by the Apocalypse games, these are called *moves.*  Read them in
+three parts:
+
+1. *The trigger:* When this happens in the fiction, get ready to roll!  In
+   particular, if this _doesn't_ happen, _don't roll._
+2. *The success:* "On a hit" means you rolled at least one 5 or 6.  This is
+   what the roll is deciding at its core.  If you don't actually care about
+   this, you probably aren't actually triggering the move.  Step back and
+   re-evaluate.  On a miss, of course, you don't get this.
+3. *The options:* Help everyone understand what's at stake here before you
+   roll, so everyone's on the same page.  Perhaps you don't care how long it
+   takes, but you've got to be rested when you get there.  This is what the
+   options are for.  You can choose a few, but if you don't roll as many hits
+   as options picked, Gaia can throw in some chaos.
+
+== Basic Moves
+
+When you *remember where something important was on the ship,* name it and
+choose at least one, then roll mind.  On a hit, you know where it is.
+- it's close to you
+- you know a secret way
+- you have the access codes 
+
+When you *make your way to an interesting place,* find (or draw) it on the map
+and choose at least one, then roll body.  On a hit, you get there.  If it isn’t
+named, name it.
+- it doesn’t take much time
+- nobody / nothing notices you
+- you’re not worn out by the trip
+
+When you *look for something useful nearby,* name it and choose at least one,
+then roll senses.  On a hit, you find it.
+- it’s in perfect repair
+- it’s hard to break
+- nobody else wants it right now
+
+When you *give orders to the colonists,* say what they are and choose at least
+one, then roll spirit.  On a hit, they do what you say.
+- they jump to it
+- they’re experienced at this kind of thing
+- nobody takes offense
 
 image::img/harvest.png[]
 = Gaia
