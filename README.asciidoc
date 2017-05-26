@@ -11,7 +11,7 @@ as https://en.wikipedia.org/wiki/Gaia_hypothesis[Gaia], with her eyes and ears
 on the planet itself, its flora and fauna, and the colony.  The rest of you
 play colonists, hoping to survive together.
 
-== What is this thing?
+== The game
 Exile isn't quite a "game" in the normal sense -- nobody's attempting to win,
 and losing a character doesn't lose you the game or anything.  It's more like
 a structured way to play pretend.  We hand the reins of the experience over to
@@ -30,7 +30,7 @@ has to come up with everything themselves.  Creativity is draining, especially
 building a whole world up from nothing.  Sometimes you can make someone else
 create, or use the rules and tables in this book to prompt you.
 
-== Secrets
+=== No secrets
 There are no secrets in Exile.  Either everyone at the table knows, or nobody
 knows.  Hard and fast rule.
 
@@ -74,20 +74,15 @@ Give everyone a chance to rest, though.  Continuous storytelling is exhausting.
 image::img/boarding.png[]
 = Colonists
 To create a colonist, pick a playbook and roll four six-sided dice (4d6).
-Assign these dice to the four colonist attributes:
+Assign these dice to the four colonist attributes (higher is better):
 
 - Mind: intelligence, wisdom, ability to learn, etc.
 - Body: strength, dexterity, constitution, etc.
 - Spirit: charisma, morale, emotional intelligence, etc.
 - Sense: sight, hearing, smell, touch, taste, etc.
 
-In play, you'll be forming pools of dice based on these attributes and rolling
-them, looking for 5s and 6s: hits.  The more hits, the better.  With no hits,
-your life is in Gaia's hands.  Rolling in Exile only happens for big things,
-too -- instead of rolling ten times for a fight scene, you should only be
-rolling once or (at most) twice.
-
-Choose one of the roles, and be ready to play out your planetfall scene.
+Choose one of the roles, think about your look, and be ready to play out your
+planetfall scene.
 
 == Playbooks
 
@@ -133,7 +128,7 @@ can get.
 
 Roles:: a matriarch or patriarch, an heir, a trusted friend.
 Look:: What physical features do all the people of your house share?
-Scene:: Pan up from the floor, covered in rubble. What heirloom do you find? 
+Scene:: Pan up from the floor, covered in rubble. What heirloom do you find?
 
 === The Religion, a congregation tied together by a shared belief.
 Tied together by belief, a Religion offers hope for the hopeless.
@@ -186,13 +181,14 @@ called *moves.*  Read them in three parts:
 2. *The success:* "On a hit" means you rolled at least one 5 or 6.  This is
    what the roll is deciding at its core.  If you don't actually care about
    this, you probably don't want to trigger the move.  Step back and
-   re-evaluate.  On a miss, of course, you don't get this.
+   re-evaluate.  On a miss, of course, you don't get this, and you'll have
+   some serious problems to deal with: failure is irrevocable in Exile.
 3. *The options:* Help everyone else understand what's at stake here before you
    roll, so you're all on the same page.  Perhaps you don't care how long it
    takes, but you've got to be rested when you get there.  This is what the
    options are for.  You can choose a few, but if you don't roll as many hits
-   as options picked, Gaia can throw in some chaos.  (Even one hit means you do
-   the thing, though, so you're still safe there.)
+   as options picked, Gaia gets to decide which ones apply.  (Even one hit
+   means you do the thing, though, so you're still safe there.)
 
 == Basic Moves
 
@@ -200,7 +196,7 @@ When you *remember where something important was on the ship,* name it and
 choose at least one, then roll mind.  On a hit, you know where it is.
 - it's close to you
 - you know a secret way
-- you have the access codes 
+- you have the access codes
 
 When you *make your way to an interesting place,* find (or draw) it on the map
 and choose at least one, then roll body.  On a hit, you get there.  If it isn’t
@@ -209,25 +205,167 @@ named, name it.
 - nobody / nothing notices you
 - you’re not worn out by the trip
 
-When you *look for something useful nearby,* name it and choose at least one,
-then roll senses.  On a hit, you find it.
-- it’s in perfect repair
-- it’s hard to break
-- nobody else wants it right now
-
 When you *give orders to the colonists,* say what they are and choose at least
 one, then roll spirit.  On a hit, they do what you say.
 - they jump to it
 - they’re experienced at this kind of thing
 - nobody takes offense
 
+When you *look for something useful nearby,* name it and choose at least one,
+then roll senses.  On a hit, you find it.
+- it’s in perfect repair
+- it’s hard to break
+- nobody else wants it right now
+
 image::img/harvest.png[]
 = Gaia
-This is your planet, Gaia.  These are your rules.
+This is your planet, Gaia.  These are your rules.  If you've played other
+things like this, note that these are _rules_, not just gamemaster suggestions.
+Treat them as such.
+
+== Agenda
+The other players only need to say what their characters do, and play them like
+people.  That's much easier than your role.  Everything you say needs to work
+towards these:
 
 - Show both strange and familiar from the planet.
 - Show the humanity of the colony.
 - Play to find out what happens when they meet.
+
+You're not trying to kill the characters (though they will certainly die --
+give them a good death), you're not trying to show them your sci-fi collection,
+and you're certainly not trying to take over the colony with your own people.
+
+Play to find out: You have to commit to the unknown. Don't worry about what's
+behind the next corner or what's over that mountain. Exile and other games like
+it are powerful because the world is just a shared imaginary space. If you say
+something's there, it's there. When they go around the corner, then you can
+think about what's there. When they climb the mountain, then you can figure out
+what they can see.
+
+When you're figuring that stuff out, you've got two responsibilities: make the
+planet strange yet familiar, and show that the colonists are still human. If
+you can't figure out how to do this in the moment, ask the other players!
+They're on your team, here to help. Coming up with stuff on the fly is hard.
+I'll do what I can to give you prompts. Of course, if you have just the most
+amazing idea come to you right as they round that corner, don't let the prompts
+stand in your way.
+
+== Your moves
+Yes, you have these too. They're a bit different, though: Gaia doesn't roll
+dice. Instead, you should be thinking about that fiction and figuring out what
+that next shot would be. When there's a pause in a scene, or people don't know
+what the next scene should be, or someone fails a roll, or doesn't get enough
+hits, you get to do one of these things.
+
+- Change the environment
+- Introduce new flora or fauna
+- Put a threat on the horizon
+- Show a downside
+- Add a cost
+- Reverse their move
+- Break their stuff
+- Hurt them
+
+=== Change the environment
+Weather patterns. Landscape features. Astronomical phenomenon. This is not
+Earth you're living on.
+
+> The rain falls thick, like each drop was poured from a bucket. Not going to
+> be comfortable going anywhere in that storm.
+
+> Today, all three of the local stars are in the sky. It's going to be a hot
+> one.
+
+> Looks like this river is made of molasses, but the smell proves that false.
+> How do you get across? 
+
+=== Introduce new flora or fauna
+One of the best ways to make the planet strange is to make the stuff living
+there a bit off, too. Start with something familiar and twist it.
+
+> A low growl makes you look up, and you see a flock of ... dogs?
+
+> Up in those vines are wrapped all sorts of animals, each in various stages of
+> rot. You see one wriggle a bit, then the vine quickly constricts it further.
+
+> It's a herd of something, like horses but -- Amanda, what seems odd about
+> these animals to you?
+
+=== Put a threat on the horizon
+This is a nice soft move for when things get a bit too simple.
+
+> You see smoke -- or is it dust? -- off in the distance, and hear a rumble
+> growing louder through the ground.
+
+> Each day, another colonist comes back from foraging the ship with radiation
+> burns. They're starting to avoid salvage duty.
+
+> There's less of a herd today from yesterday. Some of the scouts say they've
+> seen their herds leave completely.
+
+=== Show a downside
+Especially when someone thinks they've found a way to cheat the system, look
+for something in the fiction that just doesn't seem right, and push it.
+Something can always go wrong.
+
+> Your plasma rifle just isn't very useful at this range -- by the time you
+> charge up a shot, it'll have closed to claw distance.
+
+> Sure, the lab can make an antidote, but it'll take about a week.
+
+> You're really feeling the need for more of those meds now that you've been
+> taking them for a while. The normal dose just isn't cutting it.
+
+=== Add a cost
+This could be literal -- perhaps the colonists have set up a barter system, or
+even some currency. More often it's figurative, though.
+
+> You bring one of those flying dogs down, but you got some bites on the way.
+> Hope they're not infected with anything dangerous.
+
+> Swimming across that river could sweep you way downstream, is that alright?
+
+> Your orders were necessary, but very hard to give. How do you keep yourself
+> from getting too down about it?
+
+=== Reverse their move
+Pick one of the options and flip it around -- tend towards one they didn't
+choose, when you're feeling kind.
+
+> You find the radio, but the knob got smashed; it's stuck on the command
+> channel at the moment.
+
+> You get to the crystal spire, but the way there was steep and you're
+> exhausted.
+
+> Arlea will do what you asked, but she's not happy about it.
+
+=== Break their stuff
+Generally, stuff will break in lieu of the characters becoming broken, so
+they've got that going for 'em.
+
+> You take down the beast, but your spear is unrecoverable.
+
+> The drugs are wearing off, and you feel the world becoming darker.
+
+> Your handheld smashes on the rocks, and I don't think that screen's turning
+> back on.
+
+=== Hurt them
+Pick a stat and explain why it drops, fictionally. Stat loss is permanent in
+Exile (though characters can prop themselves up with technology), so don't do
+this lightly.  Do it, though: especially on a miss, or in those times when they
+invite clear and present danger right in.
+
+> An explosion very close by sets your ears to ringing; your left one will
+> probably never recover. Take -1 to senses.
+
+> You hit the ground hard and break your leg. Take -1 to body and good luck
+> running from the flying dogs.
+
+> You find your old friend on the ship, but they've gone cold. Take -1 to
+> spirit.
 
 = Appendices
 [appendix]
