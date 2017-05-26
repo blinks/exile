@@ -92,6 +92,7 @@ Before the fall, robots assisted in (or performed) all colony ship duties.  As
 the trip wore on, their neural networks started to develop what some in the
 Society would term _consciousness_.
 
+[horizontal]
 Roles:: a philosopher, a guard, a cleaner.
 Look:: How can a colonist tell if someone's a robot?
 Scene:: In the pitch-blackness of the ship, what do you hear?
@@ -101,6 +102,7 @@ You never asked for this.  It was supposed to be a one-term job, nicely
 lucrative, and then retirement at home, where you belong.  No such luck, I
 guess.  Better hole up and hope another wave comes to investigate.
 
+[horizontal]
 Roles:: an officer, a veteran, a greenie.
 Look:: What weapon is every member trained in?
 Scene:: Fade in to a room with no survivors, what do you see?
@@ -109,6 +111,7 @@ Scene:: Fade in to a room with no survivors, what do you see?
 Tied together by wealth, a Guild is fickle.  Produce, and you're on top of the
 world.  Just make sure your well doesn't dry up.
 
+[horizontal]
 Roles:: a boss, an accountant, an enforcer.
 Look:: What's the resource you control, and how does that feature on your
        sigil?
@@ -117,6 +120,7 @@ Scene:: Zoom out from a conference table, what are you arguing about?
 === The Hermit, a solitary soul who needs the colony to survive.
 You came to escape.  Just you, by yourself.  Good luck.
 
+[horizontal]
 Roles:: monastic, artistic, solitary.
 Look:: What do the colonists notice first about you, and use to label you?
        (None of them knows your real name.)
@@ -127,6 +131,7 @@ Tied together by bloodline, it's difficult to be accepted in a House that you
 aren't born into.  After planetfall, the house might just need all the help it
 can get.
 
+[horizontal]
 Roles:: a matriarch or patriarch, an heir, a trusted friend.
 Look:: What physical features do all the people of your house share?
 Scene:: Pan up from the floor, covered in rubble. What heirloom do you find?
@@ -135,6 +140,7 @@ Scene:: Pan up from the floor, covered in rubble. What heirloom do you find?
 Tied together by belief, a Religion offers hope for the hopeless.
 Unfortunately, how do you know what's solid ground on in a strange planet?
 
+[horizontal]
 Roles:: a priest, an acolyte, a layman.
 Look:: What symbol do you wear to show your affiliation?
 Scene:: Fade in to the first light from the planet, what color is it?
@@ -143,6 +149,7 @@ Scene:: Fade in to the first light from the planet, what color is it?
 Tied together by curiosity, which is the loosest bond of all.  Sometimes it
 pays off.  Sometimes you breathe ether.
 
+[horizontal]
 Roles:: a scientist, an engineer, an explorer.
 Look:: What type of clothing shows your membership of the society?
 Scene:: The planet's air blows through a gash in the hull, what do you smell?
