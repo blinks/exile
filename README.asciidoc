@@ -178,23 +178,21 @@ ride the bus to the crime scene, he just shows up.
 
 Sometimes, a character will do something, and you can just hear the soundtrack
 picking up.  Generally, that means it's time to roll the dice.  I've got a
-few of these times listed below, and then I'll talk about what to do when you
-obviously need to roll the dice, but the situation isn't in the book.
-
-In Powered by the Apocalypse games, these are called *moves.*  Read them in
-three parts:
+few of these times listed below.  In Powered by the Apocalypse games, these are
+called *moves.*  Read them in three parts:
 
 1. *The trigger:* When this happens in the fiction, get ready to roll!  In
    particular, if this _doesn't_ happen, _don't roll._
 2. *The success:* "On a hit" means you rolled at least one 5 or 6.  This is
    what the roll is deciding at its core.  If you don't actually care about
-   this, you probably aren't actually triggering the move.  Step back and
+   this, you probably don't want to trigger the move.  Step back and
    re-evaluate.  On a miss, of course, you don't get this.
-3. *The options:* Help everyone understand what's at stake here before you
-   roll, so everyone's on the same page.  Perhaps you don't care how long it
+3. *The options:* Help everyone else understand what's at stake here before you
+   roll, so you're all on the same page.  Perhaps you don't care how long it
    takes, but you've got to be rested when you get there.  This is what the
    options are for.  You can choose a few, but if you don't roll as many hits
-   as options picked, Gaia can throw in some chaos.
+   as options picked, Gaia can throw in some chaos.  (Even one hit means you do
+   the thing, though, so you're still safe there.)
 
 == Basic Moves
 
