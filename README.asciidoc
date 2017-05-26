@@ -71,6 +71,7 @@ antagonist here.  The planet is enough of one.  If an antagonist arises from
 within the colony, Gaia will figure out what they do.  Players are on the same
 team.
 
+<<<
 image::img/boarding.png[]
 = Colonists
 To create a colonist, pick a playbook and roll four six-sided dice (4d6).
@@ -146,6 +147,7 @@ Roles:: a scientist, an engineer, an explorer.
 Look:: What type of clothing shows your membership of the society?
 Scene:: The planet's air blows through a gash in the hull, what do you smell?
 
+<<<
 image::img/planetfall-bw.png[]
 = Planetfall
 Get out a piece of blank white paper and draw a bullseye on it.  In the center
@@ -164,6 +166,7 @@ When the introductory scenes are done, everyone should have answered for their
 playbook's look, and come up with their character's goal.  In the blank space
 after the last introductory scene, decide where to fade in.
 
+<<<
 image::img/salvage.png[]
 = Play
 Most of play is just conversation.  People talk about what they do, and what
@@ -195,38 +198,37 @@ called *moves.*  Read them in three parts:
 When you *remember where something important was on the ship,* name it and
 choose at least one, then roll mind.  On a hit, you know where it is.
 
+[options="compact"]
 - it's close to you
 - you know a secret way
 - you have the access codes
-
---
 
 When you *make your way to an interesting place,* find (or draw) it on the map
 and choose at least one, then roll body.  On a hit, you get there.  If it isn’t
 named, name it.
 
+[options="compact"]
 - it doesn’t take much time
 - nobody / nothing notices you
 - you’re not worn out by the trip
 
---
-
 When you *give orders to the colonists,* say what they are and choose at least
 one, then roll spirit.  On a hit, they do what you say.
 
+[options="compact"]
 - they jump to it
 - they’re experienced at this kind of thing
 - nobody takes offense
 
---
-
 When you *look for something useful nearby,* name it and choose at least one,
 then roll senses.  On a hit, you find it.
 
+[options="compact"]
 - it’s in perfect repair
 - it’s hard to break
 - nobody else wants it right now
 
+<<<
 image::img/harvest.png[]
 = Gaia
 This is your planet, Gaia.  These are your rules.  If you've played other
