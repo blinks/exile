@@ -5,13 +5,13 @@ v0.1, {localdate}: Draft.
 :toc: left
 
 image::img/planetfall-orig.png[]
-= The basics
+== The basics
 This is a story about the survivors of a fallen colony ship.  One of you plays
 as https://en.wikipedia.org/wiki/Gaia_hypothesis[Gaia], with her eyes and ears
 on the planet itself, its flora and fauna, and the colony.  The rest of you
 play colonists, hoping to survive together.
 
-== The game
+=== The game
 Exile isn't quite a "game" in the normal sense -- nobody's attempting to win,
 and losing a character doesn't lose you the game or anything.  It's more like
 a structured way to play pretend.  We hand the reins of the experience over to
@@ -30,7 +30,7 @@ has to come up with everything themselves.  Creativity is draining, especially
 building a whole world up from nothing.  Sometimes you can make someone else
 create, or use the rules and tables in this book to prompt you.
 
-=== No secrets
+==== No secrets
 There are no secrets in Exile.  Either everyone at the table knows, or nobody
 knows.  Hard and fast rule.
 
@@ -43,7 +43,7 @@ It also means you can't have secret plans that only you and Gaia know about,
 springing them on the others only after completion.  Air those things out,
 folks.
 
-=== Scenes
+==== Scenes
 Exile is played over a sequence of scenes, like a movie.  Between scenes is
 a blank space for everyone to discuss plans, think through options, grab
 snacks.  When there's an obvious next step, Gaia will open a scene to handle
@@ -59,7 +59,7 @@ Sometimes -- but not always -- one scene naturally leads into another.  Gaia
 should feel free to cut from scene to scene immediately, without blank space.
 Give everyone a chance to rest, though.  Continuous storytelling is exhausting.
 
-== The colony
+=== The colony
 In a way, the colony is fortunate: this was the planet you set out to find, and
 so it has breathable air, reasonable gravitational forces, and drinkable water.
 You were never meant to return to Earth, so it's not like losing a viable
@@ -71,9 +71,8 @@ antagonist here.  The planet is enough of one.  If an antagonist arises from
 within the colony, Gaia will figure out what they do.  Players are on the same
 team.
 
-<<<
 image::img/boarding.png[]
-= Colonists
+== Colonists
 To create a colonist, pick a playbook and roll four six-sided dice (4d6).
 Assign these dice to the four colonist attributes (higher is better):
 
@@ -85,9 +84,9 @@ Assign these dice to the four colonist attributes (higher is better):
 Choose one of the roles, think about your look, and be ready to play out your
 planetfall scene.
 
-== Playbooks
+=== Playbooks
 
-=== The Artificium, a faction of newly-sentient robots.
+==== The Artificium, a faction of newly-sentient robots.
 Before the fall, robots assisted in (or performed) all colony ship duties.  As
 the trip wore on, their neural networks started to develop what some in the
 Society would term _consciousness_.
@@ -97,7 +96,7 @@ Roles:: a philosopher, a guard, a cleaner.
 Look:: How can a colonist tell if someone's a robot?
 Scene:: In the pitch-blackness of the ship, what do you hear?
 
-=== The Corps, accidental colonists.
+==== The Corps, accidental colonists.
 You never asked for this.  It was supposed to be a one-term job, nicely
 lucrative, and then retirement at home, where you belong.  No such luck, I
 guess.  Better hole up and hope another wave comes to investigate.
@@ -107,7 +106,7 @@ Roles:: an officer, a veteran, a greenie.
 Look:: What weapon is every member trained in?
 Scene:: Fade in to a room with no survivors, what do you see?
 
-=== The Guild, merchants tied together by wealth and shared interests.
+==== The Guild, merchants tied together by wealth and shared interests.
 Tied together by wealth, a Guild is fickle.  Produce, and you're on top of the
 world.  Just make sure your well doesn't dry up.
 
@@ -117,7 +116,7 @@ Look:: What's the resource you control, and how does that feature on your
        sigil?
 Scene:: Zoom out from a conference table, what are you arguing about?
 
-=== The Hermit, a solitary soul who needs the colony to survive.
+==== The Hermit, a solitary soul who needs the colony to survive.
 You came to escape.  Just you, by yourself.  Good luck.
 
 [horizontal]
@@ -126,7 +125,7 @@ Look:: What do the colonists notice first about you, and use to label you?
        (None of them knows your real name.)
 Scene:: Cut to yelling over a roaring fire, what do you do?
 
-=== The House, an aristocracy tied together by bloodline.
+==== The House, an aristocracy tied together by bloodline.
 Tied together by bloodline, it's difficult to be accepted in a House that you
 aren't born into.  After planetfall, the house might just need all the help it
 can get.
@@ -136,7 +135,7 @@ Roles:: a matriarch or patriarch, an heir, a trusted friend.
 Look:: What physical features do all the people of your house share?
 Scene:: Pan up from the floor, covered in rubble. What heirloom do you find?
 
-=== The Religion, a congregation tied together by a shared belief.
+==== The Religion, a congregation tied together by a shared belief.
 Tied together by belief, a Religion offers hope for the hopeless.
 Unfortunately, how do you know what's solid ground on in a strange planet?
 
@@ -145,7 +144,7 @@ Roles:: a priest, an acolyte, a layman.
 Look:: What symbol do you wear to show your affiliation?
 Scene:: Fade in to the first light from the planet, what color is it?
 
-=== The Society, tied together by curiosity and a desire for knowledge.
+==== The Society, tied together by curiosity and a desire for knowledge.
 Tied together by curiosity, which is the loosest bond of all.  Sometimes it
 pays off.  Sometimes you breathe ether.
 
@@ -154,9 +153,8 @@ Roles:: a scientist, an engineer, an explorer.
 Look:: What type of clothing shows your membership of the society?
 Scene:: The planet's air blows through a gash in the hull, what do you smell?
 
-<<<
 image::img/planetfall-bw.png[]
-= Planetfall
+== Planetfall
 Get out a piece of blank white paper and draw a bullseye on it.  In the center
 is your crash site.
 
@@ -173,9 +171,8 @@ When the introductory scenes are done, everyone should have answered for their
 playbook's look, and come up with their character's goal.  In the blank space
 after the last introductory scene, decide where to fade in.
 
-<<<
 image::img/salvage.png[]
-= Play
+== Play
 Most of play is just conversation.  People talk about what they do, and what
 happens when they do it.  Don't worry about the minutia -- anything you
 wouldn't see in the movies shouldn't be bothered with here.  Batman doesn't
@@ -200,7 +197,7 @@ called *moves.*  Read them in three parts:
    as options picked, Gaia gets to decide which ones apply.  (Even one hit
    means you do the thing, though, so you're still safe there.)
 
-== Basic Moves
+=== Basic Moves
 
 When you *remember where something important was on the ship,* name it and
 choose at least one, then roll mind.  On a hit, you know where it is.
@@ -235,14 +232,13 @@ then roll senses.  On a hit, you find it.
 - it’s hard to break
 - nobody else wants it right now
 
-<<<
 image::img/harvest.png[]
-= Gaia
+== Gaia
 This is your planet, Gaia.  These are your rules.  If you've played other
 things like this, note that these are _rules_, not just gamemaster suggestions.
 Treat them as such.
 
-== Agenda
+=== Agenda
 The other players only need to say what their characters do, and play them like
 people.  That's much easier than your role.  Everything you say needs to work
 towards these:
@@ -270,7 +266,7 @@ I'll do what I can to give you prompts. Of course, if you have just the most
 amazing idea come to you right as they round that corner, don't let the prompts
 stand in your way.
 
-== Your moves
+=== Your moves
 Yes, you have these too. They're a bit different, though: Gaia doesn't roll
 dice. Instead, you should be thinking about that fiction and figuring out what
 that next shot would be. When there's a pause in a scene, or people don't know
@@ -286,7 +282,7 @@ hits, you get to do one of these things.
 - Break their stuff
 - Hurt them
 
-=== Change the environment
+==== Change the environment
 Weather patterns. Landscape features. Astronomical phenomenon. This is not
 Earth you're living on.
 
@@ -299,7 +295,7 @@ Earth you're living on.
 > Looks like this river is made of molasses, but the smell proves that false.
 > How do you get across? 
 
-=== Introduce new flora or fauna
+==== Introduce new flora or fauna
 One of the best ways to make the planet strange is to make the stuff living
 there a bit off, too. Start with something familiar and twist it.
 
@@ -311,7 +307,7 @@ there a bit off, too. Start with something familiar and twist it.
 > It's a herd of something, like horses but -- Amanda, what seems odd about
 > these animals to you?
 
-=== Put a threat on the horizon
+==== Put a threat on the horizon
 This is a nice soft move for when things get a bit too simple.
 
 > You see smoke -- or is it dust? -- off in the distance, and hear a rumble
@@ -323,7 +319,7 @@ This is a nice soft move for when things get a bit too simple.
 > There's less of a herd today from yesterday. Some of the scouts say they've
 > seen their herds leave completely.
 
-=== Show a downside
+==== Show a downside
 Especially when someone thinks they've found a way to cheat the system, look
 for something in the fiction that just doesn't seem right, and push it.
 Something can always go wrong.
@@ -336,7 +332,7 @@ Something can always go wrong.
 > You're really feeling the need for more of those meds now that you've been
 > taking them for a while. The normal dose just isn't cutting it.
 
-=== Add a cost
+==== Add a cost
 This could be literal -- perhaps the colonists have set up a barter system, or
 even some currency. More often it's figurative, though.
 
@@ -348,7 +344,7 @@ even some currency. More often it's figurative, though.
 > Your orders were necessary, but very hard to give. How do you keep yourself
 > from getting too down about it?
 
-=== Reverse their move
+==== Reverse their move
 Pick one of the options and flip it around -- tend towards one they didn't
 choose, when you're feeling kind.
 
@@ -360,7 +356,7 @@ choose, when you're feeling kind.
 
 > Arlea will do what you asked, but she's not happy about it.
 
-=== Break their stuff
+==== Break their stuff
 Generally, stuff will break in lieu of the characters becoming broken, so
 they've got that going for 'em.
 
@@ -371,7 +367,7 @@ they've got that going for 'em.
 > Your handheld smashes on the rocks, and I don't think that screen's turning
 > back on.
 
-=== Hurt them
+==== Hurt them
 Pick a stat and explain why it drops, fictionally. Stat loss is permanent in
 Exile (though characters can prop themselves up with technology), so don't do
 this lightly.  Do it, though: especially on a miss, or in those times when they
@@ -386,10 +382,10 @@ invite clear and present danger right in.
 > You find your old friend on the ship, but they've gone cold. Take -1 to
 > spirit.
 
-= Appendices
+== Appendices
 [appendix]
 
-== Ludography
+=== Ludography
 Standing on the shoulders of giants.  Not every inspiration is listed, of
 course: some are totally unconscious.  Parallel development is also a thing.
 
