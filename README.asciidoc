@@ -194,6 +194,7 @@ called *moves.*  Read them in three parts:
 
 When you *remember where something important was on the ship,* name it and
 choose at least one, then roll mind.  On a hit, you know where it is.
+
 - it's close to you
 - you know a secret way
 - you have the access codes
@@ -201,18 +202,21 @@ choose at least one, then roll mind.  On a hit, you know where it is.
 When you *make your way to an interesting place,* find (or draw) it on the map
 and choose at least one, then roll body.  On a hit, you get there.  If it isn’t
 named, name it.
+
 - it doesn’t take much time
 - nobody / nothing notices you
 - you’re not worn out by the trip
 
 When you *give orders to the colonists,* say what they are and choose at least
 one, then roll spirit.  On a hit, they do what you say.
+
 - they jump to it
 - they’re experienced at this kind of thing
 - nobody takes offense
 
 When you *look for something useful nearby,* name it and choose at least one,
 then roll senses.  On a hit, you find it.
+
 - it’s in perfect repair
 - it’s hard to break
 - nobody else wants it right now
