@@ -28,7 +28,7 @@ things happen are seldom interesting.
 Another nice thing about playing with a group of creative people is that nobody
 has to come up with everything themselves.  Creativity is draining, especially
 building a whole world up from nothing.  Sometimes you can make someone else
-create, or use the rules and tables in this book to prompt you.
+create, or use the rules and tables in this book (TODO) to prompt you.
 
 ==== No secrets
 There are no secrets in Exile.  Either everyone at the table knows, or nobody
