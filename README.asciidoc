@@ -193,12 +193,13 @@ few of these times listed below.  In Powered by the Apocalypse games, these are
 called *moves.*  Read them in three parts:
 
 1. *The trigger:* When this happens in the fiction, get ready to roll!  In
-   particular, if this _doesn't_ happen, _don't roll._
+   particular, if this _doesn't_ happen, _don't roll._  Rolling has serious,
+   irreversible consequences.
 2. *The success:* "On a hit" means you rolled at least one 5 or 6.  This is
    what the roll is deciding at its core.  If you don't actually care about
    this, you probably don't want to trigger the move.  Step back and
    re-evaluate.  On a miss, of course, you don't get this, and you'll have
-   some serious problems to deal with: failure is irrevocable in Exile.
+   some serious problems to deal with.
 3. *The options:* Help everyone else understand what's at stake here before you
    roll, so you're all on the same page.  Perhaps you don't care how long it
    takes, but you've got to be rested when you get there.  This is what the
@@ -261,11 +262,11 @@ give them a good death), you're not trying to show them your sci-fi collection,
 and you're certainly not trying to take over the colony with your own people.
 
 Play to find out: You have to commit to the unknown. Don't worry about what's
-behind the next corner or what's over that mountain. Exile and other games like
-it are powerful because the world is just a shared imaginary space. If you say
-something's there, it's there. When they go around the corner, then you can
-think about what's there. When they climb the mountain, then you can figure out
-what they can see.
+behind the next corner or what's over that mountain. _Exile_ and other things
+like it are powerful because the world is just a shared imaginary space. If you
+say something's there, it's there. If they go around the corner, that's when
+you can think about what's there. If they climb the mountain, that's when you
+can figure out what they can see.
 
 When you're figuring that stuff out, you've got two responsibilities: make the
 planet strange yet familiar, and show that the colonists are still human. If
