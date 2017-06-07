@@ -303,7 +303,7 @@ Earth you're living on.
 > one.
 
 > Looks like this river is made of molasses, but the smell proves that false.
-> How do you get across? 
+> How do you get across?
 
 ==== Introduce new flora or fauna
 One of the best ways to make the planet strange is to make the stuff living
