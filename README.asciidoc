@@ -49,11 +49,12 @@ a blank space for everyone to discuss plans, think through options, grab
 snacks.  When there's an obvious next step, Gaia will open a scene to handle
 that next step.
 
-Keep scenes as focused as possible, and end them when they go unfocused.
-
 Gaia opens a scene by bringing a character or two in to play, and either says
-what's going on or asks a player.  When the core of that scene is resolved, or
-it goes unfocused, Gaia will close it out.
+what's going on or asks a player.  Keep scenes as focused as possible.  *When
+somebody rolls dice, end the scene.*  Dice should resolve the core question of
+the scene, so if the scene seems unfinished, it's probably not time to roll
+dice yet.  Scenes can also end without dice (often just for color), if you
+like.
 
 Sometimes -- but not always -- one scene naturally leads into another.  Gaia
 should feel free to cut from scene to scene immediately, without blank space.
@@ -192,14 +193,14 @@ picking up.  Generally, that means it's time to roll the dice.  I've got a
 few of these times listed below.  In Powered by the Apocalypse games, these are
 called *moves.*  Read them in three parts:
 
-1. *The trigger:* When this happens in the fiction, get ready to roll!  In
-   particular, if this _doesn't_ happen, _don't roll._  Rolling has serious,
-   irreversible consequences.
+1. *The trigger:* When this is what the scene hinges on, get ready to roll!  In
+   particular, if this isn't the core question of the scene, _don't roll._
+   Rolling has serious, irreversible consequences.
 2. *The success:* "On a hit" means you rolled at least one 5 or 6.  This is
    what the roll is deciding at its core.  If you don't actually care about
    this, you probably don't want to trigger the move.  Step back and
    re-evaluate.  On a miss, of course, you don't get this, and you'll have
-   some serious problems to deal with.
+   some serious problems to deal with after permanently losing a die.
 3. *The options:* Help everyone else understand what's at stake here before you
    roll, so you're all on the same page.  Perhaps you don't care how long it
    takes, but you've got to be rested when you get there.  This is what the
@@ -208,6 +209,8 @@ called *moves.*  Read them in three parts:
    means you do the thing, though, so you're still safe there.)
 
 === Basic Moves
+
+TODO: These are poorly structured for core scene questions. Revise.
 
 When you *remember where something important was on the ship,* name it and
 choose at least one, then roll mind.  On a hit, you know where it is.
