@@ -13,10 +13,10 @@ play colonists, hoping to survive together.
 
 === The game
 Exile isn't quite a "game" in the normal sense -- nobody's attempting to win,
-and losing a character doesn't lose you the game or anything.  It's more like
-a structured way to play pretend.  We hand the reins of the experience over to
-Gaia, and the other players build characters to control like they're piloting
-a mech suit.
+and losing a character doesn't make you lose or anything.  It's more like a
+structured way to play pretend.  We hand the reins of the experience over to
+Gaia, and the other players build characters to control like they're piloting a
+mech suit.
 
 The nice thing about this is that we can avoid the old cops and robbers
 argument of "I shot you!" "No, you didn't!" because someone's in charge of
