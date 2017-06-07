@@ -84,10 +84,10 @@ image::img/boarding.png[]
 To create a colonist, pick a playbook and roll four six-sided dice (4d6).
 Assign these dice to the four colonist attributes (higher is better):
 
-- Mind: intelligence, wisdom, ability to learn, etc.
-- Body: strength, dexterity, constitution, etc.
-- Spirit: charisma, morale, emotional intelligence, etc.
-- Sense: sight, hearing, smell, touch, taste, etc.
+- Mind: intelligence, wisdom, ability to learn.
+- Body: strength, dexterity, constitution.
+- Spirit: charisma, morale, emotional intelligence.
+- Sense: sight, hearing, smell, touch, taste.
 
 Choose one of the roles, think about your look, and be ready to play out your
 planetfall scene.
