@@ -68,6 +68,11 @@ so it has breathable air, reasonable gravitational forces, and drinkable water.
 You were never meant to return to Earth, so it's not like losing a viable
 starship changes much.
 
+There were several thousand people on the colony ship when it entered the
+atmosphere.  At least a thousand survived the crash, at least initially.  After
+that, it's up to you.  There's a ton of diversity in who's on board -- what
+they know how to do, where they come from, what they look like, and so on.
+
 This story is not about colony in-fighting, though that may happen.  Neither is
 it about player-vs-player conflict.  No player's character is going to be an
 antagonist here.  The planet is enough of one.  If an antagonist arises from
