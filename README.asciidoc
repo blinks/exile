@@ -163,17 +163,18 @@ Scene:: The planet's air blows through a gash in the hull, what do you smell?
 
 image::img/planetfall-bw.png[]
 == Planetfall
-Get out a piece of blank white paper and draw a bullseye on it.  In the center
-is your crash site.
-
-Each player in turn should decide what their character was before planetfall by
-picking a playbook and a role, and then play out the associated scene.
+Gaia, get out a piece of blank white paper and draw a bullseye on it.  In the
+center is the crash site.  Go around the table and start the planetfall scene
+for each character.  You can jump around, but make sure everyone gets this
+first scene before anybody gets a second one.
 
 Play the scene for a minute or two, enough to show the character, the broken
 ship, the planet, and then cut.  You don't need to show every second of life in
-the aftermath of planetfall, this is more of a montage.  After each scene,
-players should consider their immediate priorities and write one down as a
-goal.
+the aftermath of planetfall, this is more of a montage.
+
+After each scene, players should consider their immediate priorities and write
+one down as a goal.  It should be attainable in the near term, and easy to
+determine when you've reached it.
 
 When the introductory scenes are done, everyone should have answered for their
 playbook's look, and come up with their character's goal.  In the blank space
