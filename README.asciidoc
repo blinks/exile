@@ -347,6 +347,8 @@ course: some are totally unconscious.  Parallel development is also a thing.
 - Luke Crane. _Burning Wheel_. 2002.
 - D. Vincent Baker. _Dogs in the Vineyard_. 2004.
 - D. Vincent Baker. _Apocalypse World_. 2010.
+- John Harper, _Lady Blackbird_. 2011.
 - Adam Koebel, Sage LaTorra. _Dungeon World_. 2012.
 - Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson. _Fate
   Core_. 2014.
+- John Harper, _Blades in the Dark_. 2017.
