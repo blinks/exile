@@ -94,9 +94,13 @@ Choose one of the entries in the ship's manifest and fill in the blanks.
 
 === Ship's Manifest
 
-| name | what then? | what now? |
-| ---- | ----- | ---- |
-| TODO | TODO | TODO |
+.Ship's manifest
+|===
+|name |what then? |what now?
+
+|TODO |TODO |TODO
+
+|===
 
 image::img/planetfall-bw.png[]
 == Planetfall
