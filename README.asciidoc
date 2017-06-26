@@ -81,109 +81,141 @@ within the colony, Gaia will figure out what they do.  Players are on the same
 team.
 
 image::img/boarding.png[]
-== Colonists
-To create a colonist, pick a playbook and roll four six-sided dice (4d6).
-Assign these dice to the four colonist attributes (higher is better):
+== Prelude
+The first session starts with some world-building.  Nothing major, just enough
+to get everyone on the same page and charge the situation so we start with
+momentum.
 
-- Mind: intelligence, wisdom, ability to learn.
-- Body: strength, dexterity, constitution.
-- Spirit: charisma, morale, emotional intelligence.
-- Sense: sight, hearing, smell, touch, taste.
+_Exile_ has some defaults that you can adjust however you like, as long as you
+maintain the crux of the situation: you lived in a broken world, left it to
+make a new life in a different world, and can never go back.
 
-Choose one of the entries in the ship's manifest and fill in the blanks.
+=== What was the world like?
+By default, the world you left was a near future version of the world you're
+living in today.  Technology hand-waved to a point where we could build a
+starship full of exiles, but otherwise very similar to now.  Anywhere is fine,
+but you won't be able to get back there, and it isn't perfect.
 
-=== Ship's Manifest
+=== Why did you leave?
+By default, you left because of social and economic pressures: poverty and
+discrimination and fear.  The group is large, you can have a bunch of reasons
+that coexist.  It's not a pleasure cruise, though: you _had_ to leave.
 
-.Ship's manifest
-|===
-|name |what then? |what now?
+=== What happened on the journey?
+By default, the group split into various factions: describe them.  Perhaps you
+ran into trouble on the way and lost a bunch of people to collision with space
+debris.  Perhaps your flight path was incorrect and the trip was much longer
+than expected.  It wasn't a short trip, but it's not the core of the game: just
+a few bullet points are enough here.
 
-|TODO |TODO |TODO
-
-|===
+=== Where did you go?
+By default, you were heading to a planet that could sustain human life:
+describe it.  Is it Earth-like, or just barely habitable?  Will you have to
+live on the surface of an ocean, or is it mostly desert?
 
 image::img/planetfall-bw.png[]
 == Planetfall
-Gaia, get out a piece of blank white paper and draw a bullseye on it.  In the
-center is the crash site.  Go around the table and start the planetfall scene
-for each character.  You can jump around, but make sure everyone gets this
-first scene before anybody gets a second one.
+Roll characters.  Everyone but Gaia is playing someone from the end of the
+journey -- first generation exiles.
 
-Play the scene for a minute or two, enough to show the character, the broken
-ship, the planet, and then cut.  You don't need to show every second of life in
-the aftermath of planetfall, this is more of a montage.
+1. Name your colonist. (TODO: name lists!)
+2. Roll four six-sided dice (4d6) and assign three of them to your three stats.
+   - Mind: intelligence, planning, invention.
+   - Body: strength, dexterity, constitution.
+   - Spirit: charisma, morale, will.
+3. The remaining die determines what you have with you at the start.
+   - For each pip, describe (in a few words) something you carry off the ship.
+   - Examples: a medical kit; a blaster rifle; a photo of my children.
+4. Write down the reason you had to leave, using ideas from the prelude.
 
-After each scene, players should consider their immediate priorities and write
-one down as a goal.  It should be attainable in the near term, and easy to
-determine when you've reached it.
+Once you have characters, collaboratively roll up the colony as well, in the
+same way.
 
-When the introductory scenes are done, everyone should have answered for their
-playbook's look, and come up with their character's goal.  In the blank space
-after the last introductory scene, decide where to fade in.
+1. Name your colony. (TODO: name lists!)
+2. Roll 4d6 and assign three of them to the colony's three stats.
+   - Mind: plan out expansion, research flora and fauna characteristics.
+   - Body: work the land, build and repair structures and tools.
+   - Spirit: community morale, ability to work together.
+3. The remaining die determines what's already built at the colony.
+   - For each pip, describe (in a few words) something you've built.
+   - Examples: fortifications, a laboratory, a community hall.
+4. Write down a core piece of the colony's culture, a reaction to the prelude.
+
+Grab a big piece of paper and write each colonist's name on it, with the colony
+itself named in the center.  For every relationship that comes up in play, draw
+a line between the entities involved and write the relationship down: this is
+called an R-map ("relationship map"), and it's a great way to keep everyone on
+the same page with respect to what's going on.  This will get messy -- let it.
+You can always (and you probably should, if not every session, every few
+sessions) re-draw it later.
+
+Whenever someone (or something) new and important is mentioned, add it to the
+map -- this means it needs a name!  Whenever people form a group of more than
+two, add it to the map -- in most cases, you should also come up with a visual
+signifier of membership in the group, and name it.  When people form a group of
+two, connect them on the map.
+
+If any colonist isn't connected at least two ways right out of the gate, go
+around the table and answer some of these questions:
+
+- What role do you feel you have in the colony right at the start?  Were you a
+  primary founder?  Did you help build or plan?  Did you explore to find the
+  site?  Draw a relationship between your colonist and the colony describing
+  it.
+- What other colonist do you feel is the most reliable?  The most intriguing?
+  The most clever?  Draw a relationship between your colonist and that colonist
+  describing what you think.
 
 image::img/salvage.png[]
 == Play
 Most of play is just conversation.  People talk about what they do, and what
 happens when they do it.  Don't worry about the minutia -- anything you
-wouldn't see in the movies shouldn't be bothered with here.  Batman doesn't
-ride the bus to the crime scene, he just shows up.
+wouldn't see in the movies shouldn't be bothered with here.  In particular,
+when players ask you for clarification: give it to them or turn the question
+around.
 
-Sometimes, a character will do something, and you can just hear the soundtrack
-picking up.  Generally, that means it's time to roll the dice.  I've got a
-few of these times listed below.  In Powered by the Apocalypse games, these are
-called *moves.*  Read them in three parts:
+The only time you roll the dice in Exile is when the scene comes to a head and
+how it resolves is a major piece of tension.  That's when you turn to these
+moves.  They're described in three parts.
 
-1. *The trigger:* When this is what the scene hinges on, get ready to roll!  In
+- *The trigger:* When this is what the scene hinges on, get ready to roll!  In
    particular, if this isn't the core question of the scene, _don't roll._
-   Rolling has serious, irreversible consequences.
-2. *The success:* "On a hit" means you rolled at least one 5 or 6.  This is
+   Rolling should always have serious, irreversible consequences.
+- *The success:* "On a hit" means you rolled at least one 5 or 6.  This is
    what the roll is deciding at its core.  If you don't actually care about
    this, you probably don't want to trigger the move.  Step back and
    re-evaluate.  On a miss, of course, you don't get this, and you'll have
-   some serious problems to deal with after permanently losing a die.
-3. *The options:* Help everyone else understand what's at stake here before you
+   some serious problems to deal with.
+- *The options:* Help everyone else understand what's at stake here before you
    roll, so you're all on the same page.  Perhaps you don't care how long it
    takes, but you've got to be rested when you get there.  This is what the
    options are for.  You can choose a few, but if you don't roll as many hits
-   as options picked, Gaia gets to decide which ones apply.  (Even one hit
+   as options picked, Gaia gets to decide which one applies.  (Even one hit
    means you do the thing, though, so you're still safe there.)
+
+When you resolve a scene, do so in this order:
+
+1. *Intent.*  What's the plot here?  Pick a relevant move.
+2. *Choice.*  Each move comes with a few options, pick as many as you like (but
+   always at least one).  The number of options you pick determines the
+   difficulty number: how many hits you need.
+3. *Cost.*  For the options you don't pick, Gaia will describe
+   immediate costs.  You can still back out and pick those options at this
+   point, and they won't (necessary) happen!  Once you roll the dice, though,
+   these costs are locked in.  Gaia: be nice.  Sometimes, these shouldn't
+   matter.  Sometimes they obviously do.
+4. *The Roll.*  Build your pool and roll the dice.  All the costs apply
+   immediately after, no matter what you roll.  Look for hits (5s and 6s) and
+   count 'em up.
+5. *Consequences.*  If you rolled enough hits to cover your choices,
+   congratulations!  You got everything you wanted.  If you rolled at least one
+   hit, but not enough to cover your choices, Gaia will make a move.  The more
+   you missed by, the stronger that move can be.  If you didn't roll even one
+   hit, the scene is tragic.
 
 === Basic Moves
 
-TODO: These are poorly structured for core scene questions. Revise.
-
-When you *remember where something important was on the ship,* name it and
-choose at least one, then roll mind.  On a hit, you know where it is.
-
-[options="compact"]
-- it's close to you
-- you know a secret way
-- you have the access codes
-
-When you *make your way to an interesting place,* find (or draw) it on the map
-and choose at least one, then roll body.  On a hit, you get there.  If it isn’t
-named, name it.
-
-[options="compact"]
-- it doesn’t take much time
-- nobody / nothing notices you
-- you’re not worn out by the trip
-
-When you *give orders to the colonists,* say what they are and choose at least
-one, then roll spirit.  On a hit, they do what you say.
-
-[options="compact"]
-- they jump to it
-- they’re experienced at this kind of thing
-- nobody takes offense
-
-When you *look for something useful nearby,* name it and choose at least one,
-then roll senses.  On a hit, you find it.
-
-[options="compact"]
-- it’s in perfect repair
-- it’s hard to break
-- nobody else wants it right now
+TODO
 
 image::img/harvest.png[]
 == Gaia
