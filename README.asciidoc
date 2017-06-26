@@ -94,7 +94,7 @@ make a new life in a different world, and can never go back.
 By default, the world you left was a near future version of the world you're
 living in today.  Technology hand-waved to a point where we could build a
 starship full of exiles, but otherwise very similar to now.  Anywhere is fine,
-but you won't be able to get back there, and it isn't perfect.
+but you can't go back.
 
 === Why did you leave?
 By default, you left because of social and economic pressures: poverty and
