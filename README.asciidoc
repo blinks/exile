@@ -89,19 +89,68 @@ it's supposed to be a temporary assignment.
 - You believe that the wealth of this planet will mostly come from discovery;
   you must set up favorable deals with the scientist to ensure the Guild gets
   exclusive, private access.
-- You believe that ...
-- You (and only you) have ...
+- You believe that the captain crashed the ship on purpose, to strand the
+  prince here; you will find evidence to bring them to justice once you both
+  get off-planet.
+- You (and only you) have the authority to make agreements in the name of the
+  guild.
 
-- The Prince: Third son, forced into exile to save his family some
-  embarrassment -— but here, he’s certainly the senior heir.
-- The Priestess: Planetfall gave her a brief moment of enlightenment, and she
-  thinks Gaia is calling her to start a new religion.  She might be right.
-- The Scientist: A whole new world to explore and learn about, and a small pond
-  for them to be a big fish in.
+=== You are the Prince
+You tried to make a name for yourself with some clever maneuvering in the war,
+but luck wasn't with you in those days.  As the third son, you were the
+scapegoat for the rest of your family's crimes, and exiled for it.  Perhaps
+this world is in need of your royal bloodline.
+
+- You believe that only the nobility has the right to rule; you must take
+  charge of these events before the peasantry makes a mess of them.
+- You believe that the Guild is your one remaining link to home; you must get
+  favorable agreements with them to regain your status with your house.
+- You believe that the colony needs defenses, and having the corps here is a
+  happy coincidence; you'll make sure the colony has a trained defense force
+  ready before it's too late.
+- You (and only you) have your saber, a family heirloom made out of a rare
+  metal.
+
+=== You are the Priestess
+Before planetfall, you were a brave colonist, a generalist, a survivalist.
+Now, you've seen the power of this planet and heard it call your own name.
+
+- You believe that this world will eventually speak to everyone, if it isn't
+  silenced; you must make sure the life here is treated with respect.
+- You believe that the colony can survive through cooperating with the world;
+  you must prevent the Guild from stripping its wealth away.
+- You believe that the ship did enough damage in the crash; you must prevent it
+  from ever launching again, to avoid the additional damage that would cause.
+- You (and only you) can communicate (out loud) with an entity you call Gaia.
+  Only you can hear her responses.
+
+=== You are the Scientist
+A whole unexplored world!  Even if tens of acres were destroyed in the crash,
+there's millions more to be found and studied and written about.  As long as
+you're given the freedom to work, and equipment to replace what was lost, you
+should have several serious papers to distribute before the year is out.
+
+- You believe that the ship's fumes are destroying the natural ecosystem; you
+  must learn what you can before it's too-far altered by your presence.
+- You believe that the colonists' new religion is a psychological defense
+  mechanism; while unfortunate, you must not let it interfere with the
+  important tasks of getting the colony up and running.
+- You believe that the corps could be helpful in early exploration efforts; you
+  must ensure some of that resource gets allocated to scientific endeavors.
+- You (and only you) have the knowledge of how to repair the ship; you will
+  likely need a rare metal to do anything useful there, though.
 
 === You are the Veteran
-Stranded here on accident, she thinks the ship can be repaired enough to get at
-least some people back into the black.
+Ten years ago, the captain saved your life.  Now, the corps will save the
+captain.
+
+- You believe that the ship can be repaired; you must find someone capable of
+  doing so and get them working on it soon, before the fuel decays too far.
+- You believe that the captain is above reproach; you must protect their
+  reputation from civilians who don't understand life in the corps.
+- You believe that the prince deserves to be exiled here, after the pain his
+  orders caused to your family; you won't let him escape that punishment.
+- You (and only you) have a small scout ship, the only one to survive re-entry.
 
 == Session
 
