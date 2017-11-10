@@ -1,376 +1,54 @@
 = Exile: A colony-building role-playing game
 Adam Blinkinsop <blinks@acm.org>, illustrated by Nate Marcel.
-v0.1, {localdate}: Draft.
+v0.17, {localdate}: Draft.
 :doctype: book
 :toc: left
 
 image::img/planetfall-orig.png[]
 == The basics
-This is a story about the survivors of a fallen colony ship.  One of you plays
-as https://en.wikipedia.org/wiki/Gaia_hypothesis[Gaia], with her eyes and ears
-on the planet itself, its flora and fauna, and the colony.  The rest of you
-play colonists, hoping to survive together.
 
-=== The game
-Exile isn't quite a "game" in the normal sense -- nobody's attempting to win,
-and losing a character doesn't make you lose or anything.  It's more like a
-structured way to play pretend.  We hand the reins of the experience over to
-Gaia, and the other players build characters to control like they're piloting a
-mech suit.
 
-The nice thing about this is that we can avoid the old cops and robbers
-argument of "I shot you!" "No, you didn't!" because someone's in charge of
-deciding what happens at any given point.  It's not that much fun to always
-just decide, though, so we'll often push it off to the dice.  The dice don't
-feel as bad when things go poorly, so that's a bonus.  Stories where only good
-things happen are seldom interesting.
+=== Prep
+- create / update map (bullseye divided into segments, ship at center)
+- create / update characters as needed (draw for stats, which are secret)
+- draw (or decide) the situation.
 
-Another nice thing about playing with a group of creative people is that nobody
-has to come up with everything themselves.  Creativity is draining, especially
-building a whole world up from nothing.  Sometimes you can make someone else
-create, or use the rules and tables in this book (TODO) to prompt you.
+=== Session
+. Dawn. (Free play, wandering time, clerk seeds everyone with recent issues
+  and opportunities.)
+. Day. (If anyone wants to call for scenes, they can do so.)
+. Dusk. (The meeting. Where is it? Who calls it to order?  Who’s supposed to
+  be there?  Who’s there anyway?  What do they decide?)
 
-==== No secrets
-There are no secrets in Exile.  Either everyone at the table knows, or nobody
-knows.  Hard and fast rule.
+During play, the clerk (facilitator) is walking around taking notes (questions,
+ideas, events) for future prep.  Anything non-physical that happens during the
+session is non-mechanized, so to convince someone you must convince them.
+Anything physical is a look-up by the facilitator, based on the [secret] stats
+of those involved.  At the end of the session, players will tell the clerk what
+they work on off-screen.
 
-This means no character backstory that doesn't emerge from play.  It means no
-building a world map on your own and then springing it on the other players.
-It means don't write up the alien planet bird-watching book and consult it
-when someone looks outside.
+== Characters
+The Captain:: Secretly intended to crash the ship, Cortez-style, but didn’t
+mean to strand the corps here. Wants to impose military order with himself at
+the head.
 
-It also means you can't have secret plans that only you and Gaia know about,
-springing them on the others only after completion.  Air those things out,
-folks.
+The Merchant:: An ambassador of sorts from the Guild, to set up interstellar
+trade routes; current situation means they better start smaller, but it’d be
+nice to ship off-planet.
 
-==== Scenes
-Exile is played over a sequence of scenes, like a movie.  Between scenes is
-a blank space for everyone to discuss plans, think through options, grab
-snacks.  When there's an obvious next step, Gaia will open a scene to handle
-that next step.
+The Prince:: Third son, forced into exile to save his family some embarrassment
+-— but here, he’s certainly the senior heir.
 
-Gaia opens a scene by bringing a character or two in to play, and either says
-what's going on or asks a player.  Keep scenes as focused as possible.  *When
-somebody rolls dice, end the scene.*  Dice should resolve the core question of
-the scene, so if the scene seems unfinished, it's probably not time to roll
-dice yet.  Scenes can also end without dice (often just for color), if you
-like.
+The Priestess:: Planetfall gave her a brief moment of enlightenment, and she
+thinks Gaia is calling her to start a new religion.  She might be right.
 
-Sometimes -- but not always -- one scene naturally leads into another.  Gaia
-should feel free to cut from scene to scene immediately, without blank space.
-Give everyone a chance to rest, though.  Continuous storytelling is exhausting.
+The Scientist:: A whole new world to explore and learn about, and a small pond
+for them to be a big fish in.
 
-Anyone can suggest a scene during the blank space, but Gaia's the final arbiter
-of where the camera goes.  Be generous with screen time.
+The Veteran:: Stranded here on accident, she thinks the ship can be repaired
+enough to get at least some people back into the black.
 
-=== The colony
-In a way, the colony is fortunate: this was the planet you set out to find, and
-so it has breathable air, reasonable gravitational forces, and drinkable water.
-You were never meant to return to Earth, so it's not like losing a viable
-starship changes much.
-
-There were several thousand people on the colony ship when it entered the
-atmosphere.  At least a thousand survived the crash, at least initially.  After
-that, it's up to you.  There's a ton of diversity in who's on board -- what
-they know how to do, where they come from, what they look like, and so on.
-
-This story is not about colony in-fighting, though that may happen.  Neither is
-it about player-vs-player conflict.  No player's character is going to be an
-antagonist here.  The planet is enough of one.  If an antagonist arises from
-within the colony, Gaia will figure out what they do.  Players are on the same
-team.
-
-image::img/boarding.png[]
-== Prelude
-The first session starts with some world-building.  Nothing major, just enough
-to get everyone on the same page and charge the situation so we start with
-momentum.
-
-_Exile_ has some defaults that you can adjust however you like, as long as you
-maintain the crux of the situation: you lived in a broken world, left it to
-make a new life in a different world, and can never go back.
-
-=== What was the world like?
-By default, the world you left was a near future version of the world you're
-living in today.  Technology hand-waved to a point where we could build a
-starship full of exiles, but otherwise very similar to now.  Anywhere is fine,
-but you can't go back.
-
-=== Why did you leave?
-By default, you left because of social and economic pressures: poverty and
-discrimination and fear.  The group is large, you can have a bunch of reasons
-that coexist.  It's not a pleasure cruise, though: you _had_ to leave.
-
-=== What happened on the journey?
-By default, the group split into various factions: describe them.  Perhaps you
-ran into trouble on the way and lost a bunch of people to collision with space
-debris.  Perhaps your flight path was incorrect and the trip was much longer
-than expected.  It wasn't a short trip, but it's not the core of the game: just
-a few bullet points are enough here.
-
-=== Where did you go?
-By default, you were heading to a planet that could sustain human life:
-describe it.  Is it Earth-like, or just barely habitable?  Will you have to
-live on the surface of an ocean, or is it mostly desert?
-
-image::img/planetfall-bw.png[]
-== Planetfall
-Roll characters.  Everyone but Gaia is playing someone from the end of the
-journey -- first generation exiles.
-
-1. Name your colonist. (TODO: name lists!)
-2. Roll four six-sided dice (4d6) and assign three of them to your three stats.
-   - Mind: intelligence, planning, invention.
-   - Body: strength, dexterity, constitution.
-   - Spirit: charisma, morale, will.
-3. The remaining die determines what you have with you at the start.
-   - For each pip, describe (in a few words) something you carry off the ship.
-   - Examples: a medical kit; a blaster rifle; a photo of my children.
-4. Write down the reason you had to leave, using ideas from the prelude.
-
-Once you have characters, collaboratively roll up the colony as well, in the
-same way.
-
-1. Name your colony. (TODO: name lists!)
-2. Roll 4d6 and assign three of them to the colony's three stats.
-   - Mind: plan out expansion, research flora and fauna characteristics.
-   - Body: work the land, build and repair structures and tools.
-   - Spirit: community morale, ability to work together.
-3. The remaining die determines what's already built at the colony.
-   - For each pip, describe (in a few words) something you've built.
-   - Examples: fortifications, a laboratory, a community hall.
-4. Write down a core piece of the colony's culture, a reaction to the prelude.
-
-Grab a big piece of paper and write each colonist's name on it, with the colony
-itself named in the center.  For every relationship that comes up in play, draw
-a line between the entities involved and write the relationship down: this is
-called an R-map ("relationship map"), and it's a great way to keep everyone on
-the same page with respect to what's going on.  This will get messy -- let it.
-You can always (and you probably should, if not every session, every few
-sessions) re-draw it later.
-
-Whenever someone (or something) new and important is mentioned, add it to the
-map -- this means it needs a name!  Whenever people form a group of more than
-two, add it to the map -- in most cases, you should also come up with a visual
-signifier of membership in the group, and name it.  When people form a group of
-two, connect them on the map.
-
-If any colonist isn't connected at least two ways right out of the gate, go
-around the table and answer some of these questions:
-
-- What role do you feel you have in the colony right at the start?  Were you a
-  primary founder?  Did you help build or plan?  Did you explore to find the
-  site?  Draw a relationship between your colonist and the colony describing
-  it.
-- What other colonist do you feel is the most reliable?  The most intriguing?
-  The most clever?  Draw a relationship between your colonist and that colonist
-  describing what you think.
-
-image::img/salvage.png[]
-== Play
-Most of play is just conversation.  People talk about what they do, and what
-happens when they do it.  Don't worry about the minutia -- anything you
-wouldn't see in the movies shouldn't be bothered with here.  In particular,
-when players ask you for clarification: give it to them or turn the question
-around.
-
-The only time you roll the dice in Exile is when the scene comes to a head and
-how it resolves is a major piece of tension.  That's when you turn to these
-moves.  They're described in three parts.
-
-- *The trigger:* When this is what the scene hinges on, get ready to roll!  In
-   particular, if this isn't the core question of the scene, _don't roll._
-   Rolling should always have serious, irreversible consequences.
-- *The success:* "On a hit" means you rolled at least one 5 or 6.  This is
-   what the roll is deciding at its core.  If you don't actually care about
-   this, you probably don't want to trigger the move.  Step back and
-   re-evaluate.  On a miss, of course, you don't get this, and you'll have
-   some serious problems to deal with.
-- *The options:* Help everyone else understand what's at stake here before you
-   roll, so you're all on the same page.  Perhaps you don't care how long it
-   takes, but you've got to be rested when you get there.  This is what the
-   options are for.  You can choose a few, but if you don't roll as many hits
-   as options picked, Gaia gets to decide which one applies.  (Even one hit
-   means you do the thing, though, so you're still safe there.)
-
-When you resolve a scene, do so in this order:
-
-1. *Intent.*  What's the plot here?  Pick a relevant move.
-2. *Choice.*  Each move comes with a few options, pick as many as you like (but
-   always at least one).  The number of options you pick determines the
-   difficulty number: how many hits you need.
-3. *Cost.*  For the options you don't pick, Gaia will describe
-   immediate costs.  You can still back out and pick those options at this
-   point, and they won't (necessary) happen!  Once you roll the dice, though,
-   these costs are locked in.  Gaia: be nice.  Sometimes, these shouldn't
-   matter.  Sometimes they obviously do.
-4. *The Roll.*  Build your pool and roll the dice.  All the costs apply
-   immediately after, no matter what you roll.  Look for hits (5s and 6s) and
-   count 'em up.
-5. *Consequences.*  If you rolled enough hits to cover your choices,
-   congratulations!  You got everything you wanted.  If you rolled at least one
-   hit, but not enough to cover your choices, Gaia will make a move.  The more
-   you missed by, the stronger that move can be.  If you didn't roll even one
-   hit, the scene is tragic.
-
-=== Basic Moves
-
-TODO
-
-image::img/harvest.png[]
-== Gaia
-This is your planet, Gaia.  These are your rules.  If you've played other
-things like this, note that these are _rules_, not just gamemaster suggestions.
-Treat them as such.
-
-=== Agenda
-The other players only need to say what their characters do, and play them like
-people.  That's much easier than your role.  Everything you say needs to work
-towards these:
-
-- Show both strange and familiar from the planet.
-- Show the humanity of the colony.
-- Play to find out what happens when they meet.
-
-You're not trying to kill the characters (though they will certainly die --
-give them a good death), you're not trying to show them your sci-fi collection,
-and you're certainly not trying to take over the colony with your own people.
-
-Play to find out: You have to commit to the unknown. Don't worry about what's
-behind the next corner or what's over that mountain. _Exile_ and other things
-like it are powerful because the world is just a shared imaginary space. If you
-say something's there, it's there. If they go around the corner, that's when
-you can think about what's there. If they climb the mountain, that's when you
-can figure out what they can see.
-
-When you're figuring that stuff out, you've got two responsibilities: make the
-planet strange yet familiar, and show that the colonists are still human. If
-you can't figure out how to do this in the moment, ask the other players!
-They're on your team, here to help. Coming up with stuff on the fly is hard.
-I'll do what I can to give you prompts. Of course, if you have just the most
-amazing idea come to you right as they round that corner, don't let the prompts
-stand in your way.
-
-=== Your moves
-Yes, you have these too. They're a bit different, though: Gaia doesn't roll
-dice. Instead, you should be thinking about that fiction and figuring out what
-that next shot would be. When there's a pause in a scene, or people don't know
-what the next scene should be, or someone fails a roll, or doesn't get enough
-hits, you get to do one of these things.
-
-- Change the environment
-- Introduce new flora or fauna
-- Put a threat on the horizon
-- Show a downside
-- Add a cost
-- Reverse their move
-- Break their stuff
-- Hurt them
-
-==== Change the environment
-Weather patterns. Landscape features. Astronomical phenomenon. This is not
-Earth you're living on.
-
-> The rain falls thick, like each drop was poured from a bucket. Not going to
-> be comfortable going anywhere in that storm.
-
-> Today, all three of the local stars are in the sky. It's going to be a hot
-> one.
-
-> Looks like this river is made of molasses, but the smell proves that false.
-> How do you get across?
-
-==== Introduce new flora or fauna
-One of the best ways to make the planet strange is to make the stuff living
-there a bit off, too. Start with something familiar and twist it.
-
-> A low growl makes you look up, and you see a flock of ... dogs?
-
-> Up in those vines are wrapped all sorts of animals, each in various stages of
-> rot. You see one wriggle a bit, then the vine quickly constricts it further.
-
-> It's a herd of something, like horses but -- Amanda, what seems odd about
-> these animals to you?
-
-==== Put a threat on the horizon
-This is a nice soft move for when things get a bit too simple.
-
-> You see smoke -- or is it dust? -- off in the distance, and hear a rumble
-> growing louder through the ground.
-
-> Each day, another colonist comes back from foraging the ship with radiation
-> burns. They're starting to avoid salvage duty.
-
-> There's less of a herd today from yesterday. Some of the scouts say they've
-> seen their herds leave completely.
-
-==== Show a downside
-Especially when someone thinks they've found a way to cheat the system, look
-for something in the fiction that just doesn't seem right, and push it.
-Something can always go wrong.
-
-> Your plasma rifle just isn't very useful at this range -- by the time you
-> charge up a shot, it'll have closed to claw distance.
-
-> Sure, the lab can make an antidote, but it'll take about a week.
-
-> You're really feeling the need for more of those meds now that you've been
-> taking them for a while. The normal dose just isn't cutting it.
-
-==== Add a cost
-This could be literal -- perhaps the colonists have set up a barter system, or
-even some currency. More often it's figurative, though.
-
-> You bring one of those flying dogs down, but you got some bites on the way.
-> Hope they're not infected with anything dangerous.
-
-> Swimming across that river could sweep you way downstream, is that alright?
-
-> Your orders were necessary, but very hard to give. How do you keep yourself
-> from getting too down about it?
-
-==== Reverse their move
-Pick one of the options and flip it around -- tend towards one they didn't
-choose, when you're feeling kind.
-
-> You find the radio, but the knob got smashed; it's stuck on the command
-> channel at the moment.
-
-> You get to the crystal spire, but the way there was steep and you're
-> exhausted.
-
-> Arlea will do what you asked, but she's not happy about it.
-
-==== Break their stuff
-Generally, stuff will break in lieu of the characters becoming broken, so
-they've got that going for 'em.
-
-> You take down the beast, but your spear is unrecoverable.
-
-> The drugs are wearing off, and you feel the world becoming darker.
-
-> Your handheld smashes on the rocks, and I don't think that screen's turning
-> back on.
-
-==== Hurt them
-Pick a stat and explain why it drops, fictionally. Stat loss is permanent in
-Exile (though characters can prop themselves up with technology), so don't do
-this lightly.  Do it, though: especially on a miss, or in those times when they
-invite clear and present danger right in.
-
-> An explosion very close by sets your ears to ringing; your left one will
-> probably never recover. Take -1 to senses.
-
-> You hit the ground hard and break your leg. Take -1 to body and good luck
-> running from the flying dogs.
-
-> You find your old friend on the ship, but they've gone cold. Take -1 to
-> spirit.
-
-== Appendices
-[appendix]
-
-=== Ludography
+== Ludography
 Standing on the shoulders of giants.  Not every inspiration is listed, of
 course: some are totally unconscious.  Parallel development is also a thing.
 
