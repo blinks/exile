@@ -34,6 +34,7 @@ them to either finish up or escalate to violence.  Sometimes it's difficult to
 see when you're in that situation yourself.  It's alright for an argument to
 end with no obvious winner -- this happens in real life all the time.
  
+image::img/boarding.png[]
 == Planetfall and beyond
 Before each session, the facilitator needs to understand the situation so they
 can prompt the other players.
@@ -138,6 +139,7 @@ captain.
   orders caused to your family; you won't let him escape that punishment.
 - You (and only you) have a small scout ship, the only one to survive re-entry.
 
+image::img/salvage.png[]
 == The council room
 The character who called this meeting sits at the table, and decides who else
 to call in.  Other players may interrupt at their leisure, or plan and plot on
@@ -187,6 +189,7 @@ to come, before the next meeting is called.  Come up with more problems and
 opportunities, fill out the map some more, adjust beliefs as they're changed
 through play, and tick clocks towards completion.
 
+image::img/harvest.png[]
 == Ludography
 Standing on the shoulders of giants.  Not every inspiration is listed, of
 course: some are totally unconscious.  Parallel development is also a thing.
