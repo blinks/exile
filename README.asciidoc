@@ -53,28 +53,28 @@ For the first session, use these:
 - The map should be a bullseye, with the ship at the center and the rings
   divided into pieces with vague landscapes described there.
 - The problems:
-  - The captain sustained major injuries, and will likely die from them
-    [8-clock].
-  - The ship's colonization supplies were damaged in the crash, and might not
-    give us enough time to become self-sustaining [6-clock].
-  - The ship itself is becoming more dangerous; the thrusters were never
-    supposed to enter the atmosphere, and their environmental impact is unknown
-    [4-clock].
+   - The captain sustained major injuries, and will likely die from them
+     [8-clock].
+   - The ship's colonization supplies were damaged in the crash, and might not
+     give us enough time to become self-sustaining [6-clock].
+   - The ship itself is becoming more dangerous; the thrusters were never
+     supposed to enter the atmosphere, and their environmental impact is unknown
+     [4-clock].
 - The characters:  (TODO: beliefs + goals, randomly draw abilities)
-  - The Captain: Secretly intended to crash the ship, Cortez-style, but didn’t
-    mean to strand the corps here. Wants to impose military order with himself
-    at the head.
-  - The Merchant: An ambassador of sorts from the Guild, to set up interstellar
-    trade routes; current situation means they better start smaller, but it’d
-    be nice to ship off-planet.
-  - The Prince: Third son, forced into exile to save his family some
-    embarrassment -— but here, he’s certainly the senior heir.
-  - The Priestess: Planetfall gave her a brief moment of enlightenment, and she
-    thinks Gaia is calling her to start a new religion.  She might be right.
-  - The Scientist: A whole new world to explore and learn about, and a small
-    pond for them to be a big fish in.
-  - The Veteran: Stranded here on accident, she thinks the ship can be repaired
-    enough to get at least some people back into the black.
+   - The Captain: Secretly intended to crash the ship, Cortez-style, but didn’t
+     mean to strand the corps here. Wants to impose military order with himself
+     at the head.
+   - The Merchant: An ambassador of sorts from the Guild, to set up interstellar
+     trade routes; current situation means they better start smaller, but it’d
+     be nice to ship off-planet.
+   - The Prince: Third son, forced into exile to save his family some
+     embarrassment -— but here, he’s certainly the senior heir.
+   - The Priestess: Planetfall gave her a brief moment of enlightenment, and she
+     thinks Gaia is calling her to start a new religion.  She might be right.
+   - The Scientist: A whole new world to explore and learn about, and a small
+     pond for them to be a big fish in.
+   - The Veteran: Stranded here on accident, she thinks the ship can be repaired
+     enough to get at least some people back into the black.
 
 === Session
 . Dawn. (Free play, wandering time, clerk seeds everyone with recent issues
