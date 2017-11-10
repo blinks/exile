@@ -58,24 +58,79 @@ For the first session,...
 - The ship itself is becoming more dangerous; the thrusters were never supposed
   to enter the atmosphere, and their environmental impact is unknown [4-clock].
 
-The characters in the first session:  (TODO: beliefs + goals, randomly draw abilities)
+For the first session, use the Captain and enough other characters so everyone
+gets one.
 
-- The Captain: Secretly intended to crash the ship, Cortez-style, but didn’t
-  mean to strand the corps here. Wants to impose military order with himself at
-  the head.
-- The Merchant: An ambassador of sorts from the Guild, to set up interstellar
-  trade routes; current situation means they better start smaller, but it’d be
-  nice to ship off-planet.
+=== You are the Captain.
+You're getting older.  Though you're still respected in the corps, the
+higher-ups are trying to get you "retired" to a desk job.  Crashing the ship
+was the only way you'd be able to convince the corps to leave you here.  Shame
+they got caught up in this.
+
+- You believe that your name will be forgotten, or worse, remembered for your
+  time in the war; planting a growing colony is the only way you'll get it
+  remembered for the right reasons. 
+- You believe that the corps are like family to you; you must get them out of
+  here unscathed. 
+- You believe that society must be built on rules and organization; you must
+  make sure someone always has the final say in any given matter.
+- You (and only you) have the three alpha-level codes for the ship: launch,
+  self-destruct, and access to the armory.
+
+=== You are the Merchant.
+The guild sends all its members out on missions to open up new trade routes
+properly, once they've hit a certain rank.  It's a loyalty test of sorts:
+establish this new colony the way we want, and get advancement.  Of course,
+it's supposed to be a temporary assignment.
+
+- You believe that eventually a rescue party will come; you're going to need
+  trade agreements (and guild protocol) set up before it comes, because they're
+  certainly not sticking around to wait.
+- You believe that the wealth of this planet will mostly come from discovery;
+  you must set up favorable deals with the scientist to ensure the Guild gets
+  exclusive, private access.
+- You believe that ...
+- You (and only you) have ...
+
 - The Prince: Third son, forced into exile to save his family some
   embarrassment -— but here, he’s certainly the senior heir.
 - The Priestess: Planetfall gave her a brief moment of enlightenment, and she
   thinks Gaia is calling her to start a new religion.  She might be right.
 - The Scientist: A whole new world to explore and learn about, and a small pond
   for them to be a big fish in.
-- The Veteran: Stranded here on accident, she thinks the ship can be repaired
-  enough to get at least some people back into the black.
 
-=== Session
+=== You are the Veteran
+Stranded here on accident, she thinks the ship can be repaired enough to get at
+least some people back into the black.
+
+== Session
+
+=== Reading and approval of the minutes.
+At the beginning of each session, go over the situation so everyone remembers
+what happened last time -- or in the first session, what _just_ happened.
+
+=== Reports of Officers, Boards, Standing Committees.
+The facilitator should distribute all the off-screen results to players who
+know about them, who can then describe what happened.  They should have a ton
+of leeway here.
+
+=== Reports of Special Committees.
+(Each report could conclude with a motion which the assembly must address.)
+
+=== Special Orders.
+(Any motion which was adopted as a Special Order which guarantees that the motion will be dealt with before the meeting is adjourned.)
+
+=== Unfinished Business and General Orders.
+(Any issue which was not concluded, was postponed, or was tabled during the prior meeting. The secretary's minutes should inform the chair which items to add to this section. Only a clueless chair would ask the assembly, 'Is there any unfinished business?')
+
+=== New Business.
+(This is when the chair and the parliamentarian can be surprised by the sequence of events. It is best to always anticipate issues the membership may present, or else be embarrassed by the complications.
+It is at this time that announcements, educational programs, and speakers are introduced.)
+
+=== Adjournment.
+(A motion to adjourn may be made at any time of the meeting. The assembly should never be forced to meet longer than it is willing to meet.)
+
+
 . Dawn. (Free play, wandering time, clerk seeds everyone with recent issues
   and opportunities.)
 . Day. (If anyone wants to call for scenes, they can do so.)
