@@ -163,7 +163,12 @@ Players have fifteen minutes to do private business.  The facilitator will wande
 around to take notes and facilitate play.
 
 === New Business.
-Players discuss what they should do, both individually and as a group.
+Players discuss what they should do, both individually and as a group.  Outside
+of business that can be handled within the council room, items of note are
+added to the minutes.
+
+In the first meeting, problems on the horizon include food and shelter, as the
+ship's protective systems break down.
 
 === Adjournment.
 The character who called the meeting can adjourn it at any time, though that
