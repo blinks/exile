@@ -21,7 +21,8 @@ played physically.  If you want to leave the council room table, you get up and
 leave it.  If you want to convince another character of something, you must
 convince them.  The only things that you don't physically do are things that
 could harm another player: once you commit to doing such a thing, the
-facilitator tells you what happens based on your secret attribute scores.
+facilitator (game's facilitator) tells you what happens based on your secret
+attribute scores.
 
 This all means that the game can become very personal -- make sure to call out
 when the situation's getting too hot, or someone hits you where you're raw.
@@ -33,7 +34,7 @@ them to either finish up or escalate to violence.  Sometimes it's difficult to
 see when you're in that situation yourself.  It's alright for an argument to
 end with no obvious winner -- this happens in real life all the time.
  
-=== Prep
+== Planetfall and beyond
 Before each session, the facilitator needs to understand the situation so they
 can prompt the other players.
 
@@ -41,25 +42,10 @@ can prompt the other players.
   understand where they might find new resources and otherwise explore the
   world.  The initial map is just a bullseye, each ring divided into sections
   with a vague idea of what's there.
-- You should have at least three time-sensitive problems or opportunities that
-  can be stated concisely.  These should be obvious to at least one player, but
-  don't need to be obvious to everyone.  Make Blades-style clocks for each one
-  to emphasize that time is running out.
 - You should have enough characters so that each player can take one, with none
   left over.  If you don't have enough, create some.  If you have too many,
-  decide who's not coming to the meeting this session.
-
-For the first session,...
-
-- The captain sustained major injuries, and will likely die from them
-  [8-clock].
-- The ship's colonization supplies were damaged in the crash, and might not
-  give us enough time to become self-sustaining [6-clock].
-- The ship itself is becoming more dangerous; the thrusters were never supposed
-  to enter the atmosphere, and their environmental impact is unknown [4-clock].
-
-For the first session, use the Captain and enough other characters so everyone
-gets one.
+  decide who's not coming to the meeting this session.  For the first session,
+  use the Captain and enough other characters so everyone gets one.
 
 === You are the Captain.
 You're getting older.  Though you're still respected in the corps, the
@@ -152,48 +138,46 @@ captain.
   orders caused to your family; you won't let him escape that punishment.
 - You (and only you) have a small scout ship, the only one to survive re-entry.
 
-== Session
+== The council room
+The character who called this meeting sits at the table, and decides who else
+to call in.  Other players may interrupt at their leisure, or plan and plot on
+their own.
 
-=== Reading and approval of the minutes.
+The captain called the first meeting.
+
+=== Reading of the minutes.
 At the beginning of each session, go over the situation so everyone remembers
 what happened last time -- or in the first session, what _just_ happened.
 
-=== Reports of Officers, Boards, Standing Committees.
-The facilitator should distribute all the off-screen results to players who
-know about them, who can then describe what happened.  They should have a ton
-of leeway here.
+=== Old business.
+Based on the minutes, discuss the current situation and resolve any old
+business.  Players may leave for break at any point, but may not return until
+after the break.
 
-=== Reports of Special Committees.
-(Each report could conclude with a motion which the assembly must address.)
+In the first meeting, the colony must be given a name.  The corps thinks it
+should be named after the captain.  A nascent religious group thinks it should
+be named "Eldest."
 
-=== Special Orders.
-(Any motion which was adopted as a Special Order which guarantees that the motion will be dealt with before the meeting is adjourned.)
-
-=== Unfinished Business and General Orders.
-(Any issue which was not concluded, was postponed, or was tabled during the prior meeting. The secretary's minutes should inform the chair which items to add to this section. Only a clueless chair would ask the assembly, 'Is there any unfinished business?')
+=== Break.
+Players have fifteen minutes to do private business.  The facilitator will wander
+around to take notes and facilitate play.
 
 === New Business.
-(This is when the chair and the parliamentarian can be surprised by the sequence of events. It is best to always anticipate issues the membership may present, or else be embarrassed by the complications.
-It is at this time that announcements, educational programs, and speakers are introduced.)
+Players discuss what they should do, both individually and as a group.
 
 === Adjournment.
-(A motion to adjourn may be made at any time of the meeting. The assembly should never be forced to meet longer than it is willing to meet.)
+The character who called the meeting can adjourn it at any time, though that
+doesn't end the session, only the meeting.  Each player may call for at most
+one more scene to handle unfinished business, and then the session ends.
 
-
-. Dawn. (Free play, wandering time, clerk seeds everyone with recent issues
-  and opportunities.)
-. Day. (If anyone wants to call for scenes, they can do so.)
-. Dusk. (The meeting. Where is it? Who calls it to order?  Who’s supposed to
-  be there?  Who’s there anyway?  What do they decide?)
-
-During play, the clerk (facilitator) is walking around taking notes (questions,
+During play, the facilitator is walking around taking notes (questions,
 ideas, events) for future prep.  Anything non-physical that happens during the
 session is non-mechanized, so to convince someone you must convince them.
 Anything physical is a look-up by the facilitator, based on the [secret] stats
-of those involved.  At the end of the session, players will tell the clerk what
+of those involved.  At the end of the session, players will tell the facilitator what
 they work on off-screen.
 
-After the session, debrief with the group.  Talk about what happens in the week
+After the session, debrief with the group.  Talk about what happens in the time
 to come, before the next meeting is called.  Come up with more problems and
 opportunities, fill out the map some more, adjust beliefs as they're changed
 through play, and tick clocks towards completion.
