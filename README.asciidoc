@@ -6,12 +6,75 @@ v0.17, {localdate}: Draft.
 
 image::img/planetfall-orig.png[]
 == The basics
+You've crash-landed in a colony ship on a far-away planet.  There are thousands
+of surviving colonists out of tens-of-thousands who left on the journey.  The
+captain calls together the leaders of the surviving factions to figure out what
+to do.
 
+This game takes place in the relative calm between storms.  Each session takes
+place during the day of a face-to-face council meeting, and the time between
+sessions is where those things happen, off-screen.
 
+Like most role-playing games, you portray a character, with their own beliefs,
+goals, and abilities.  Unlike most role-playing games, most of this one is
+played physically.  If you want to leave the council room table, you get up and
+leave it.  If you want to convince another character of something, you must
+convince them.  The only things that you don't physically do are things that
+could harm another player: once you commit to doing such a thing, the
+facilitator tells you what happens based on your secret attribute scores.
+
+This all means that the game can become very personal -- make sure to call out
+when the situation's getting too hot, or someone hits you where you're raw.
+The group should keep an eye out for these situations, too.  No use wasting ten
+minutes yelling at each other.  Move on.
+
+If you notice a few people going at it verbally but making no progress, tell
+them to either finish up or escalate to violence.  Sometimes it's difficult to
+see when you're in that situation yourself.  It's alright for an argument to
+end with no obvious winner -- this happens in real life all the time.
+ 
 === Prep
-- create / update map (bullseye divided into segments, ship at center)
-- create / update characters as needed (draw for stats, which are secret)
-- draw (or decide) the situation.
+Before each session, the facilitator needs to understand the situation so they
+can prompt the other players.
+
+- You should have a simple map, with the colony ship at the center, so players
+  understand where they might find new resources and otherwise explore the
+  world.
+- You should have at least three time-sensitive problems or opportunities that
+  can be stated concisely.  These should be obvious to at least one player, but
+  don't need to be obvious to everyone.  Make Blades-style clocks for each one
+  to emphasize that time is running out.
+- You should have enough characters so that each player can take one, with none
+  left over.  If you don't have enough, create some.  If you have too many,
+  decide who's not coming to the meeting this session.
+
+For the first session, use these:
+
+- The map should be a bullseye, with the ship at the center and the rings
+  divided into pieces with vague landscapes described there.
+- The problems:
+  - The captain sustained major injuries, and will likely die from them
+    [8-clock].
+  - The ship's colonization supplies were damaged in the crash, and might not
+    give us enough time to become self-sustaining [6-clock].
+  - The ship itself is becoming more dangerous; the thrusters were never
+    supposed to enter the atmosphere, and their environmental impact is unknown
+    [4-clock].
+- The characters:  (TODO: beliefs + goals, randomly draw abilities)
+  - The Captain: Secretly intended to crash the ship, Cortez-style, but didn’t
+    mean to strand the corps here. Wants to impose military order with himself
+    at the head.
+  - The Merchant: An ambassador of sorts from the Guild, to set up interstellar
+    trade routes; current situation means they better start smaller, but it’d
+    be nice to ship off-planet.
+  - The Prince: Third son, forced into exile to save his family some
+    embarrassment -— but here, he’s certainly the senior heir.
+  - The Priestess: Planetfall gave her a brief moment of enlightenment, and she
+    thinks Gaia is calling her to start a new religion.  She might be right.
+  - The Scientist: A whole new world to explore and learn about, and a small
+    pond for them to be a big fish in.
+  - The Veteran: Stranded here on accident, she thinks the ship can be repaired
+    enough to get at least some people back into the black.
 
 === Session
 . Dawn. (Free play, wandering time, clerk seeds everyone with recent issues
@@ -27,26 +90,10 @@ Anything physical is a look-up by the facilitator, based on the [secret] stats
 of those involved.  At the end of the session, players will tell the clerk what
 they work on off-screen.
 
-== Characters
-The Captain:: Secretly intended to crash the ship, Cortez-style, but didn’t
-mean to strand the corps here. Wants to impose military order with himself at
-the head.
-
-The Merchant:: An ambassador of sorts from the Guild, to set up interstellar
-trade routes; current situation means they better start smaller, but it’d be
-nice to ship off-planet.
-
-The Prince:: Third son, forced into exile to save his family some embarrassment
--— but here, he’s certainly the senior heir.
-
-The Priestess:: Planetfall gave her a brief moment of enlightenment, and she
-thinks Gaia is calling her to start a new religion.  She might be right.
-
-The Scientist:: A whole new world to explore and learn about, and a small pond
-for them to be a big fish in.
-
-The Veteran:: Stranded here on accident, she thinks the ship can be repaired
-enough to get at least some people back into the black.
+After the session, debrief with the group.  Talk about what happens in the week
+to come, before the next meeting is called.  Come up with more problems and
+opportunities, fill out the map some more, adjust beliefs as they're changed
+through play, and tick clocks towards completion.
 
 == Ludography
 Standing on the shoulders of giants.  Not every inspiration is listed, of
