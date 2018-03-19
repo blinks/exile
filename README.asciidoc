@@ -1,206 +1,292 @@
 = Exile: A colony-building role-playing game
-Adam Blinkinsop <blinks@acm.org>, illustrated by Nate Marcel.
-v0.17, {localdate}: Draft.
+Written by Adam Blinkinsop, illustrated by Nate Marcel.
+v0.18, {localdate}: Draft.
 :doctype: book
-:toc: left
+:toc: preamble
 
-image::img/planetfall-orig.png[]
-== The basics
-You've crash-landed in a colony ship on a far-away planet.  There are thousands
-of surviving colonists out of tens-of-thousands who left on the journey.  The
-captain calls together the leaders of the surviving factions to figure out what
-to do.
+A parlor larp about the people on a crashed colony ship, in four acts.
 
-This game takes place in the relative calm between storms.  Each session takes
-place during the day of a face-to-face council meeting, and the time between
-sessions is where those things happen, off-screen.
+You’ll need three to ten players and a facilitator, though additional people
+can act as spectators. You’ll also need a deck of Lenormand cards, which you
+can make from a normal deck of playing cards by removing the 2s through 6s and
+labeling the rest.
 
-Like most role-playing games, you portray a character, with their own beliefs,
-goals, and abilities.  Unlike most role-playing games, most of this one is
-played physically.  If you want to leave the council room table, you get up and
-leave it.  If you want to convince another character of something, you must
-convince them.  The only things that you don't physically do are things that
-could harm another player: once you commit to doing such a thing, the
-facilitator (game's facilitator) tells you what happens based on your secret
-attribute scores.
+TODO: Safety & trust protocol.
 
-This all means that the game can become very personal -- make sure to call out
-when the situation's getting too hot, or someone hits you where you're raw.
-The group should keep an eye out for these situations, too.  No use wasting ten
-minutes yelling at each other.  Move on.
-
-If you notice a few people going at it verbally but making no progress, tell
-them to either finish up or escalate to violence.  Sometimes it's difficult to
-see when you're in that situation yourself.  It's alright for an argument to
-end with no obvious winner -- this happens in real life all the time.
- 
+== Act I: Planetfall
 image::img/boarding.png[]
-== Planetfall and beyond
-Before each session, the facilitator needs to understand the situation so they
-can prompt the other players.
 
-- You should have a simple map, with the colony ship at the center, so players
-  understand where they might find new resources and otherwise explore the
-  world.  The initial map is just a bullseye, each ring divided into sections
-  with a vague idea of what's there.
-- You should have enough characters so that each player can take one, with none
-  left over.  If you don't have enough, create some.  If you have too many,
-  decide who's not coming to the meeting this session.  For the first session,
-  use the Captain and enough other characters so everyone gets one.
+Deal three cards to each player to randomly assign them a character. Players
+can each discard any of their cards to draw new ones, especially if a card’s
+meaning is something they feel uncomfortable with, or is something they’d
+rather not play. To create your character, put your three cards in order:
 
-=== You are the Captain.
-You're getting older.  Though you're still respected in the corps, the
-higher-ups are trying to get you "retired" to a desk job.  Crashing the ship
-was the only way you'd be able to convince the corps to leave you here.  Shame
-they got caught up in this.
+The first card determines who you were, and gives you a name. Write the name or
+something that evokes it on a sheet of paper: this will be your character sheet
+for the game. Describe who you were, and why you decided to get on this colony
+ship to begin with. What were you leaving behind? What were you hoping for? The
+descriptions are purposefully vague, but be obvious in how you detail them.
+Your obvious is different from everyone else’s.
 
-- You believe that your name will be forgotten, or worse, remembered for your
-  time in the war; planting a growing colony is the only way you'll get it
-  remembered for the right reasons. 
-- You believe that the corps are like family to you; you must get them out of
-  here unscathed. 
-- You believe that society must be built on rules and organization; you must
-  make sure someone always has the final say in any given matter.
-- You (and only you) have the three alpha-level codes for the ship: launch,
-  self-destruct, and access to the armory.
+The second card determines what you have. Write it under your name, with a
+circle divided into six wedges: this is a clock. When the wedges are filled,
+you no longer have this. Describe what it is and why you have it. When people
+start talking about their plans, think about how this might be helpful.
 
-=== You are the Merchant.
-The guild sends all its members out on missions to open up new trade routes
-properly, once they've hit a certain rank.  It's a loyalty test of sorts:
-establish this new colony the way we want, and get advancement.  Of course,
-it's supposed to be a temporary assignment.
+The third card determines what you want. Write it under your name, to remember
+it. Think about how you might go about getting it. Describe what it means to
+this character, and why they might want it. Fill out the details and share
+them: the players should know much more than the characters.
 
-- You believe that eventually a rescue party will come; you're going to need
-  trade agreements (and guild protocol) set up before it comes, because they're
-  certainly not sticking around to wait.
-- You believe that the wealth of this planet will mostly come from discovery;
-  you must set up favorable deals with the scientist to ensure the Guild gets
-  exclusive, private access.
-- You believe that the captain crashed the ship on purpose, to strand the
-  prince here; you will find evidence to bring them to justice once you both
-  get off-planet.
-- You (and only you) have the authority to make agreements in the name of the
-  guild.
+|===
+|# |Who you were. |What you have. |What you want.
 
-=== You are the Prince
-You tried to make a name for yourself with some clever maneuvering in the war,
-but luck wasn't with you in those days.  As the third son, you were the
-scapegoat for the rest of your family's crimes, and exiled for it.  Perhaps
-this world is in need of your royal bloodline.
+|I
+|Rider, a messenger.
+|A hover bike.
+|To send a message home.
 
-- You believe that only the nobility has the right to rule; you must take
-  charge of these events before the peasantry makes a mess of them.
-- You believe that the Guild is your one remaining link to home; you must get
-  favorable agreements with them to regain your status with your house.
-- You believe that the colony needs defenses, and having the corps here is a
-  happy coincidence; you'll make sure the colony has a trained defense force
-  ready before it's too late.
-- You (and only you) have your saber, a family heirloom made out of a rare
-  metal.
+|II
+|Clover, a free spirit.
+|A liquor stash.
+|To relax and rest.
 
-=== You are the Priestess
-Before planetfall, you were a brave colonist, a generalist, a survivalist.
-Now, you've seen the power of this planet and heard it call your own name.
+|III
+|Ship, an explorer.
+|An all-terrain transport.
+|To explore the planet.
 
-- You believe that this world will eventually speak to everyone, if it isn't
-  silenced; you must make sure the life here is treated with respect.
-- You believe that the colony can survive through cooperating with the world;
-  you must prevent the Guild from stripping its wealth away.
-- You believe that the ship did enough damage in the crash; you must prevent it
-  from ever launching again, to avoid the additional damage that would cause.
-- You (and only you) can communicate (out loud) with an entity you call Gaia.
-  Only you can hear her responses.
+|IV
+|House, a noble.
+|A portable instant shelter.
+|Safety for the colony.
 
-=== You are the Scientist
-A whole unexplored world!  Even if tens of acres were destroyed in the crash,
-there's millions more to be found and studied and written about.  As long as
-you're given the freedom to work, and equipment to replace what was lost, you
-should have several serious papers to distribute before the year is out.
+|V
+|Tree, a druid.
+|The seed bank.
+|To put down roots.
 
-- You believe that the ship's fumes are destroying the natural ecosystem; you
-  must learn what you can before it's too-far altered by your presence.
-- You believe that the colonists' new religion is a psychological defense
-  mechanism; while unfortunate, you must not let it interfere with the
-  important tasks of getting the colony up and running.
-- You believe that the corps could be helpful in early exploration efforts; you
-  must ensure some of that resource gets allocated to scientific endeavors.
-- You (and only you) have the knowledge of how to repair the ship; you will
-  likely need a rare metal to do anything useful there, though.
+|VI
+|Clouds, with a secret past.
+|A cloaking device.
+|To hide from home.
 
-=== You are the Veteran
-Ten years ago, the captain saved your life.  Now, the corps will save the
-captain.
+|VII
+|Snake, a crime boss.
+|A bolt gun.
+|To learn secrets.
 
-- You believe that the ship can be repaired; you must find someone capable of
-  doing so and get them working on it soon, before the fuel decays too far.
-- You believe that the captain is above reproach; you must protect their
-  reputation from civilians who don't understand life in the corps.
-- You believe that the prince deserves to be exiled here, after the pain his
-  orders caused to your family; you won't let him escape that punishment.
-- You (and only you) have a small scout ship, the only one to survive re-entry.
+|VIII
+|Coffin, in mourning.
+|A tactical nuclear weapon.
+|To bury the dead.
 
+|IX
+|Bouquet, a courtier.
+|The ship’s manifest.
+|To maintain etiquette.
+
+|X
+|Scythe, an assassin.
+|A shock sword.
+|A reckoning.
+
+|XI
+|Whip, a lawyer.
+|A stunner.
+|Formalized council rules.
+
+|XII
+|Birds, a gossip.
+|A reconnaissance drone.
+|News from home.
+
+|XIII
+|Child, a ship-born youth.
+|A newly-created android.
+|To learn about this place.
+
+|XIV
+|Fox, a clever spy.
+|A listening bug.
+|Personal wealth.
+
+|XV
+|Bear, the captain.
+|The highest civilian rank.
+|Control of the colony.
+
+|XVI
+|Star, a priest or priestess.
+|Planetary weather data.
+|A spiritual leader.
+
+|XVII
+|Stork, physically altered.
+|A gene editor.
+|To not repeat the past.
+
+|XVIII
+|Dog, loyal.
+|A helper robot.
+|A loyal population.
+
+|XIX
+|Tower, solitary.
+|A viewing tower.
+|A sole authority figure.
+
+|XX
+|Garden, a botanist.
+|The ship’s transmitter.
+|Shared authority.
+
+|XXI
+|Mountain, injured.
+|An exoskeleton.
+|A challenge.
+
+|XXII
+|Crossroad, separated.
+|The planet’s survey map.
+|To divide the colony.
+
+|XXIII
+|Mice, poor.
+|Samples of diseases.
+|To take it slow.
+
+|XXIV
+|Heart, in love.
+|Lots of good friends.
+|Forgiveness.
+
+|XXV
+|Ring, attached.
+|A pair of short-range radios. 
+|A partner or ally.
+
+|XXVI
+|Book, a researcher.
+|A hook into the ship’s memory.
+|To study flora and fauna.
+
+|XXVII
+|Letter, the comms officer.
+|The receiver dish.
+|To hold onto the past.
+
+|XXVIII
+|Animus, a man.
+|A man’s promise.
+|A man in charge.
+
+|XXIX
+|Anima, a woman.
+|A woman’s promise.
+|A woman in charge.
+
+|XXX
+|Lily, beautiful or handsome.
+|The art archives.
+|To be the spiritual leader.
+
+|XXXI
+|Sun, retired.
+|A solar generator.
+|Victory over the planet.
+
+|XXXII
+|Moon, a cultist.
+|A dream catcher.
+|To work with the planet.
+
+|XXXIII
+|Key, freed.
+|A way into the ship.
+|To free the androids.
+
+|XXXIV
+|Fish, a rich merchant.
+|Diving gear.
+|A market economy.
+
+|XXXV
+|Anchor, a builder.
+|Keys to the brig.
+|A safe place to live.
+
+|XXXVI
+|Cross, on a mission.
+|A relic from home.
+|Principles made law.
+|===
+
+== Act II: The Council Meeting
+image::img/planetfall-bw.png[]
+
+Once the players understand the context, the facilitator should present them
+with the problem that’s drawn them together: the ship’s power was never meant
+to sustain the colony, and the replicators won’t last forever. Every use from
+now on drains a limited power supply (a common resource with an 8-clock), and
+nobody here knows enough to say when it will run out.  Ask them for ideas to
+solve this problem, and then step back and let people talk.
+
+When characters declare their intention to do something after the meeting,
+write it down on their own character sheet, with four bullets after. These
+plans will be resolved in the aftermath. Any character may offer a bargain to
+another’s plan to give them a die: if accepted, write down what was offered
+next to a bullet.
+
+As the council meeting dies down, the facilitator should push everyone to have
+at least one plan for after the meeting, and then adjourn it.  Sooner is better
+than later -- if there’s a long silence, end it.
+
+== Act III: The Shadows
 image::img/salvage.png[]
-== The council room
-The character who called this meeting sits at the table, and decides who else
-to call in.  Other players may interrupt at their leisure, or plan and plot on
-their own.
 
-The captain called the first meeting.
+Each player has the opportunity to call a scene. They must include their own
+character, but may also include up to three other characters in the game. They
+choose the place and time and anyone not involved spectates. Characters may
+declare plans and make bargains in the shadows just like during the council
+meeting. The facilitator shouldn’t let these go too long, either -- if they
+don’t seem to be going anywhere, fade out.
 
-=== Reading of the minutes.
-At the beginning of each session, go over the situation so everyone remembers
-what happened last time -- or in the first session, what _just_ happened.
-
-=== Old business.
-Based on the minutes, discuss the current situation and resolve any old
-business.  Players may leave for break at any point, but may not return until
-after the break.
-
-In the first meeting, the colony must be given a name.  The corps thinks it
-should be named after the captain.  A nascent religious group thinks it should
-be named "Eldest."
-
-=== Break.
-Players have fifteen minutes to do private business.  The facilitator will wander
-around to take notes and facilitate play.
-
-=== New Business.
-Players discuss what they should do, both individually and as a group.  Outside
-of business that can be handled within the council room, items of note are
-added to the minutes.
-
-In the first meeting, problems on the horizon include food and shelter, as the
-ship's protective systems break down.
-
-=== Adjournment.
-The character who called the meeting can adjourn it at any time, though that
-doesn't end the session, only the meeting.  Each player may call for at most
-one more scene to handle unfinished business, and then the session ends.
-
-During play, the facilitator is walking around taking notes (questions,
-ideas, events) for future prep.  Anything non-physical that happens during the
-session is non-mechanized, so to convince someone you must convince them.
-Anything physical is a look-up by the facilitator, based on the [secret] stats
-of those involved.  At the end of the session, players will tell the facilitator what
-they work on off-screen.
-
-After the session, debrief with the group.  Talk about what happens in the time
-to come, before the next meeting is called.  Come up with more problems and
-opportunities, fill out the map some more, adjust beliefs as they're changed
-through play, and tick clocks towards completion.
-
+== Act IV: The Aftermath
 image::img/harvest.png[]
-== Ludography
-Standing on the shoulders of giants.  Not every inspiration is listed, of
-course: some are totally unconscious.  Parallel development is also a thing.
+
+Take all the characters’ name cards, shuffle them up, and place them face-down
+on a table. You’ll go through this deck resolving plans until there are none
+left.
+
+Draw the top character and ask their player to choose one of their plans to
+resolve. As facilitator, you may make one last devil’s bargain to that player,
+which is far less constrained than the ones made by characters. It still only
+grants one die. The player rolls a six-sided die for each offer accepted and
+looks for the highest number rolled to determine success:
+
+On a 1-3, the plan fails. On a 4-5, it succeeds at a cost. On a 6, it succeeds.
+
+The lowest number determines the cost to each bargained resource -- each player
+should tick down resources they supplied to that plan. Write down the results
+of these plans as they’re resolved. If that character has more plans to
+resolve, shuffle them back into the deck. Otherwise, pull them out.
+
+If you want to play another session, deal out new characters to any who need
+one. Act I shifts slightly to figuring out what the colony looks like after
+these things happen.
 
 [bibliography]
-- Junichi Inoue. _Tenra Bansho Zero_. 2000.
-- Luke Crane. _Burning Wheel_. 2002.
-- D. Vincent Baker. _Dogs in the Vineyard_. 2004.
-- D. Vincent Baker. _Apocalypse World_. 2010.
-- John Harper, _Lady Blackbird_. 2011.
+.Games
 - Adam Koebel, Sage LaTorra. _Dungeon World_. 2012.
-- Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson. _Fate
-  Core_. 2014.
+- D. Vincent Baker. _Apocalypse World_. 2010.
+- D. Vincent Baker. _Dogs in the Vineyard_. 2004.
 - John Harper, _Blades in the Dark_. 2017.
+- John Harper, _Lady Blackbird_. 2011.
+- Junichi Inoue. _Tenra Bansho Zero_. 2000.
+- Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson. _Fate Core_. 2014.
+- Luke Crane. _Burning Wheel_. 2002.
+- Morgan Jarl & Petter Karlsson, _When Our Destinies Meet_, 2012.
+
+[index]
+== Index
