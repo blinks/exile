@@ -2,7 +2,7 @@
 Written by Adam Blinkinsop, illustrated by Nate Marcel.
 v0.18, {localdate}: Draft.
 :doctype: book
-:toc: preamble
+:toc:
 
 A parlor larp about the people on a crashed colony ship, in four acts.
 
