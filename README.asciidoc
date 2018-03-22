@@ -10,15 +10,31 @@ v0.18, {localdate}: Draft.
 
 A parlor larp about the people on a crashed colony ship, in four acts.
 
-You’ll need three to ten players and a facilitator, though additional people
-can act as spectators. You’ll also need a deck of Lenormand cards, which you
-can make from a normal deck of playing cards by removing the 2s through 6s and
-labeling the rest. (See the appendix.)
+You’ll need three to eight-ish players, one of which will play Gaia (the
+facilitator). Additional people can spectate. You’ll also need a deck of
+Lenormand cards, which you can make from a normal deck of playing cards by
+removing the 2s through 6s and labeling the rest. (See the appendix.)
 
 TODO: Safety & trust protocol.
 
+== Act 0: Gaia
+Gaia playbooks for the Exile facilitator!
+
+- The Wine Dark Sea (Subnautica)
+- City of Brass (ancient alien ruins)
+- Green Light (mile-high forest canopy)
+
+These would be half dungeon starter, half playbook, and push Gaia to build out
+the food chain and habitats in a kind of R-map.
+
+Moves? Threats: Adaptation, disasters, migration, weather patterns.
+
+Choose it before planetfall, so they know whether to take that diving gear.
+
 == Act I: Planetfall
 image::img/boarding.png[]
+
+TODO: Gaia playbooks.
 
 Deal three cards to each player to randomly assign them a character. Players
 can each discard any of their cards to draw new ones, especially if a card’s
@@ -42,188 +58,47 @@ it. Think about how you might go about getting it. Describe what it means to
 this character, and why they might want it. Fill out the details and share
 them: the players should know much more than the characters.
 
+.Characters
 |===
 |# |Who you were. |What you have. |What you want.
 
-|I
-|Rider, a messenger.
-|A hover bike.
-|To send a message home.
+|I |Rider, a messenger. |A hover bike. |To send a message home.
+|II |Clover, a free spirit. |A liquor stash. |To relax and rest.
+|III |Ship, an explorer. |An all-terrain transport. |To explore the planet.
+|IV |House, a noble. |A portable instant shelter. |Safety for the colony.
+|V |Tree, a druid. |The seed bank. |To put down roots.
+|VI |Clouds, with a secret past. |A cloaking device. |To hide from home.
+|VII |Snake, a crime boss. |A bolt gun. |To learn secrets.
+|VIII |Coffin, in mourning. |A tactical nuclear weapon. |To bury the dead.
+|IX |Bouquet, a courtier. |The ship’s manifest. |To maintain etiquette.
+|X |Scythe, an assassin. |A shock sword. |A reckoning.
+|XI |Whip, a lawyer. |A stunner. |Formalized council rules.
+|XII |Birds, a gossip. |A reconnaissance drone. |News from home.
+|XIII |Child, a ship-born youth. |A newly-created android. |To learn about this place.
+|XIV |Fox, a clever spy. |A listening bug. |Personal wealth.
+|XV |Bear, the captain. |The highest civilian rank. |Control of the colony.
+|XVI |Star, a priest or priestess. |Planetary weather data. |A spiritual leader.
+|XVII |Stork, physically altered. |A gene editor. |To not repeat the past.
+|XVIII |Dog, loyal. |A helper robot. |A loyal population.
+|XIX |Tower, solitary. |A viewing tower. |A sole authority figure.
+|XX |Garden, a botanist. |The ship’s transmitter. |Shared authority.
+|XXI |Mountain, injured. |An exoskeleton. |A challenge.
+|XXII |Crossroad, separated. |The planet’s survey map. |To divide the colony.
+|XXIII |Mice, poor. |Samples of diseases. |To take it slow.
+|XXIV |Heart, in love. |Lots of good friends. |Forgiveness.
+|XXV |Ring, attached. |A pair of short-range radios.  |A partner or ally.
+|XXVI |Book, a researcher. |A hook into the ship’s memory. |To study flora and fauna.
+|XXVII |Letter, the comms officer. |The receiver dish. |To hold onto the past.
+|XXVIII |Animus, a man. |A man’s promise. |A man in charge.
+|XXIX |Anima, a woman. |A woman’s promise. |A woman in charge.
+|XXX |Lily, beautiful or handsome. |The art archives. |To be the spiritual leader.
+|XXXI |Sun, retired. |A solar generator. |Victory over the planet.
+|XXXII |Moon, a cultist. |A dream catcher. |To work with the planet.
+|XXXIII |Key, freed. |A way into the ship. |To free the androids.
+|XXXIV |Fish, a rich merchant. |Diving gear. |A market economy.
+|XXXV |Anchor, a builder. |Keys to the brig. |A safe place to live.
+|XXXVI |Cross, on a mission. |A relic from home. |Principles made law.
 
-|II
-|Clover, a free spirit.
-|A liquor stash.
-|To relax and rest.
-
-|III
-|Ship, an explorer.
-|An all-terrain transport.
-|To explore the planet.
-
-|IV
-|House, a noble.
-|A portable instant shelter.
-|Safety for the colony.
-
-|V
-|Tree, a druid.
-|The seed bank.
-|To put down roots.
-
-|VI
-|Clouds, with a secret past.
-|A cloaking device.
-|To hide from home.
-
-|VII
-|Snake, a crime boss.
-|A bolt gun.
-|To learn secrets.
-
-|VIII
-|Coffin, in mourning.
-|A tactical nuclear weapon.
-|To bury the dead.
-
-|IX
-|Bouquet, a courtier.
-|The ship’s manifest.
-|To maintain etiquette.
-
-|X
-|Scythe, an assassin.
-|A shock sword.
-|A reckoning.
-
-|XI
-|Whip, a lawyer.
-|A stunner.
-|Formalized council rules.
-
-|XII
-|Birds, a gossip.
-|A reconnaissance drone.
-|News from home.
-
-|XIII
-|Child, a ship-born youth.
-|A newly-created android.
-|To learn about this place.
-
-|XIV
-|Fox, a clever spy.
-|A listening bug.
-|Personal wealth.
-
-|XV
-|Bear, the captain.
-|The highest civilian rank.
-|Control of the colony.
-
-|XVI
-|Star, a priest or priestess.
-|Planetary weather data.
-|A spiritual leader.
-
-|XVII
-|Stork, physically altered.
-|A gene editor.
-|To not repeat the past.
-
-|XVIII
-|Dog, loyal.
-|A helper robot.
-|A loyal population.
-
-|XIX
-|Tower, solitary.
-|A viewing tower.
-|A sole authority figure.
-
-|XX
-|Garden, a botanist.
-|The ship’s transmitter.
-|Shared authority.
-
-|XXI
-|Mountain, injured.
-|An exoskeleton.
-|A challenge.
-
-|XXII
-|Crossroad, separated.
-|The planet’s survey map.
-|To divide the colony.
-
-|XXIII
-|Mice, poor.
-|Samples of diseases.
-|To take it slow.
-
-|XXIV
-|Heart, in love.
-|Lots of good friends.
-|Forgiveness.
-
-|XXV
-|Ring, attached.
-|A pair of short-range radios. 
-|A partner or ally.
-
-|XXVI
-|Book, a researcher.
-|A hook into the ship’s memory.
-|To study flora and fauna.
-
-|XXVII
-|Letter, the comms officer.
-|The receiver dish.
-|To hold onto the past.
-
-|XXVIII
-|Animus, a man.
-|A man’s promise.
-|A man in charge.
-
-|XXIX
-|Anima, a woman.
-|A woman’s promise.
-|A woman in charge.
-
-|XXX
-|Lily, beautiful or handsome.
-|The art archives.
-|To be the spiritual leader.
-
-|XXXI
-|Sun, retired.
-|A solar generator.
-|Victory over the planet.
-
-|XXXII
-|Moon, a cultist.
-|A dream catcher.
-|To work with the planet.
-
-|XXXIII
-|Key, freed.
-|A way into the ship.
-|To free the androids.
-
-|XXXIV
-|Fish, a rich merchant.
-|Diving gear.
-|A market economy.
-
-|XXXV
-|Anchor, a builder.
-|Keys to the brig.
-|A safe place to live.
-
-|XXXVI
-|Cross, on a mission.
-|A relic from home.
-|Principles made law.
 |===
 
 == Act II: The Council Meeting
@@ -281,8 +156,10 @@ one. Act I shifts slightly to figuring out what the colony looks like after
 these things happen.
 
 [bibliography]
-.Games
+.Bibliography
 - Adam Koebel, Sage LaTorra. _Dungeon World_. 2012.
+- Beakley, Paul. _Paul's R-Map Method: Best Practices_.
+  [2017](https://plus.google.com/+PaulBeakley/posts/fwsijAfHuL4).
 - D. Vincent Baker. _Apocalypse World_. 2010.
 - D. Vincent Baker. _Dogs in the Vineyard_. 2004.
 - John Harper, _Blades in the Dark_. 2017.
@@ -290,6 +167,7 @@ these things happen.
 - Junichi Inoue. _Tenra Bansho Zero_. 2000.
 - Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson. _Fate Core_. 2014.
 - Luke Crane. _Burning Wheel_. 2002.
+- Miller, Marshall. _Dungeon Starters_. 2011.
 - Morgan Jarl & Petter Karlsson, _When Our Destinies Meet_, 2012.
 
 [appendix]
