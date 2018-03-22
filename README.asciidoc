@@ -20,16 +20,21 @@ TODO: Safety & trust protocol.
 == Act 0: Gaia
 Gaia playbooks for the Exile facilitator!
 
-- The Wine Dark Sea (Subnautica)
-- City of Brass (ancient alien ruins)
-- Green Light (mile-high forest canopy)
-
 These would be half dungeon starter, half playbook, and push Gaia to build out
 the food chain and habitats in a kind of R-map.
 
 Moves? Threats: Adaptation, disasters, migration, weather patterns.
 
 Choose it before planetfall, so they know whether to take that diving gear.
+
+=== The Wine Dark Sea
+(Subnautica)
+
+=== City of Brass
+(ancient alien ruins)
+
+=== Green Light
+(mile-high forest canopy)
 
 == Act I: Planetfall
 image::img/boarding.png[]
