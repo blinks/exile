@@ -3,13 +3,17 @@ Written by Adam Blinkinsop, illustrated by Nate Marcel.
 v0.18, {localdate}: Draft.
 :doctype: book
 :toc:
+:clubs: ♣
+:diams: ♦
+:hearts: ♥
+:spades: ♠
 
 A parlor larp about the people on a crashed colony ship, in four acts.
 
 You’ll need three to ten players and a facilitator, though additional people
 can act as spectators. You’ll also need a deck of Lenormand cards, which you
 can make from a normal deck of playing cards by removing the 2s through 6s and
-labeling the rest.
+labeling the rest. (See the appendix.)
 
 TODO: Safety & trust protocol.
 
@@ -288,5 +292,54 @@ these things happen.
 - Luke Crane. _Burning Wheel_. 2002.
 - Morgan Jarl & Petter Karlsson, _When Our Destinies Meet_, 2012.
 
-[index]
-== Index
+[appendix]
+== Lenormand Cards
+You can make your own deck of Lenormand cards by marking up part of a normal
+52-card deck. Set aside the 2s through 5s and label the rest as shown:
+
+[cols="1,1,10"]
+|===
+|Card |# |Lenormand
+
+|6 {clubs} |XXXVI |Cross
+|7 {clubs} |XXIII |Mice
+|8 {clubs} |XXI |Mountain
+|9 {clubs} |XIV |Fox
+|10 {clubs} |XV |Bear
+|J {clubs} |XI |Whip
+|Q {clubs} |VII |Snake
+|K {clubs} |VI |Clouds
+|A {clubs} |XXV |Ring
+
+|6 {diams} |II |Clover
+|7 {diams} |XII |Birds
+|8 {diams} |XXXIII |Key
+|9 {diams} |VIII |Coffin
+|10 {diams} |XXVI |Book
+|J {diams} |X |Scythe
+|Q {diams} |XXII |Crossroad
+|K {diams} |XXXIV |Fish
+|A {diams} |XXXI |Sun
+
+|6 {hearts} |XVI |Star
+|7 {hearts} |V |Tree
+|8 {hearts} |XXXII |Moon
+|9 {hearts} |I |Rider
+|10 {hearts} |XVIII |Dog
+|J {hearts} |XXIV |Heart
+|Q {hearts} |XVII |Stork
+|K {hearts} |IV |House
+|A {hearts} |XXVIII |Animus
+
+|6 {spades} |XIX |Tower
+|7 {spades} |XXVII |Letter
+|8 {spades} |XX |Garden
+|9 {spades} |XXXV |Anchor
+|10 {spades} |III |Ship
+|J {spades} |XIII |Child
+|Q {spades} |IX |Bouquet
+|K {spades} |XXX |Lily
+|A {spades} |XXIX |Anima
+
+|===
+
