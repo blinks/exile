@@ -57,6 +57,14 @@ v0.19, {localdate}: Draft.
 |===
 
 == The Colony
+Ten thousand colonists left Earth for this class-M planet. Probes have been
+here in orbit for decades mapping the surface, just like every other colony.
+The colony ship dropped in to orbit the planet safely while supplies and people
+were dropped off, but a stray asteroid killed that plan and half the colonists.
+
+Now your ship lies in a heap of wreckage, somewhere on the planet, and you have
+to build up a colony without many of the safeguards sent with you. You also have
+the crew of the colony ship, who never wanted to stay.
 
 == Best Laid Plans
 The six plans, and how you trigger them:
