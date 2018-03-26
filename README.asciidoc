@@ -100,6 +100,36 @@ TODO: Name it.
 == The Planet
 TODO: Name it.
 
+Three possible playbooks for Gaia:
+
+- The Wine Dark Sea (Subnautica-detailed ocean)
+- City of Brass (ancient ruins of an alien city)
+- Green Light (forest canopy, miles above the surface)
+
+Playbooks would have threat moves and sorta be like an adventure starter.
+Player exploration triggers Gaia's advancement (like the Cave in Vast), and the
+playbook holds a food chain (as a pyramid) with space for habitat details (on
+the left and right on each level).
+
+City of Brass might end up with cyborg rodents somewhere in the middle, with a
+sewer habitat linked to its level. Gaia doesn't name the flora / fauna, they
+describe them and ask a player (whose character saw them) for a name.
+
+A player's exploration plan must have a hope: something you really would like
+to find. Lots of meat? A farm-able plant? A safe place to camp? The roll
+decides whether or not you find it, and what the downsides are.
+
+Gaia adds the results to the food chain / habitat map (perhaps on a 1-3 they
+add whatever they want, on a crit they add exactly what the plan hoped for, and
+on a 4-5 or 6 they add the plan's hopes plus some additional thing). As the map
+fills up, Gaia advances, perhaps gaining access to new threats or moves.
+(Perhaps they can only add a predator if it's supported by food underneath, and
+habitats upwards as well.)
+
+When the map fills up (or when players decide to strike out across the land?),
+exploration allows Gaia to add a new playbook -- the players have gone far
+enough out to find another biome.
+
 [bibliography]
 .Bibliography
 - Adam Koebel, Sage LaTorra. _Dungeon World_. 2012.
