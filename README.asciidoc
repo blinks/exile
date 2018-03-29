@@ -29,6 +29,9 @@ See https://labyrinthos.co/blogs/learn-tarot-with-labyrinthos-academy/an-introdu
 TODO: "Make your own" instructions with a common poker deck.
 
 == Planetfall
+
+image:boarding.png[]
+
 Ten thousand colonists left Earth for this class-M planet. Probes have been
 here in orbit for decades mapping the surface, just like every other colony.
 The colony ship dropped in to orbit the planet safely while supplies and people
@@ -107,6 +110,9 @@ Bird has [Clover] a liquor stash and wants [House] safety for the colony.
 ====
 
 == Act I: The council
+
+image:salvage.png[]
+
 You are the leaders of the most powerful factions in the colony, gathered
 together to try to keep everyone alive while you build a foundation on this
 planet. At the first council, you sit under a lean-to made of wreckage, at a
@@ -197,6 +203,9 @@ Bird: Intervene to prevent the fuel containment from failing, by removing the fu
 ====
 
 == Act II: The contact
+
+image:harvest.png[]
+
 When the council ends, Gaia will take everyone's name cards and shuffle them
 together. These will be drawn to determine what order players get to resolve
 plans.
@@ -245,6 +254,9 @@ Then, you roll the pool.
 TODO: Stress relief as a way of detailing the world (#2)
 
 == The ship
+
+image:planetfall-bw.png[]
+
 TODO: Name it.
 
 == The planet
