@@ -11,10 +11,10 @@ v0.19, {localdate}: Draft.
 
 == The basics
 _Exile_ is a narrative-heavy game about a crashed colony ship that you play in
-two-act sessions: **the council** and **the contact**. The first act is a
-free-form council meeting where players can make plans. The second act is a
-montage of those plans coming to fruition, with resources and dice deciding how
-each turns out.
+two-act sessions: *the council* and *the contact*. The first act is a free-form
+council meeting where players can make plans. The second act is a montage of
+those plans coming to fruition, with resources and dice deciding how each turns
+out.
 
 Before the first session is a special prologue: planetfall. Each player is
 dealt cards to restrict their character options, and Gaia (the facilitator
@@ -97,41 +97,149 @@ If you feel like you've got it, score a point and pick a new goal.
 |XXXVI |Cross, on a mission. |A relic from home. |Principles made law.
 |===
 
-== Best laid plans
-The six plans, and how you trigger them:
+.Three example characters
+====
+Lily has [Bouquet] the ship's manifest and wants [Bear] control of the colony.
 
-- Explore: say where you're looking and what you hope to find.
-- Gather: say where you're going and what you're collecting there.
-- Build: say what you're building, where you're building it, and what materials you're using.
-- Intervene: say what you're trying to prevent, and how.
-- Repair: say what you're trying to fix, and how.
-- Assault: say what you're trying to control, and how far you're willing to go.
+Anchor has [Key] a way into the ship and wants [Dog] a loyal population.
 
-After you make a plan, ask Gaia for position & effect. Each relevant resource
-you add to your plan can either give you a die, improve your position, or
-improve your effect, your choice. Key word: relevant. If you're looking to
-repair the radio, it's highly unlikely that your diving gear will help.
+Bird has [Clover] a liquor stash and wants [House] safety for the colony.
+====
 
-(See https://bladesinthedark.com/action-roll for background.)
+== Act I: The council
+You are the leaders of the most powerful factions in the colony, gathered
+together to try to keep everyone alive while you build a foundation on this
+planet. At the first council, you sit under a lean-to made of wreckage, at a
+makeshift table, on whatever you could drag over. Perhaps later it'll be more
+comfortable.
 
-Write down the resources you add to your plan. To resolve a plan, confirm your
-final position and effect, and confirm that your resources are available, and
-roll. You get a die for each resource. (If you have no resources, you'll roll
-two dice and reverse their order for the following.)
+****
+The planet was surveyed long before you got there, to ensure it was a safe
+place for a new colony. Unexplored, yes. Wild, sure. But the atmosphere and
+geology aren't actively out to destroy you yet. It feels like Earth, back in
+the years before the industrial revolution.
 
-- The highest die determines how well the plan goes.
+You've still got trouble, though. The ship was supposed to prepare a space for
+you where the surveyor drones decided a colony would be most prosperous, but it
+never got a chance. You were supposed to land with food and water stores for a
+decade, but they're scattered across the landscape. Experts in all the skills
+necessary for building a new civilization were among the crew, but many of them
+are dead.
+
+Instead, you have human ingenuity and lots of help. You have whatever salvage
+you can pull from the wreckage. You have a planet full of life that you might
+tame.
+****
+
+In each council act, find a comfortable space to talk. You can wander around,
+in and out of earshot of the other players. You can sit together at a large
+table or gather in small groups in a backyard. Each player should carry their
+resources (as cards or tokens or a list) and something for recording plans.
+
+During the council, players should try to solve problems: their own, their
+faction's, and the colony's. Some of these might be solved just through
+discussion, but most will need to happen after the meeting is over. For the
+latter, you must make a *plan*.
+
+=== Best laid plans
+There are six types of plan:
+
+- Explore: write down where you're looking and what you hope to find. If you
+  succeed, you'll get to reveal something useful on the map.
+- Gather: write down what you're collecting, and where from. If you succeed,
+  you'll get a resource for what you collected.
+- Build: write down what you're building, where you're building it, and what
+  materials you're using. If you succeed, you'll get to add that building to
+  the map. 
+- Intervene: write down what you're trying to prevent, and how. If you succeed,
+  you'll reduce or eliminate the effect of Gaia's threat.
+- Repair: write down what you're trying to fix, and how. If you succeed, you'll
+  turn back that thing's stress clock.
+- Assault: write down what you're trying to control, and how far you're willing
+  to go. If you succeed, you'll take control of it and can do what you like
+  with it.
+
+.Example plans
+====
+Lily: Explore the ship, hoping for weapons.
+
+Anchor: Gather a small group of engineers from the colony.
+
+Bird: Intervene to prevent the fuel containment from failing, by removing the fuel.
+====
+
+When you make a plan, announce it to the people around you and write it down.
+Let them know whether this is a secret plan (that is, whether they _know_
+you're planning it) or whether it's public. _Exile_ is better when the players
+know more than the characters: this leads to some great dramatic irony and
+foreshadowing.
+
+After you make a plan, you should consider asking Gaia for position & effect.
+(See https://bladesinthedark.com/action-roll for background.) This can give you
+an idea of how many resources you're going to need to make it work. You can only
+use a resource with the permission of the person who will have it at the time
+you resolve your plan. You might ask for permission first, to be safe. Write it
+down as a bullet under your plan.
+
+.Example resources
+====
+Lily: Explore the ship, hoping for weapons.
+- Anchor's way into the ship
+
+Anchor: Gather a small group of engineers from the colony.
+- Lily's manifest
+
+Bird: Intervene to prevent the fuel containment from failing, by removing the fuel.
+- Anchor's engineers (hopefully)
+====
+
+== Act II: The contact
+When the council ends, Gaia will take everyone's name cards and shuffle them
+together. These will be drawn to determine what order players get to resolve
+plans.
+
+When your card is drawn, choose one:
+
+- Resolve one of your plans.
+- Catch a break and (optionally) cancel an unresolved plan.
+
+After all cards are drawn, Gaia will make a move, then shuffle them all back up
+for another round unless the players are all out of plans. In that case, the
+session ends. Continue with another Council act, if you have time.
+
+=== Resolution
+Choose one of your plans and announce it to the group, along with all the
+bullets you wrote down. Confirm your position & effect with Gaia, then ask
+about your resources.
+
+Each relevant resource you can use for your plan can either give you a die,
+improve your position, or improve your effect. Key word: relevant. If you're
+looking to repair the radio, it's highly unlikely that your diving gear will
+help. It's up to Gaia to decide whether a resource is relevant.
+
+For each resource you named, ask its owner to choose:
+
+- It gives you a die.
+- It improves your position.
+- It improves your effect.
+- You can't use it.
+
+At this point you'll have a position, an effect, and a (possibly empty) pool of
+dice. You can add another die to your pool by pushing yourself (add yourself to
+the resources for your plan) or accepting a Devil's Bargain. (See
+https://bladesinthedark.com/action-roll.)
+
+Then, you roll the pool.
+
+- The highest die determines how well the plan goes. (See
+  https://bladesinthedark.com/action-roll.)
 - The lowest die determines the stress you put on your resources, divided as
-  evenly as you can among them. You choose what takes the extra stress.
+  evenly as you can among them. You choose what takes the extra stress, though
+  you can't give it to something whose clock is already full. When a stress
+  clock fills, it breaks. (TODO: Resource trauma.)
 
-== The council room
-
-== How to play
-
-== Running the game
-
-== Gaia
-
-== Changing the game
+=== Downtime
+TODO: Stress relief as a way of detailing the world (#2)
 
 == The ship
 TODO: Name it.
