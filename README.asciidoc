@@ -259,7 +259,14 @@ image:planetfall-bw.png[]
 
 TODO: Name it.
 
+The ship has a playbook kind of like Gaia's, with the same 5-level pyramid
+(this time with "the colony" pre-added at the top, perhaps). Exploration wishes
+along the side for things that the ship had, to be crossed off when Gaia says
+you can't find them permanently. Buildings can go on this pyramid based on
+their distance from the colony, with habitat info in the area.
+
 == The planet
+
 TODO: Name it.
 
 Three possible playbooks for Gaia:
@@ -270,8 +277,9 @@ Three possible playbooks for Gaia:
 
 Playbooks would have threat moves and sorta be like an adventure starter.
 Player exploration triggers Gaia's advancement (like the Cave in Vast), and the
-playbook holds a food chain (as a pyramid) with space for habitat details (on
-the left and right on each level).
+playbook holds a food chain (as a 5-level pyramid) with space for habitat
+details (on the left and right on each level, chosen from a list for each
+playbook).
 
 City of Brass might end up with cyborg rodents somewhere in the middle, with a
 sewer habitat linked to its level. Gaia doesn't name the flora / fauna, they
