@@ -292,6 +292,8 @@ When the map fills up (or when players decide to strike out across the land?),
 exploration allows Gaia to add a new playbook -- the players have gone far
 enough out to find another biome.
 
+== Giants
+
 [bibliography]
 .Bibliography
 - Adam Koebel, Sage LaTorra. _Dungeon World_. 2012.
