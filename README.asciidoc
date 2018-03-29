@@ -10,7 +10,15 @@ v0.19, {localdate}: Draft.
 :toc:
 
 == The Basics
-_Exile_ is a narrative-heavy game about a crashed colony ship.
+_Exile_ is a narrative-heavy game about a crashed colony ship that you play in
+two-act sessions: **the council** and **the contact**. The first act is a
+free-form council meeting where players can make plans. The second act is a
+montage of those plans coming to fruition, with resources and dice deciding how
+each turns out.
+
+Before the first session is a special prologue: planetfall. Each player is
+dealt cards to restrict their character options, and Gaia (the facilitator
+player) chooses a playbook that describes where they've fallen.
 
 === Clocks
 See https://bladesinthedark.com/progress-clocks
@@ -21,7 +29,7 @@ See https://labyrinthos.co/blogs/learn-tarot-with-labyrinthos-academy/an-introdu
 TODO: "Make your own" instructions with a common poker deck.
 
 == Characters
-Three cards randomly pulled from a Lenormand deck constrain your character
+Three cards randomly dealt from a Lenormand deck constrain your character
 decisions. You get to decide which one goes in which slot, but that's it.
 
 The first slot is who you were. It determines your character's family name
