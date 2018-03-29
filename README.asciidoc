@@ -9,7 +9,7 @@ v0.19, {localdate}: Draft.
 :title-logo-image: image:planetfall-orig.png[]
 :toc:
 
-== The Basics
+== The basics
 _Exile_ is a narrative-heavy game about a crashed colony ship that you play in
 two-act sessions: **the council** and **the contact**. The first act is a
 free-form council meeting where players can make plans. The second act is a
@@ -23,12 +23,23 @@ player) chooses a playbook that describes where they've fallen.
 === Clocks
 See https://bladesinthedark.com/progress-clocks
 
-=== Lenormand Cards
+=== Lenormand cards
 See https://labyrinthos.co/blogs/learn-tarot-with-labyrinthos-academy/an-introduction-to-lenormand-cards-plus-lenormand-card-meaning-list
 
 TODO: "Make your own" instructions with a common poker deck.
 
-== Characters
+== Planetfall
+Ten thousand colonists left Earth for this class-M planet. Probes have been
+here in orbit for decades mapping the surface, just like every other colony.
+The colony ship dropped in to orbit the planet safely while supplies and people
+were dropped off, but something happened to it and now you're here a little
+early.
+
+Your ship lies in a heap of wreckage, somewhere on the planet, and you have to
+build up a colony without many of the safeguards sent with you. You also have
+the crew of the colony ship, who never wanted to stay.
+
+=== Character creation
 Three cards randomly dealt from a Lenormand deck constrain your character
 decisions. You get to decide which one goes in which slot, but that's it.
 
@@ -86,18 +97,7 @@ If you feel like you've got it, score a point and pick a new goal.
 |XXXVI |Cross, on a mission. |A relic from home. |Principles made law.
 |===
 
-== The Colony
-Ten thousand colonists left Earth for this class-M planet. Probes have been
-here in orbit for decades mapping the surface, just like every other colony.
-The colony ship dropped in to orbit the planet safely while supplies and people
-were dropped off, but something happened to it and now you're here a little
-early.
-
-Now your ship lies in a heap of wreckage, somewhere on the planet, and you have
-to build up a colony without many of the safeguards sent with you. You also have
-the crew of the colony ship, who never wanted to stay.
-
-== Best Laid Plans
+== Best laid plans
 The six plans, and how you trigger them:
 
 - Explore: say where you're looking and what you hope to find.
@@ -123,20 +123,20 @@ two dice and reverse their order for the following.)
 - The lowest die determines the stress you put on your resources, divided as
   evenly as you can among them. You choose what takes the extra stress.
 
-== The Council Room
+== The council room
 
-== How to Play
+== How to play
 
-== Running the Game
+== Running the game
 
 == Gaia
 
-== Changing the Game
+== Changing the game
 
-== The Ship
+== The ship
 TODO: Name it.
 
-== The Planet
+== The planet
 TODO: Name it.
 
 Three possible playbooks for Gaia:
