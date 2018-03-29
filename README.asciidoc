@@ -184,12 +184,15 @@ down as a bullet under your plan.
 .Example resources
 ====
 Lily: Explore the ship, hoping for weapons.
+
 - Anchor's way into the ship
 
 Anchor: Gather a small group of engineers from the colony.
+
 - Lily's manifest
 
 Bird: Intervene to prevent the fuel containment from failing, by removing the fuel.
+
 - Anchor's engineers (hopefully)
 ====
 
