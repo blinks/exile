@@ -7,6 +7,9 @@ exile.pdf : README.asciidoc buildnumber.txt
 	asciidoctor-pdf README.asciidoc -o exile.pdf
 
 buildnumber.txt : README.asciidoc
-	echo `git tag --contains HEAD`-`git log -1 --pretty="%h"` > buildnumber.txt
+	echo `git describe --tags` > buildnumber.txt
 
-.PHONY: push
+.PHONY: push clean
+
+clean :
+	rm exile.pdf buildnumber.txt
