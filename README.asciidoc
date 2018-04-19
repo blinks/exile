@@ -1,6 +1,6 @@
 = Exile: A colony-building role-playing game
 Written by Adam Blinkinsop, illustrated by Nate Marcel.
-v0.20, {localdate}: Draft.
+v0.21, {localdate}: Draft.
 :doctype: book
 :sectnums!:
 :pdf-stylesdir: ./themes
@@ -45,8 +45,8 @@ create, or use the rules and tables in this book (TODO) to prompt you.
 
 === No secrets
 
-There are no secrets in _Exile_. Either everyone at the table knows, or nobody
-knows. Hard and fast rule.
+There are no secrets between players in _Exile_. Either everyone at the table
+knows, or nobody knows. Hard and fast rule.
 
 This means no character backstory that doesn’t emerge from play. It means no
 building a world map on your own and then springing it on the other players. It
@@ -56,6 +56,12 @@ someone looks outside.
 It also means you can’t have secret plans that only you and Gaia know about,
 springing them on the others only after completion. Air those things out,
 folks.
+
+*However,* plans are only known to the characters participating in them by
+default. If Bird goes off and finds the birdmech hangar, and Whip gave them her
+way into the ship, only Bird and Whip know about it. Either of them can
+certainly tell everyone else in the colony if they like, but players should be
+able to separate their own knowledge from their character's.
 
 === Clocks
 See https://bladesinthedark.com/progress-clocks
