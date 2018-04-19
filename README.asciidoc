@@ -1,6 +1,6 @@
 = Exile: A colony-building role-playing game
 Written by Adam Blinkinsop, illustrated by Nate Marcel.
-v0.19, {localdate}: Draft.
+v0.20, {localdate}: Draft.
 :doctype: book
 :sectnums!:
 :pdf-stylesdir: ./themes
@@ -10,15 +10,52 @@ v0.19, {localdate}: Draft.
 :toc:
 
 == The basics
-_Exile_ is a narrative-heavy game about a crashed colony ship that you play in
-two-act sessions: *the council* and *the contact*. The first act is a free-form
-council meeting where players can make plans. The second act is a montage of
-those plans coming to fruition, with resources and dice deciding how each turns
-out.
+This is a story about the survivors of a fallen colony ship. One of you plays
+as Gaia, with her eyes and ears on the planet itself, its flora and fauna, and
+the colony. The rest of you play colonists, hoping to survive together.
+
+You play _Exile_ in two-act sessions: *the council* and *the contact*. The
+first act is a free-form council meeting where players can make plans. The
+second act is a montage of those plans coming to fruition, with resources and
+dice deciding how each turns out.
 
 Before the first session is a special prologue: planetfall. Each player is
 dealt cards to restrict their character options, and Gaia (the facilitator
 player) chooses a playbook that describes where they've fallen.
+
+=== The game
+
+_Exile_ isn’t quite a "game" in the normal sense — nobody’s attempting to win,
+and losing a character doesn’t make you lose or anything. It’s more like a
+structured way to play pretend. We hand the reins of the experience over to
+Gaia, and the other players build characters to control like they’re piloting a
+mech suit.
+
+The nice thing about this is that we can avoid the old cops and robbers
+argument of "I shot you!" "No, you didn’t!" because someone’s in charge of
+deciding what happens at any given point. It’s not that much fun to always just
+decide, though, so we’ll often push it off to the dice. The dice don’t feel as
+bad when things go poorly, so that’s a bonus. Stories where only good things
+happen are seldom interesting.
+
+Another nice thing about playing with a group of creative people is that nobody
+has to come up with everything themselves. Creativity is draining, especially
+building a whole world up from nothing. Sometimes you can make someone else
+create, or use the rules and tables in this book (TODO) to prompt you.
+
+=== No secrets
+
+There are no secrets in _Exile_. Either everyone at the table knows, or nobody
+knows. Hard and fast rule.
+
+This means no character backstory that doesn’t emerge from play. It means no
+building a world map on your own and then springing it on the other players. It
+means don’t write up the alien planet bird-watching book and consult it when
+someone looks outside.
+
+It also means you can’t have secret plans that only you and Gaia know about,
+springing them on the others only after completion. Air those things out,
+folks.
 
 === Clocks
 See https://bladesinthedark.com/progress-clocks
@@ -151,7 +188,7 @@ latter, you must make a *plan*.
 There are six types of plan:
 
 - Explore: write down where you're looking and what you hope to find. If you
-  succeed, you'll get to reveal something useful on the map.
+  succeed, Gaia will put something useful on the map.
 - Gather: write down what you're collecting, and where from. If you succeed,
   you'll get a resource for what you collected.
 - Build: write down what you're building, where you're building it, and what
@@ -257,7 +294,7 @@ TODO: Stress relief as a way of detailing the world (#2)
 
 image:planetfall-bw.png[]
 
-TODO: Name it.
+TODO: Name it?
 
 The ship has a playbook kind of like Gaia's, with the same 5-level pyramid
 (this time with "the colony" pre-added at the top, perhaps). Exploration wishes
@@ -267,7 +304,10 @@ their distance from the colony, with habitat info in the area.
 
 == The planet
 
-TODO: Name it.
+TODO: Name it?
+
+Gaia also gets to make plans, but must announce them early and always gets last
+initiative. [Think of Gaia's plans like the Grind in Torchbearer.]
 
 Three possible playbooks for Gaia:
 
