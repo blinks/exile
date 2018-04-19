@@ -19,9 +19,9 @@ first act is a free-form council meeting where players can make plans. The
 second act is a montage of those plans coming to fruition, with resources and
 dice deciding how each turns out.
 
-Before the first session is a special prologue: planetfall. Each player is
-dealt cards to restrict their character options, and Gaia (the facilitator
-player) chooses a playbook that describes where they've fallen.
+Before the first session is a special prologue: planetfall. Each player rolls
+dice to restrict their character options, and Gaia (the facilitator player)
+chooses a playbook that describes where they've fallen.
 
 === The game
 
@@ -60,11 +60,6 @@ folks.
 === Clocks
 See https://bladesinthedark.com/progress-clocks
 
-=== Lenormand cards
-See https://labyrinthos.co/blogs/learn-tarot-with-labyrinthos-academy/an-introduction-to-lenormand-cards-plus-lenormand-card-meaning-list
-
-TODO: "Make your own" instructions with a common poker deck.
-
 == Planetfall
 
 image:boarding.png[]
@@ -80,13 +75,24 @@ build up a colony without many of the safeguards sent with you. You also have
 the crew of the colony ship, who never wanted to stay.
 
 === Character creation
-Three cards randomly dealt from a Lenormand deck constrain your character
-decisions. You get to decide which one goes in which slot, but that's it.
+Three rolls -- each 2d6 with a light and a dark die -- constrain your character
+decisions. You get to decide which result goes in which slot, but that's it.
+
+.Dark die for the row, light die for the column
+|===
+|2d6 |1 |2 |3 |4 |5 |6
+|1 |Rider |Clover |Ship |House |Tree |Cloud
+|2 |Snake |Coffin |Bouquet |Scythe |Whip |Bird
+|3 |Kid |Fox |Bear |Star |Stork |Dog
+|4 |Tower |Garden |Mountain |Crossroad |Mouse |Heart
+|5 |Ring |Book |Letter |Adam |Eve |Lily
+|6 |Sun |Moon |Key |Fish |Anchor |Cross
+|===
 
 The first slot is who you were. It determines your character's family name
 (though you decide what people call you) and what made you decide to board this
-ship. Each card leaves enough room for you to add detail; describe to the other
-players why you had to leave Earth.
+ship. Each result leaves enough room for you to add detail; describe to the
+other players why you had to leave Earth.
 
 The second slot is what you kept hold of -- or found -- during planetfall.
 These are 6-clock resources that you begin play with.
@@ -97,44 +103,43 @@ If you feel like you've got it, score a point and pick a new goal.
 [cols="1,3,3,3"]
 .Characters
 |===
-|# |Who you were. |What you have. |What you want.
-
-|I |Rider, a messenger. |A hover bike. |To send a message home.
-|II |Clover, a free spirit. |A liquor stash. |To relax and rest.
-|III |Ship, an explorer. |An all-terrain transport. |To explore the planet.
-|IV |House, a noble. |A portable instant shelter. |Safety for the colony.
-|V |Tree, a druid. |The seed bank. |To put down roots.
-|VI |Clouds, with a secret past. |A cloaking device. |To hide from home.
-|VII |Snake, a crime boss. |A bolt gun. |To learn secrets.
-|VIII |Coffin, in mourning. |A tactical nuclear weapon. |To bury the dead.
-|IX |Bouquet, a courtier. |The ship’s manifest. |To maintain etiquette.
-|X |Scythe, an assassin. |A shock sword. |A reckoning.
-|XI |Whip, a lawyer. |A stunner. |Formalized council rules.
-|XII |Birds, a gossip. |A reconnaissance drone. |News from home.
-|XIII |Child, a ship-born youth. |A newly-created android. |To learn about this place.
-|XIV |Fox, a clever spy. |A listening bug. |Personal wealth.
-|XV |Bear, the captain. |The highest civilian rank. |Control of the colony.
-|XVI |Star, a priest or priestess. |Planetary weather data. |A spiritual leader.
-|XVII |Stork, physically altered. |A gene editor. |To not repeat the past.
-|XVIII |Dog, loyal. |A helper robot. |A loyal population.
-|XIX |Tower, solitary. |A viewing tower. |A sole authority figure.
-|XX |Garden, a botanist. |The ship’s transmitter. |Shared authority.
-|XXI |Mountain, injured. |An exoskeleton. |A challenge.
-|XXII |Crossroad, separated. |The planet’s survey map. |To divide the colony.
-|XXIII |Mice, poor. |Samples of diseases. |To take it slow.
-|XXIV |Heart, in love. |Lots of good friends. |Forgiveness.
-|XXV |Ring, attached. |A pair of short-range radios.  |A partner or ally.
-|XXVI |Book, a researcher. |A hook into the ship’s memory. |To study flora and fauna.
-|XXVII |Letter, the comms officer. |The receiver dish. |To hold onto the past.
-|XXVIII |Animus, a man. |A man’s promise. |A man in charge.
-|XXIX |Anima, a woman. |A woman’s promise. |A woman in charge.
-|XXX |Lily, beautiful or handsome. |The art archives. |To be the spiritual leader.
-|XXXI |Sun, retired. |A solar generator. |Victory over the planet.
-|XXXII |Moon, a cultist. |A dream catcher. |To work with the planet.
-|XXXIII |Key, freed. |A way into the ship. |To free the androids.
-|XXXIV |Fish, a rich merchant. |Diving gear. |A market economy.
-|XXXV |Anchor, a builder. |Keys to the brig. |A safe place to live.
-|XXXVI |Cross, on a mission. |A relic from home. |Principles made law.
+|Anchor |a builder. |Keys to the brig. |A safe place to live.
+|Anima |a woman. |A woman’s promise. |A woman in charge.
+|Animus |a man. |A man’s promise. |A man in charge.
+|Bear |the captain. |The highest civilian rank. |Control of the colony.
+|Bird |a gossip. |A reconnaissance drone. |News from home.
+|Book |a researcher. |A hook into the ship’s memory. |To study flora and fauna.
+|Bouquet |a courtier. |The ship’s manifest. |To maintain etiquette.
+|Cloud |with a secret past. |A cloaking device. |To hide from home.
+|Clover |a free spirit. |A liquor stash. |To relax and rest.
+|Coffin |in mourning. |A tactical nuclear weapon. |To bury the dead.
+|Cross |on a mission. |A relic from home. |Principles made law.
+|Crossroad |separated. |The planet’s survey map. |To divide the colony.
+|Dog |loyal. |A helper robot. |A loyal population.
+|Fish |a rich merchant. |Diving gear. |A market economy.
+|Fox |a clever spy. |A listening bug. |Personal wealth.
+|Garden |a botanist. |The ship’s transmitter. |Shared authority.
+|Heart |in love. |Lots of good friends. |Forgiveness.
+|House |a noble. |A portable instant shelter. |Safety for the colony.
+|Key |freed. |A way into the ship. |To free the androids.
+|Kid |a ship-born youth. |A newly-created android. |To learn about this place.
+|Letter |the comms officer. |The receiver dish. |To hold onto the past.
+|Lily |beautiful or handsome. |The art archives. |To be the spiritual leader.
+|Mice |poor. |Samples of diseases. |To take it slow.
+|Moon |a cultist. |A dream catcher. |To work with the planet.
+|Mountain |injured. |An exoskeleton. |A challenge.
+|Name |Who you were. |What you have. |What you want.
+|Rider |a messenger. |A hover bike. |To send a message home.
+|Ring |attached. |A pair of short-range radios.  |A partner or ally.
+|Scythe |an assassin. |A shock sword. |A reckoning.
+|Ship |an explorer. |An all-terrain transport. |To explore the planet.
+|Snake |a crime boss. |A bolt gun. |To learn secrets.
+|Star |a priest or priestess. |Planetary weather data. |A spiritual leader.
+|Stork |physically altered. |A gene editor. |To not repeat the past.
+|Sun |retired. |A solar generator. |Victory over the planet.
+|Tower |solitary. |A viewing tower. |A sole authority figure.
+|Tree |a druid. |The seed bank. |To put down roots.
+|Whip |a lawyer. |A stunner. |Formalized council rules.
 |===
 
 .Three example characters
@@ -265,18 +270,17 @@ Bird: Intervene to prevent the fuel containment from failing, by removing the fu
 
 image:harvest.png[]
 
-When the council ends, Gaia will take everyone's name cards and shuffle them
-together. These will be drawn to determine what order players get to resolve
-plans.
-
-When your card is drawn, choose one:
+When the council ends, Gaia will choose a player to begin.  When you're chosen,
+choose one:
 
 - Resolve one of your plans.
 - Catch a break and (optionally) cancel an unresolved plan.
 
-After all cards are drawn, Gaia will make a move, then shuffle them all back up
-for another round unless the players are all out of plans. In that case, the
-session ends. Continue with another Council act, if you have time.
+Then choose a player who hasn't been chosen yet this round, including Gaia.
+Once everyone has been chosen once, start another round by choosing anyone
+(again, including Gaia) unless the players are all out of plans. In that case,
+the session ends. Continue with another session, starting with the Council act,
+if you have time.
 
 === Resolution
 Choose one of your plans and announce it to the group, along with all the
