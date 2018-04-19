@@ -187,24 +187,46 @@ latter, you must make a *plan*.
 === Best laid plans
 There are six types of plan:
 
-- Explore: write down where you're looking and what you hope to find. If you
-  succeed, Gaia will put something useful on the map.
-- Gather: write down what you're collecting, and where from. If you succeed,
-  you'll get a resource for what you collected.
-- Build: write down what you're building, where you're building it, and what
-  materials you're using. If you succeed, you'll get to add that building to
-  the map. 
-- Intervene: write down what you're trying to prevent, and how. If you succeed,
-  you'll reduce or eliminate the effect of Gaia's threat.
-- Repair: write down what you're trying to fix, and how. If you succeed, you'll
-  turn back that thing's stress clock.
-- Assault: write down what you're trying to control, and how far you're willing
-  to go. If you succeed, you'll take control of it and can do what you like
-  with it.
+Explore:: write down where you're looking and what you hope to find. On a hit,
+you'll find it: write it down on the map. It's not a resource, though it may be
+a place you can gather resources from. On a 4-5, pick one. On a 6, pick two.
+On a critical, pick three.
+
+- It's easy to defend.
+- It's sheltered from the weather.
+- It's well-stocked.
+- It's beautiful.
+- Nobody/nothing else was there.
+
+Gather:: write down what you're collecting, and where from. Be specific -- you
+can't gather hovercraft from the ship without exploring to find the hangar. On
+a hit, you'll get a resource for what you collected. On a 4-5, draw a 4-clock.
+On a 6, draw a 6-clock. On a critical, draw an 8-clock. Choose one:
+
+- You describe an upside, Gaia describes a downside.
+- You describe a downside, Gaia describes an upside.
+
+Build:: write down what you're building, where you're building it, and what
+materials you're using. The latter must be resources. On a hit, add your
+building to the map. You control it. On a 4-5, Gaia adds something dangerous
+nearby. On a critical, Gaia adds something helpful nearby.
+
+Intervene:: write down what you're trying to prevent, and how. On a hit,
+describe how you reduce the effect of Gaia's threat. On a 6, Gaia can't bring
+that threat to bear this round. On a critical, Gaia can't bring it to bear
+until after another Council phase.
+
+Repair:: write down what you're trying to fix, and how. On a hit, reduce that
+thing's stress clock. On a 4-5, reduce it by one tick. On a 6, by two ticks. On
+a critical, by three ticks.
+
+Assault:: write down what you're trying to control, and how far you're willing
+to go. On a hit, you'll take control of it and can do what you like with it.
+On a 4-5, draw a 4-clock. When it fills up, you lose control of it.
 
 .Example plans
 ====
-Lily: Explore the ship, hoping for weapons.
+Lily: Explore the ship, hoping to find the armory.
 
 Anchor: Gather a small group of engineers from the colony.
 
@@ -226,7 +248,7 @@ down as a bullet under your plan.
 
 .Example resources
 ====
-Lily: Explore the ship, hoping for weapons.
+Lily: Explore the ship, hoping to find the armory.
 
 - Anchor's way into the ship
 
@@ -258,30 +280,27 @@ session ends. Continue with another Council act, if you have time.
 
 === Resolution
 Choose one of your plans and announce it to the group, along with all the
-bullets you wrote down. Confirm your position & effect with Gaia, then ask
-about your resources.
+bullets you wrote down.
 
-Each relevant resource you can use for your plan can either give you a die,
-improve your position, or improve your effect. Key word: relevant. If you're
-looking to repair the radio, it's highly unlikely that your diving gear will
-help. It's up to Gaia to decide whether a resource is relevant.
+Each relevant resource you can use for your plan can either give you a die or
+stress you out if it doesn't show up. Key word: relevant. If you're looking to
+repair the radio, it's highly unlikely that your diving gear will help. It's up
+to Gaia to decide whether a resource is relevant.
 
 For each resource you named, ask its owner to choose:
 
-- It gives you a die.
-- It improves your position.
-- It improves your effect.
-- You can't use it.
+- You can use it, take a die.
+- You can't use it, take a stress.
 
-At this point you'll have a position, an effect, and a (possibly empty) pool of
-dice. You can add another die to your pool by pushing yourself (add yourself to
-the resources for your plan) or accepting a Devil's Bargain. (See
+At this point you'll have a (possibly empty) pool of dice. You can add another
+die to your pool by pushing yourself (add yourself to the resources for your
+plan) or accepting a Devil's Bargain. (See
 https://bladesinthedark.com/action-roll.)
 
 Then, you roll the pool.
 
-- The highest die determines how well the plan goes. (See
-  https://bladesinthedark.com/action-roll.)
+- The highest die determines how well the plan goes, as described in the plans
+  section. If it's a 4+, you hit. Otherwise, you miss.
 - The lowest die determines the stress you put on your resources, divided as
   evenly as you can among them. You choose what takes the extra stress, though
   you can't give it to something whose clock is already full. When a stress
