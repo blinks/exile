@@ -1,6 +1,6 @@
 = Exile: A colony-building role-playing game
 Written by Adam Blinkinsop, illustrated by Nate Marcel.
-v0.21, {localdate}: Draft.
+include::buildnumber.txt[]
 :doctype: book
 :sectnums!:
 :pdf-stylesdir: ./themes
