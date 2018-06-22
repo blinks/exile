@@ -58,13 +58,46 @@ springing them on the others only after completion. Air those things out,
 folks.
 
 *However,* plans are only known to the characters participating in them by
-default. If Bird goes off and finds the birdmech hangar, and Whip gave them her
-way into the ship, only Bird and Whip know about it. Either of them can
+default. If Bird goes off and finds the raptormech hangar, and Whip gave them
+her way into the ship, only Bird and Whip know about it. Either of them can
 certainly tell everyone else in the colony if they like, but players should be
 able to separate their own knowledge from their character's.
 
-=== Clocks
-See https://bladesinthedark.com/progress-clocks
+=== Clocks, stress, and dice
+
+[quote, The Second Law of Thermodynamics]
+____
+The total entropy of the universe always increases.
+____
+
+To succeed at something in Exile, you roll six-sided dice and look for the
+highest number. The higher it is, the better you did. Then you look for the
+lowest number: the entropy dice. This stresses out what you used to roll the
+dice.
+
+Humans are tool-makers. The dice you roll came from your tools, resources,
+knowledge, and friends, and the more they must do, the more stressed out they
+get. You can always count on yourself for a die (if you want). You probably
+have something on your character sheet that could give you a die, too. All of
+these things have a clock associated with them. (See
+https://bladesinthedark.com/progress-clocks for some background.)
+
+When you use something for dice, it's included in the stuff that takes stress
+from that roll. The entropy dice determine how much stress is taken: the value
+plus one for each additional die that rolled that value.
+
+That is, if I used myself and my "way into the ship" resource to look for some
+medical gear, I'd roll two dice. If I roll two 6s, I was super-successful at a
+massive (7-stress) cost, taking 3 stress to myself and 4 to my way in, or
+vice-versa. If I roll a 6 and a 1, I was successful at minimal (1-stress) cost,
+taking 1 stress to _either_ myself or my way in..
+
+Each clock has a number of ticks before it breaks. If you break (as a
+character), you're out of play. This could mean death, or that you're severely
+wounded, or that you just can't go on. Roll up a new character. If one of your
+tools breaks, well that's pretty straightforward, isn't it? If my way into the
+ship "broke," that probably means there was a tunnel collapse, or perhaps some
+new fires broke out, or the radiation has gotten too bad to go that way.
 
 == Planetfall
 
@@ -323,7 +356,13 @@ TODO: Stress relief as a way of detailing the world (#2)
 
 image:planetfall-bw.png[]
 
-TODO: Name it?
+TODO: A colony sheet.
+
+- A name for the ship and the colony.
+- A pyramid of locations (1 on 2 on 3 on 4 on 5) for writing. On the top, write
+  "the ship" / "the colony" / "planetfall".
+- A list of things that existed on the colony ship, for exploration.
+- The types of plan, as listed in "Best laid plans"
 
 The ship has a playbook kind of like Gaia's, with the same 5-level pyramid
 (this time with "the colony" pre-added at the top, perhaps). Exploration wishes
@@ -333,50 +372,39 @@ their distance from the colony, with habitat info in the area.
 
 == The planet
 
-TODO: Name it?
+TODO: A planet sheet.
 
-Gaia also gets to make plans, but must announce them early and always gets last
-initiative. [Think of Gaia's plans like the Grind in Torchbearer.]
+- A name for the playbook, a name for the planet itself and the specific region
+  you landed in.
+- A pyramid of food chain entries (1 on 2 on 3 on 4 on 5) for writing.
+- A list of things that exist in the biome in question; you could take these
+  from any Dungeon Starter.
+- Gaia's threats, as described below.
 
-Gaia's moves:
+Gaia gets to make plans-as-threats, but must announce them early and always
+gets last initiative. [Think of Gaia's plans like the Grind in Torchbearer
+applied as Conditions w/resistance from Blades in the Dark.]
 
-- Create a new bit of flora / fauna.
-- Create a new location.
-- Change the weather.
-- Create a new faction of colonists.
-- Resolve a faction's plan.
-- Declare a consequence. [Allowing resistance.]
+By default, Gaia always has a list of basic threats (taken from Apocalypse
+World):
 
-Three possible playbooks for Gaia:
+- Hunger
+- Thirst
+- Ignorance
+- Fear
+- Decay
+- Despair
+- Envy
+- Ambition
 
-- The Wine Dark Sea (Subnautica-detailed ocean)
-- City of Brass (ancient ruins of an alien city)
-- Green Light (forest canopy, miles above the surface)
+Each playbook can provide some additional ideas towards these threats, but Gaia
+should always announce them to the council before applying them.
 
-Playbooks would have threat moves and sorta be like an adventure starter.
-Player exploration triggers Gaia's advancement (like the Cave in Vast), and the
-playbook holds a food chain (as a 5-level pyramid) with space for habitat
-details (on the left and right on each level, chosen from a list for each
-playbook).
+=== The Wine Dark Sea (Subnautica-detailed ocean)
 
-City of Brass might end up with cyborg rodents somewhere in the middle, with a
-sewer habitat linked to its level. Gaia doesn't name the flora / fauna, they
-describe them and ask a player (whose character saw them) for a name.
+=== City of Brass (ancient ruins of an alien city)
 
-A player's exploration plan must have a hope: something you really would like
-to find. Lots of meat? A farm-able plant? A safe place to camp? The roll
-decides whether or not you find it, and what the downsides are.
-
-Gaia adds the results to the food chain / habitat map (perhaps on a 1-3 they
-add whatever they want, on a crit they add exactly what the plan hoped for, and
-on a 4-5 or 6 they add the plan's hopes plus some additional thing). As the map
-fills up, Gaia advances, perhaps gaining access to new threats or moves.
-(Perhaps they can only add a predator if it's supported by food underneath, and
-habitats upwards as well.)
-
-When the map fills up (or when players decide to strike out across the land?),
-exploration allows Gaia to add a new playbook -- the players have gone far
-enough out to find another biome.
+=== Green Light (forest canopy, miles above the surface)
 
 == Giants
 
