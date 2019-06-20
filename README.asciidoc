@@ -9,402 +9,118 @@ include::buildnumber.txt[]
 :title-logo-image: image:planetfall-orig.png[]
 :toc:
 
+- What is your game about? (Premise)
+  - _Making stuff as a fundamental piece of humanity._
+- How does it go about that? (Elements)
+  - Technology determines the range of success values on dice.
+  - Art enables players to recover from tax on their will.
+  - Conflicts around _making_ are serious business. (DW Wizard's Ritual)
+- What does it reward? (System)
+  - 
+
 == The basics
-This is a story about the survivors of a fallen colony ship. One of you plays
-as Gaia, with her eyes and ears on the planet itself, its flora and fauna, and
-the colony. The rest of you play colonists, hoping to survive together.
+image:planetfall-bw.png[]
+(core mechanisms)
 
-You play _Exile_ in two-act sessions: *the council* and *the contact*. The
-first act is a free-form council meeting where players can make plans. The
-second act is a montage of those plans coming to fruition, with resources and
-dice deciding how each turns out.
+d6 pool, 4+ with basic tools or less, 3+ with great tools, 2+ with the best
+tools. (If you have poor eyesight, perhaps 5+ for perception without basic
+tools.)
 
-Before the first session is a special prologue: planetfall. Each player rolls
-dice to restrict their character options, and Gaia (the facilitator player)
-chooses a playbook that describes where they've fallen.
+When these rolls succeed, the player gets what they want. (Intent & Task)
+When they fail:
+- Tax them. Health, Will, Technology.
+- Twist them. Think offscreen too, fail-forward.
 
-=== The game
+FoRK / help / advantages grant dice.
 
-_Exile_ isn’t quite a "game" in the normal sense — nobody’s attempting to win,
-and losing a character doesn’t make you lose or anything. It’s more like a
-structured way to play pretend. We hand the reins of the experience over to
-Gaia, and the other players build characters to control like they’re piloting a
-mech suit.
+Advancement as in Mouse Guard.
 
-The nice thing about this is that we can avoid the old cops and robbers
-argument of "I shot you!" "No, you didn’t!" because someone’s in charge of
-deciding what happens at any given point. It’s not that much fun to always just
-decide, though, so we’ll often push it off to the dice. The dice don’t feel as
-bad when things go poorly, so that’s a bonus. Stories where only good things
-happen are seldom interesting.
+=== Attributes
 
-Another nice thing about playing with a group of creative people is that nobody
-has to come up with everything themselves. Creativity is draining, especially
-building a whole world up from nothing. Sometimes you can make someone else
-create, or use the rules and tables in this book (TODO) to prompt you.
+(will, health)
+Injury is a tax on health. Stress is a tax on will. Technology can help with
+the former, art can help the latter. If either is taxed to zero, the character
+is not long for this world.
 
-=== No secrets
+(clout, resources)
 
-There are no secrets between players in _Exile_. Either everyone at the table
-knows, or nobody knows. Hard and fast rule.
-
-This means no character backstory that doesn’t emerge from play. It means no
-building a world map on your own and then springing it on the other players. It
-means don’t write up the alien planet bird-watching book and consult it when
-someone looks outside.
-
-It also means you can’t have secret plans that only you and Gaia know about,
-springing them on the others only after completion. Air those things out,
-folks.
-
-*However,* plans are only known to the characters participating in them by
-default. If Bird goes off and finds the raptormech hangar, and Whip gave them
-her way into the ship, only Bird and Whip know about it. Either of them can
-certainly tell everyone else in the colony if they like, but players should be
-able to separate their own knowledge from their character's.
-
-=== Clocks, stress, and dice
-
-[quote, The Second Law of Thermodynamics]
-____
-The total entropy of the universe always increases.
-____
-
-To succeed at something in Exile, you roll six-sided dice and look for the
-highest number. The higher it is, the better you did. Then you look for the
-lowest number: the entropy dice. This stresses out what you used to roll the
-dice.
-
-Humans are tool-makers. The dice you roll came from your tools, resources,
-knowledge, and friends, and the more they must do, the more stressed out they
-get. You can always count on yourself for a die (if you want). You probably
-have something on your character sheet that could give you a die, too. All of
-these things have a clock associated with them. (See
-https://bladesinthedark.com/progress-clocks for some background.)
-
-When you use something for dice, it's included in the stuff that takes stress
-from that roll. The entropy dice determine how much stress is taken: the value
-plus one for each additional die that rolled that value.
-
-That is, if I used myself and my "way into the ship" resource to look for some
-medical gear, I'd roll two dice. If I roll two 6s, I was super-successful at a
-massive (7-stress) cost, taking 3 stress to myself and 4 to my way in, or
-vice-versa. If I roll a 6 and a 1, I was successful at minimal (1-stress) cost,
-taking 1 stress to _either_ myself or my way in..
-
-Each clock has a number of ticks before it breaks. If you break (as a
-character), you're out of play. This could mean death, or that you're severely
-wounded, or that you just can't go on. Roll up a new character. If one of your
-tools breaks, well that's pretty straightforward, isn't it? If my way into the
-ship "broke," that probably means there was a tunnel collapse, or perhaps some
-new fires broke out, or the radiation has gotten too bad to go that way.
+(nature)
 
 == Planetfall
-
 image:boarding.png[]
+
+(first time character generation)
 
 Ten thousand colonists left Earth for this class-M planet. Probes have been
 here in orbit for decades mapping the surface, just like every other colony.
 The colony ship dropped in to orbit the planet safely while supplies and people
-were dropped off, but something happened to it and now you're here a little
+were dropped off, but something happened to it and now you’re here a little
 early.
 
-Your ship lies in a heap of wreckage, somewhere on the planet, and you have to
+Your ship lies in a heap of wreckage, strewn about the planet, and you have to
 build up a colony without many of the safeguards sent with you. You also have
 the crew of the colony ship, who never wanted to stay.
 
-=== Character creation
-Three rolls -- each 2d6 with a light and a dark die -- constrain your character
-decisions. You get to decide which result goes in which slot, but that's it.
-
-.Dark die for the row, light die for the column
-|===
-|2d6 |1 |2 |3 |4 |5 |6
-|1 |Rider |Clover |Ship |House |Tree |Cloud
-|2 |Snake |Coffin |Bouquet |Scythe |Whip |Bird
-|3 |Kid |Fox |Bear |Star |Stork |Dog
-|4 |Tower |Garden |Mountain |Crossroad |Mouse |Heart
-|5 |Ring |Book |Letter |Adam |Eve |Lily
-|6 |Sun |Moon |Key |Fish |Anchor |Cross
-|===
-
-The first slot is who you were. It determines your character's family name
-(though you decide what people call you) and what made you decide to board this
-ship. Each result leaves enough room for you to add detail; describe to the
-other players why you had to leave Earth.
-
-The second slot is what you kept hold of -- or found -- during planetfall.
-These are 6-clock resources that you begin play with.
-
-The third slot is what you want. Try and angle your way towards this in play.
-If you feel like you've got it, score a point and pick a new goal. 
-
-[cols="2,2,3,3"]
-.Characters
-|===
-|Anchor |a builder. |Keys to the brig. |A safe place to live.
-|Anima |a woman. |A woman’s promise. |A woman in charge.
-|Animus |a man. |A man’s promise. |A man in charge.
-|Bear |the captain. |The highest civilian rank. |Control of the colony.
-|Bird |a gossip. |A reconnaissance drone. |News from home.
-|Book |a researcher. |A hook into the ship’s memory. |To study flora and fauna.
-|Bouquet |a courtier. |The ship’s manifest. |To maintain etiquette.
-|Cloud |with a secret past. |A cloaking device. |To hide from home.
-|Clover |a free spirit. |A liquor stash. |To relax and rest.
-|Coffin |in mourning. |A tactical nuclear weapon. |To bury the dead.
-|Cross |on a mission. |A relic from home. |Principles made law.
-|Crossroad |separated. |The planet’s survey map. |To divide the colony.
-|Dog |loyal. |A helper robot. |A loyal population.
-|Fish |a rich merchant. |Diving gear. |A market economy.
-|Fox |a clever spy. |A listening bug. |Personal wealth.
-|Garden |a botanist. |The ship’s transmitter. |Shared authority.
-|Heart |in love. |Lots of good friends. |Forgiveness.
-|House |a noble. |A portable instant shelter. |Safety for the colony.
-|Key |freed. |A way into the ship. |To free the androids.
-|Kid |a ship-born youth. |A newly-created android. |To learn about this place.
-|Letter |the comms officer. |The receiver dish. |To hold onto the past.
-|Lily |beautiful or handsome. |The art archives. |To be the spiritual leader.
-|Mice |poor. |Samples of diseases. |To take it slow.
-|Moon |a cultist. |A dream catcher. |To work with the planet.
-|Mountain |injured. |An exoskeleton. |A challenge.
-|Name |Who you were. |What you have. |What you want.
-|Rider |a messenger. |A hover bike. |To send a message home.
-|Ring |attached. |A pair of short-range radios.  |A partner or ally.
-|Scythe |an assassin. |A shock sword. |A reckoning.
-|Ship |an explorer. |An all-terrain transport. |To explore the planet.
-|Snake |a crime boss. |A bolt gun. |To learn secrets.
-|Star |a priest or priestess. |Planetary weather data. |A spiritual leader.
-|Stork |physically altered. |A gene editor. |To not repeat the past.
-|Sun |retired. |A solar generator. |Victory over the planet.
-|Tower |solitary. |A viewing tower. |A sole authority figure.
-|Tree |a druid. |The seed bank. |To put down roots.
-|Whip |a lawyer. |A stunner. |Formalized council rules.
-|===
-
-.Three example characters
-====
-Lily has [Bouquet] the ship's manifest and wants [Bear] control of the colony.
-
-Anchor has [Key] a way into the ship and wants [Dog] a loyal population.
-
-Bird has [Clover] a liquor stash and wants [House] safety for the colony.
-====
-
-== Act I: The council
-
-image:salvage.png[]
-
-You are the leaders of the most powerful factions in the colony, gathered
-together to try to keep everyone alive while you build a foundation on this
-planet. At the first council, you sit under a lean-to made of wreckage, at a
-makeshift table, on whatever you could drag over. Perhaps later it'll be more
-comfortable.
-
-****
-The planet was surveyed long before you got there, to ensure it was a safe
-place for a new colony. Unexplored, yes. Wild, sure. But the atmosphere and
-geology aren't actively out to destroy you yet. It feels like Earth, back in
-the years before the industrial revolution.
-
-You've still got trouble, though. The ship was supposed to prepare a space for
-you where the surveyor drones decided a colony would be most prosperous, but it
-never got a chance. You were supposed to land with food and water stores for a
-decade, but they're scattered across the landscape. Experts in all the skills
-necessary for building a new civilization were among the crew, but many of them
-are dead.
-
-Instead, you have human ingenuity and lots of help. You have whatever salvage
-you can pull from the wreckage. You have a planet full of life that you might
-tame.
-****
-
-In each council act, find a comfortable space to talk. You can wander around,
-in and out of earshot of the other players. You can sit together at a large
-table or gather in small groups in a backyard. Each player should carry their
-resources (as cards or tokens or a list) and something for recording plans.
-
-During the council, players should try to solve problems: their own, their
-faction's, and the colony's. Some of these might be solved just through
-discussion, but most will need to happen after the meeting is over. For the
-latter, you must make a *plan*.
-
-=== Best laid plans
-There are six types of plan:
-
-Explore:: write down where you're looking and what you hope to find. On a hit,
-you'll find it: write it down on the map. It's not a resource, though it may be
-a place you can gather resources from. On a 4-5, pick one. On a 6, pick two.
-On a critical, pick three.
-
-- It's easy to defend.
-- It's sheltered from the weather.
-- It's well-stocked.
-- It's beautiful.
-- Nobody/nothing else was there.
-
-Gather:: write down what you're collecting, and where from. Be specific -- you
-can't gather hovercraft from the ship without exploring to find the hangar. On
-a hit, you'll get a resource for what you collected. On a 4-5, draw a 4-clock.
-On a 6, draw a 6-clock. On a critical, draw an 8-clock. Choose one:
-
-- You describe an upside, Gaia describes a downside.
-- You describe a downside, Gaia describes an upside.
-
-Build:: write down what you're building, where you're building it, and what
-materials you're using. The latter must be resources. On a hit, add your
-building to the map. You control it. On a 4-5, Gaia adds something dangerous
-nearby. On a critical, Gaia adds something helpful nearby.
-
-Intervene:: write down what you're trying to prevent, and how. On a hit,
-describe how you reduce the effect of Gaia's threat. On a 6, Gaia can't bring
-that threat to bear this round. On a critical, Gaia can't bring it to bear
-until after another Council phase.
-
-Repair:: write down what you're trying to fix, and how. On a hit, reduce that
-thing's stress clock. On a 4-5, reduce it by one tick. On a 6, by two ticks. On
-a critical, by three ticks.
-
-Assault:: write down what you're trying to control, and how far you're willing
-to go. On a hit, you'll take control of it and can do what you like with it.
-On a 4-5, draw a 4-clock. When it fills up, you lose control of it.
-
-.Example plans
-====
-Lily: Explore the ship, hoping to find the armory.
-
-Anchor: Gather a small group of engineers from the colony.
-
-Bird: Intervene to prevent the fuel containment from failing, by removing the fuel.
-====
-
-When you make a plan, announce it to the people around you and write it down.
-Let them know whether this is a secret plan (that is, whether they _know_
-you're planning it) or whether it's public. _Exile_ is better when the players
-know more than the characters: this leads to some great dramatic irony and
-foreshadowing.
-
-After you make a plan, you should consider asking Gaia for position & effect.
-(See https://bladesinthedark.com/action-roll for background.) This can give you
-an idea of how many resources you're going to need to make it work. You can only
-use a resource with the permission of the person who will have it at the time
-you resolve your plan. You might ask for permission first, to be safe. Write it
-down as a bullet under your plan.
-
-.Example resources
-====
-Lily: Explore the ship, hoping to find the armory.
-
-- Anchor's way into the ship
-
-Anchor: Gather a small group of engineers from the colony.
-
-- Lily's manifest
-
-Bird: Intervene to prevent the fuel containment from failing, by removing the fuel.
-
-- Anchor's engineers (hopefully)
-====
-
-== Act II: The contact
-
+== Wilderness phase
 image:harvest.png[]
 
-When the council ends, Gaia will choose a player to begin.  When you're chosen,
-choose one:
+(conflicts with the planet itself)
 
-- Resolve one of your plans.
-- Catch a break and (optionally) cancel an unresolved plan.
+== Colony phase
+(spend checks to do stuff, including tax relief mini-scenes)
 
-Then choose a player who hasn't been chosen yet this round, including Gaia.
-Once everyone has been chosen once, start another round by choosing anyone
-(again, including Gaia) unless the players are all out of plans. In that case,
-the session ends. Continue with another session, starting with the Council act,
-if you have time.
+Wiser -> gain a wise related to something you worked with?
+Performance -> test to relieve a bunch of will tax. (Your own / others.)
+  - like a resources check.
 
-=== Resolution
-Choose one of your plans and announce it to the group, along with all the
-bullets you wrote down.
+=== Medicine
+To recover from a tax on health, you'll need technology to help you recover.
 
-Each relevant resource you can use for your plan can either give you a die or
-stress you out if it doesn't show up. Key word: relevant. If you're looking to
-repair the radio, it's highly unlikely that your diving gear will help. It's up
-to Gaia to decide whether a resource is relevant.
+=== Art
+To recover from a tax on will, you'll need art to help you recover.
 
-For each resource you named, ask its owner to choose:
+== Skills
+(https://en.wikipedia.org/wiki/History_of_technology)
 
-- You can use it, take a die.
-- You can't use it, take a stress.
+- Various Weapons (bow? spear? etc.)
+- Various Instruments (lute? singing? etc.)
+- Various Art Media (paints? charcoal? etc.)
+- Various Crafting (stone-crafting, wood-crafting, etc.)
+- Various Food (agriculture, butchery, foraging, hunting, trapping, etc.)
+- Taming, but not Domestication (which is genetic modification over time)
 
-At this point you'll have a (possibly empty) pool of dice. You can add another
-die to your pool by pushing yourself (add yourself to the resources for your
-plan) or accepting a Devil's Bargain. (See
-https://bladesinthedark.com/action-roll.)
+== Gaia
+(GM playbooks / adventure starters for various biomes)
+(Can Gaia have beliefs / instincts / traits? == Agenda & Principles)
 
-Then, you roll the pool.
+=== Portray a living planet.
+Everything on the planet wants to survive and procreate. If a niche appears,
+life will fill it. 
 
-- The highest die determines how well the plan goes, as described in the plans
-  section. If it's a 4+, you hit. Otherwise, you miss.
-- The lowest die determines the stress you put on your resources, divided as
-  evenly as you can among them. You choose what takes the extra stress, though
-  you can't give it to something whose clock is already full. When a stress
-  clock fills, it breaks. (TODO: Resource trauma.)
+- https://en.wikipedia.org/wiki/Domestication_of_animals
+  Show the "commensal" pathway with animals / plants feeding on the edges of
+  the colony (either on the colony's waste directly or on what it draws near).
+- Seasons with weather conflicts, probably worth including in the starters.
 
-=== Downtime
-TODO: Stress relief as a way of detailing the world (#2)
+=== Apply the continuous pressure of entropy.
+Things break, wear down, rust, die.
 
-== The ship
+=== Play to learn about humanity from an outsider's perspective.
 
-image:planetfall-bw.png[]
+=== The Wine Dark Sea
+(an ocean filled with life, with the colony floating atop it)
 
-TODO: A colony sheet.
+=== City of Brass
+(ancient ruins of an alien city)
 
-- A name for the ship and the colony.
-- A pyramid of locations (1 on 2 on 3 on 4 on 5) for writing. On the top, write
-  "the ship" / "the colony" / "planetfall".
-- A list of things that existed on the colony ship, for exploration.
-- The types of plan, as listed in "Best laid plans"
+=== Green Light
+(a forest canopy, miles above the surface)
 
-The ship has a playbook kind of like Gaia's, with the same 5-level pyramid
-(this time with "the colony" pre-added at the top, perhaps). Exploration wishes
-along the side for things that the ship had, to be crossed off when Gaia says
-you can't find them permanently. Buildings can go on this pyramid based on
-their distance from the colony, with habitat info in the area.
+== The shipwreck
+image:salvage.png[]
 
-== The planet
-
-TODO: A planet sheet.
-
-- A name for the playbook, a name for the planet itself and the specific region
-  you landed in.
-- A pyramid of food chain entries (1 on 2 on 3 on 4 on 5) for writing.
-- A list of things that exist in the biome in question; you could take these
-  from any Dungeon Starter.
-- Gaia's threats, as described below.
-
-Gaia gets to make plans-as-threats, but must announce them early and always
-gets last initiative. [Think of Gaia's plans like the Grind in Torchbearer
-applied as Conditions w/resistance from Blades in the Dark.]
-
-By default, Gaia always has a list of basic threats (taken from Apocalypse
-World):
-
-- Hunger
-- Thirst
-- Ignorance
-- Fear
-- Decay
-- Despair
-- Envy
-- Ambition
-
-Each playbook can provide some additional ideas towards these threats, but Gaia
-should always announce them to the council before applying them.
-
-=== The Wine Dark Sea (Subnautica-detailed ocean)
-
-=== City of Brass (ancient ruins of an alien city)
-
-=== Green Light (forest canopy, miles above the surface)
+== Descendants
+(later character generation)
 
 == Giants
 
