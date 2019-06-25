@@ -76,12 +76,19 @@ Your character's *background* describes what they did before they left Earth.
 Choose a background and then write a detail about it that’s specific to your
 character.
 
-=== Advance four action dice
-Advance your four dice (d4 to d6, d6 to d8) like this:
+=== Advance seven action dice
+Advance your seven actions (d4 to d6, d6 to d8) like this:
 
-- Advance one action that you feel reflects your character's heritage.
-- Advance one action that you feel reflects your character's background.
-- Advance two more actions anywhere you please (max rating is 2, remember).
+- Advance two different actions that you feel reflect your character's heritage.
+- Advance two different actions that you feel reflect your character's background.
+- Advance three more actions anywhere you please (max rating is 2, remember).
+
+=== Pack for the trip
+Write down three things you brought from home. Each grants two dice.
+
+- Choose a family heirloom that you feel reflects your character's heritage.
+- Choose a useful tool that you feel reflects your character's background.
+- Choose a bit of colonist gear that was assigned to you.
 
 == Wilderness phase
 image:harvest.png[]
