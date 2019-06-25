@@ -57,11 +57,10 @@ image:boarding.png[]
 
 (first time character generation)
 
-Ten thousand colonists left Earth for this class-M planet. Probes have been
-here in orbit for decades mapping the surface, just like every other colony.
-The colony ship dropped in to orbit the planet safely while supplies and people
-were dropped off, but something happened to it and now you’re here a little
-early.
+Ten thousand colonists left Earth. Probes have been orbiting their destination
+for decades mapping the surface, just like every other colony.  The colony ship
+dropped in to orbit the planet safely while supplies and people were dropped
+off, but something happened to it and now you’re here a little early.
 
 Your ship lies in a heap of wreckage, strewn about the planet, and you have to
 build up a colony without many of the safeguards sent with you. You also have
@@ -71,24 +70,25 @@ the crew of the colony ship, who never wanted to stay.
 Your character's *heritage* describes where they're from. When you choose a
 heritage, write a detail about your family life on the line above.
 
+- Advance two different actions that you feel reflect your character's heritage.
+- Choose a 2d family heirloom that you feel reflects your character's heritage.
+- Write down something your family believes about people, and how it affects your behavior.
+
 === Choose a background
 Your character's *background* describes what they did before they left Earth.
 Choose a background and then write a detail about it that’s specific to your
 character.
 
-=== Advance seven action dice
-Advance your seven actions (d4 to d6, d6 to d8) like this:
-
-- Advance two different actions that you feel reflect your character's heritage.
 - Advance two different actions that you feel reflect your character's background.
-- Advance three more actions anywhere you please (max rating is 2, remember).
+- Choose a useful 2d tool that you feel reflects your character's background.
+- Write down something your profession believes about work, and how it affects your behavior.
 
-=== Pack for the trip
-Write down three things you brought from home. Each grants two dice.
+=== Choose your colonist effects
+Might be best to do this in a planetfall "session zero" for initial characters.
 
-- Choose a family heirloom that you feel reflects your character's heritage.
-- Choose a useful tool that you feel reflects your character's background.
-- Choose a bit of colonist gear that was assigned to you.
+- Advance three more actions anywhere you please (max rating is d8, remember).
+- Choose a bit of 2d colonist gear that was assigned to you.
+- Write down something you experienced at planetfall, and how it changed your behavior.
 
 == Wilderness phase
 image:harvest.png[]
