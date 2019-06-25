@@ -10,7 +10,7 @@ include::buildnumber.txt[]
 :toc:
 
 - What is your game about? (Premise)
-  - _Making stuff as a fundamental piece of humanity._
+  - _Making tools as a fundamental piece of humanity._
 - How does it go about that? (Elements)
   - Technology determines the range of success values on dice.
   - Art enables players to recover from tax on their will.
@@ -22,29 +22,35 @@ include::buildnumber.txt[]
 image:planetfall-bw.png[]
 (core mechanisms)
 
-d6 pool, 4+ with basic tools or less, 3+ with great tools, 2+ with the best
-tools. (If you have poor eyesight, perhaps 5+ for perception without basic
-tools.)
+Actions are rated by die size, from d4 to d12.
+Tools are numerically rated, from 0 to 4.
+Roll like Blades in the Dark (highest), but using Ob effectively doubled from
+Burning Wheel:
+
+- Ob 2 is Easy
+- Ob 4 is Routine
+- Ob 6 is Difficult
+- Ob 8 is Extremely Difficult
+- Ob 10 is Master-level
+- Ob 12 is Heroic Effort
+- Ob 14 is Ludicrously Difficult
+- Ob 16 is Nearly Impossible
+- Ob 18 is Phenomenally Difficult
+- Ob 20 is Miraculous
 
 When these rolls succeed, the player gets what they want. (Intent & Task)
 When they fail:
-- Tax them. Health, Will, Technology.
+- Tax them with conditions. Health, Will, Tool.
+  - Broken tools grant half dice, rounded down.
 - Twist them. Think offscreen too, fail-forward.
 
 FoRK / help / advantages grant dice.
 
-Advancement as in Mouse Guard.
+Advancement as in Mouse Guard: Success / Failure marked on the action. Need a
+number of successes equal to the die size and Failures equal to one less to
+advance.
 
-=== Attributes
-
-(will, health)
-Injury is a tax on health. Stress is a tax on will. Technology can help with
-the former, art can help the latter. If either is taxed to zero, the character
-is not long for this world.
-
-(clout, resources)
-
-(nature)
+Experience with tools helps, as well, increasing the number of dice you roll.
 
 == Planetfall
 image:boarding.png[]
@@ -61,33 +67,56 @@ Your ship lies in a heap of wreckage, strewn about the planet, and you have to
 build up a colony without many of the safeguards sent with you. You also have
 the crew of the colony ship, who never wanted to stay.
 
+=== Choose a heritage
+Your character's *heritage* describes where they're from. When you choose a
+heritage, write a detail about your family life on the line above.
+
+=== Choose a background
+Your character's *background* describes what they did before they left Earth.
+Choose a background and then write a detail about it that’s specific to your
+character.
+
+=== Advance four action dice
+Advance your four dice (d4 to d6, d6 to d8) like this:
+
+- Advance one action that you feel reflects your character's heritage.
+- Advance one action that you feel reflects your character's background.
+- Advance two more actions anywhere you please (max rating is 2, remember).
+
 == Wilderness phase
 image:harvest.png[]
 
 (conflicts with the planet itself)
 
 == Colony phase
-(spend checks to do stuff, including tax relief mini-scenes)
+(spend checks to do stuff, including condition relief mini-scenes)
 
-Wiser -> gain a wise related to something you worked with?
-Performance -> test to relieve a bunch of will tax. (Your own / others.)
-  - like a resources check.
-
-=== Medicine
-To recover from a tax on health, you'll need technology to help you recover.
-
-=== Art
-To recover from a tax on will, you'll need art to help you recover.
-
-== Skills
+== Actions
 (https://en.wikipedia.org/wiki/History_of_technology)
 
-- Various Weapons (bow? spear? etc.)
-- Various Instruments (lute? singing? etc.)
-- Various Art Media (paints? charcoal? etc.)
-- Various Crafting (stone-crafting, wood-crafting, etc.)
-- Various Food (agriculture, butchery, foraging, hunting, trapping, etc.)
-- Taming, but not Domestication (which is genetic modification over time)
+Skills are grouped metaphorically. Two people trying to hurt each other is a
+Fight, while leading hundreds or thousands in war is more like a Craft. Groups
+have specifics to them -- Fight with a Bow is different from Fight with a
+Spear. Gathering information about your prey in a hunting conflict is different
+from Gathering sticks off the ground.
+
+=== Insight
+- When you *Hunt*, you carefully track a target.
+- When you *Gather*, you collect things or ideas from the world around you.
+- When you *Play*, you explore the edges of a space, like a game or instrument or idea.
+- When you *Refine*, you turn one substance into another more useful or beautiful.
+
+=== Prowess
+- When you *Fight*, you blatantly hurt something or someone.
+- When you *Traverse*, you make your way across a dangerous place.
+- When you *Manipulate*, you carefully and subtly change something's state or position.
+- When you *Trap*, you capture something, like a person in an argument or an animal in a snare.
+
+=== Resolve
+- When you *Craft*, you make something useful or beautiful.
+- When you *Cultivate*, you help something grow and change into something else.
+- When you *Share*, you transfer concepts, stories, or understanding to other people.
+- When you *Restore*, you take something damaged and return it to a pristine state.
 
 == Gaia
 (GM playbooks / adventure starters for various biomes)
